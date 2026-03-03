@@ -64,7 +64,6 @@
 ### Hackathon Tips — Permitting
 - UpCodes has the most developer-friendly interface for code lookups.
 - Building permit data may also appear in the Open Data Portal (see above).
-- For permit status lookups, the city uses the **OpenDSD** system at [opendsd.sandiego.gov](https://opendsd.sandiego.gov).
 
 ---
 

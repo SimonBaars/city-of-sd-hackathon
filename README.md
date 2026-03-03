@@ -46,7 +46,6 @@
 
 ### Hackathon Tips — Council Data
 - Granicus video archives can be used with speech-to-text tools (e.g., Whisper) to generate searchable transcripts.
-- Official verbatim transcripts are not published online — contact City Clerk at **(619) 533-4000** or email **cityclerk@sandiego.gov** for requests.
 - The NextRequest portal is a goldmine for FOIA-style data if you need specific documents.
 
 ---

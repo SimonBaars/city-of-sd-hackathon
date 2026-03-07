@@ -1,0 +1,2672 @@
+{
+  "name": "City of San Diego FY2026 Budget",
+  "value": 5192789032,
+  "children": [
+    {
+      "name": "Public Utilities",
+      "value": 1292779419,
+      "fund_type": "Enterprise Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 1001991202,
+          "children": [
+            {
+              "name": "Supplies",
+              "value": 346014906
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 304289174
+            },
+            {
+              "name": "Transfers Out",
+              "value": 216090228
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 71879300
+            },
+            {
+              "name": "Information Technology",
+              "value": 37968818
+            },
+            {
+              "name": "Other",
+              "value": 15979060
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 9769716
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 290788217,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 183241998
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 107546219
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Police",
+      "value": 708080238,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 614078535,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 363011448
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 251067087
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 94001703,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 45210241
+            },
+            {
+              "name": "Information Technology",
+              "value": 20811964
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 14557285
+            },
+            {
+              "name": "Supplies",
+              "value": 11207773
+            },
+            {
+              "name": "Debt",
+              "value": 1587870
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 454970
+            },
+            {
+              "name": "Other",
+              "value": 171600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fire-Rescue",
+      "value": 378439001,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 329777337,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 201191954
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 128585383
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 48661664,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 23069868
+            },
+            {
+              "name": "Information Technology",
+              "value": 7582806
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 7570240
+            },
+            {
+              "name": "Supplies",
+              "value": 5657677
+            },
+            {
+              "name": "Debt",
+              "value": 4266079
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 390775
+            },
+            {
+              "name": "Other",
+              "value": 109045
+            },
+            {
+              "name": "Transfers Out",
+              "value": 15174
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parks & Recreation",
+      "value": 273431913,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 146870938,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 80696988
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 32971904
+            },
+            {
+              "name": "Transfers Out",
+              "value": 15879751
+            },
+            {
+              "name": "Supplies",
+              "value": 7583539
+            },
+            {
+              "name": "Other",
+              "value": 5129397
+            },
+            {
+              "name": "Information Technology",
+              "value": 4240955
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 368404
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 126560975,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 77618063
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 48942912
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Environmental Services",
+      "value": 255081909,
+      "fund_type": "Enterprise Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 169486314,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 123831217
+            },
+            {
+              "name": "Transfers Out",
+              "value": 20461307
+            },
+            {
+              "name": "Information Technology",
+              "value": 10193240
+            },
+            {
+              "name": "Supplies",
+              "value": 7582279
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 6882644
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 491000
+            },
+            {
+              "name": "Other",
+              "value": 44627
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 85595595,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 54594973
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 31000622
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Citywide Other/Special Funds",
+      "value": 236229439,
+      "fund_type": "Special Revenue Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 236229439,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 161885709
+            },
+            {
+              "name": "Transfers Out",
+              "value": 73902673
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 296057
+            },
+            {
+              "name": "Supplies",
+              "value": 145000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "General Services",
+      "value": 200420360,
+      "fund_type": "Internal Service Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 163074007,
+          "children": [
+            {
+              "name": "Capital Expenditures",
+              "value": 105084198
+            },
+            {
+              "name": "Debt",
+              "value": 17912387
+            },
+            {
+              "name": "Supplies",
+              "value": 16062189
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 12872629
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 8617675
+            },
+            {
+              "name": "Information Technology",
+              "value": 2516036
+            },
+            {
+              "name": "Other",
+              "value": 8893
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 37346353,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 23975748
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 13370605
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transportation",
+      "value": 193390259,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 122292357,
+          "children": [
+            {
+              "name": "Other",
+              "value": 53217117
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 42497339
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 11210053
+            },
+            {
+              "name": "Supplies",
+              "value": 7357983
+            },
+            {
+              "name": "Information Technology",
+              "value": 4011594
+            },
+            {
+              "name": "Debt",
+              "value": 3075271
+            },
+            {
+              "name": "Transfers Out",
+              "value": 830000
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 93000
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 71097902,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 46518203
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 24579699
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Citywide Expenses",
+      "value": 182822004,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 182822004,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 101094367
+            },
+            {
+              "name": "Transfers Out",
+              "value": 76204754
+            },
+            {
+              "name": "Other",
+              "value": 4784876
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 738007
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Engineering & Capital Projects",
+      "value": 179063027,
+      "fund_type": "Special Revenue Funds",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 155815780,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 102493057
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 53322723
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 23247247,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 11149297
+            },
+            {
+              "name": "Information Technology",
+              "value": 10391224
+            },
+            {
+              "name": "Other",
+              "value": 916553
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 432393
+            },
+            {
+              "name": "Supplies",
+              "value": 357780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Development Services",
+      "value": 163748210,
+      "fund_type": "Enterprise Funds",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 139421236,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 92406623
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 47014613
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 24326974,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 12501652
+            },
+            {
+              "name": "Information Technology",
+              "value": 9889448
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 950302
+            },
+            {
+              "name": "Other",
+              "value": 675029
+            },
+            {
+              "name": "Supplies",
+              "value": 310543
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Special Promotional Programs",
+      "value": 142800720,
+      "fund_type": "Special Revenue Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 142800720,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 83352019
+            },
+            {
+              "name": "Transfers Out",
+              "value": 59448701
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Department of Information Technology",
+      "value": 137599723,
+      "fund_type": "Special Revenue Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 109294520,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 80942579
+            },
+            {
+              "name": "Information Technology",
+              "value": 26080333
+            },
+            {
+              "name": "Debt",
+              "value": 1632892
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 391452
+            },
+            {
+              "name": "Supplies",
+              "value": 242194
+            },
+            {
+              "name": "Other",
+              "value": 5070
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 28305203,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 18068130
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 10237073
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emergency Medical Services",
+      "value": 136800660,
+      "fund_type": "Special Revenue Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 128864816,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 116449407
+            },
+            {
+              "name": "Transfers Out",
+              "value": 11173266
+            },
+            {
+              "name": "Supplies",
+              "value": 508764
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 430300
+            },
+            {
+              "name": "Information Technology",
+              "value": 231681
+            },
+            {
+              "name": "Other",
+              "value": 42710
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 28688
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 7935844,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 5205243
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 2730601
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "City Attorney",
+      "value": 95321850,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 88712207,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 57008558
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 31703649
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 6609643,
+          "children": [
+            {
+              "name": "Information Technology",
+              "value": 3194459
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 2882602
+            },
+            {
+              "name": "Supplies",
+              "value": 353955
+            },
+            {
+              "name": "Other",
+              "value": 129124
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 46503
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Library",
+      "value": 71776889,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 50994382,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 29438367
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 21556015
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 20782507,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 8967813
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 4046036
+            },
+            {
+              "name": "Supplies",
+              "value": 3447126
+            },
+            {
+              "name": "Information Technology",
+              "value": 3397376
+            },
+            {
+              "name": "Transfers Out",
+              "value": 882376
+            },
+            {
+              "name": "Other",
+              "value": 41780
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stormwater",
+      "value": 71260074,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 44101562,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 29346926
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 14754636
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 27158512,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 22409760
+            },
+            {
+              "name": "Information Technology",
+              "value": 1970831
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 1704233
+            },
+            {
+              "name": "Supplies",
+              "value": 789844
+            },
+            {
+              "name": "Debt",
+              "value": 170318
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 105150
+            },
+            {
+              "name": "Other",
+              "value": 8376
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Homelessness Strategies & Solutions",
+      "value": 53227330,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 49836999,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 48070760
+            },
+            {
+              "name": "Supplies",
+              "value": 1099600
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 573569
+            },
+            {
+              "name": "Information Technology",
+              "value": 87570
+            },
+            {
+              "name": "Other",
+              "value": 5500
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 3390331,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 2324835
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 1065496
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "City Treasurer",
+      "value": 50588517,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 31547405,
+          "children": [
+            {
+              "name": "Transfers Out",
+              "value": 23231480
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 5551488
+            },
+            {
+              "name": "Information Technology",
+              "value": 2530543
+            },
+            {
+              "name": "Supplies",
+              "value": 127444
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 97950
+            },
+            {
+              "name": "Other",
+              "value": 6000
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 2500
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 19041112,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 12195019
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 6846093
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Redevelopment Agency",
+      "value": 37291002,
+      "fund_type": "Special Revenue Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 37291002,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 37281459
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 4926
+            },
+            {
+              "name": "Information Technology",
+              "value": 4617
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unknown",
+      "value": 32146116,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 18145371,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 12373456
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 5771915
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 14000745,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 12446523
+            },
+            {
+              "name": "Information Technology",
+              "value": 1367626
+            },
+            {
+              "name": "Supplies",
+              "value": 99891
+            },
+            {
+              "name": "Other",
+              "value": 51500
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 35205
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Department of Finance",
+      "value": 30607569,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 28914042,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 18423754
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 10490288
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 1693527,
+          "children": [
+            {
+              "name": "Information Technology",
+              "value": 930390
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 580846
+            },
+            {
+              "name": "Supplies",
+              "value": 101377
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 77314
+            },
+            {
+              "name": "Other",
+              "value": 3600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "City Planning",
+      "value": 28923809,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 20232415,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 13570477
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 6661938
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 8691394,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 7584826
+            },
+            {
+              "name": "Information Technology",
+              "value": 978622
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 94393
+            },
+            {
+              "name": "Supplies",
+              "value": 23178
+            },
+            {
+              "name": "Other",
+              "value": 10375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Facilities Services",
+      "value": 28778121,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 21626493,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 13713895
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 7912598
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 7151628,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 3982890
+            },
+            {
+              "name": "Supplies",
+              "value": 1909027
+            },
+            {
+              "name": "Information Technology",
+              "value": 626062
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 458412
+            },
+            {
+              "name": "Debt",
+              "value": 173637
+            },
+            {
+              "name": "Other",
+              "value": 1600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Purchasing & Contracting",
+      "value": 24058024,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 13118843,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 8481725
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 4637118
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 10939181,
+          "children": [
+            {
+              "name": "Supplies",
+              "value": 8811025
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 1040463
+            },
+            {
+              "name": "Information Technology",
+              "value": 863895
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 217759
+            },
+            {
+              "name": "Other",
+              "value": 6039
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Economic Development",
+      "value": 20481214,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 10383552,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 9524528
+            },
+            {
+              "name": "Information Technology",
+              "value": 471621
+            },
+            {
+              "name": "Contingencies",
+              "value": 245740
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 97058
+            },
+            {
+              "name": "Other",
+              "value": 41500
+            },
+            {
+              "name": "Supplies",
+              "value": 3105
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 10097662,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 6265400
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 3832262
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Risk Management",
+      "value": 20183186,
+      "fund_type": "Internal Service Funds",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 16591724,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 10531922
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 6059802
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 3591462,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 2265411
+            },
+            {
+              "name": "Information Technology",
+              "value": 1213392
+            },
+            {
+              "name": "Supplies",
+              "value": 93818
+            },
+            {
+              "name": "Other",
+              "value": 14000
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 4841
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PETCO Park",
+      "value": 19482269,
+      "fund_type": "Special Revenue Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 19482269,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 9925777
+            },
+            {
+              "name": "Transfers Out",
+              "value": 9541125
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 14431
+            },
+            {
+              "name": "Supplies",
+              "value": 936
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Personnel",
+      "value": 16477068,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 14642973,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 9471736
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 5171237
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 1834095,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 1119302
+            },
+            {
+              "name": "Information Technology",
+              "value": 631257
+            },
+            {
+              "name": "Supplies",
+              "value": 64655
+            },
+            {
+              "name": "Other",
+              "value": 11781
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 7100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "value": 11248460,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 9331214,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 6514347
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 2816867
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 1917246,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 1576989
+            },
+            {
+              "name": "Information Technology",
+              "value": 302943
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 24199
+            },
+            {
+              "name": "Supplies",
+              "value": 9515
+            },
+            {
+              "name": "Other",
+              "value": 3600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Airport Management",
+      "value": 10236459,
+      "fund_type": "Enterprise Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 6423693,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 4886936
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 890197
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 218000
+            },
+            {
+              "name": "Information Technology",
+              "value": 215158
+            },
+            {
+              "name": "Supplies",
+              "value": 206558
+            },
+            {
+              "name": "Other",
+              "value": 6000
+            },
+            {
+              "name": "Transfers Out",
+              "value": 844
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 3812766,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 2615713
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 1197053
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "City Clerk",
+      "value": 8203347,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 6699819,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 4112942
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 2586877
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 1503528,
+          "children": [
+            {
+              "name": "Information Technology",
+              "value": 757029
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 342255
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 266081
+            },
+            {
+              "name": "Supplies",
+              "value": 133402
+            },
+            {
+              "name": "Other",
+              "value": 4761
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Real Estate & Airport Management",
+      "value": 7634973,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 5643869,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 4029486
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 1614383
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 1991104,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 1546609
+            },
+            {
+              "name": "Information Technology",
+              "value": 382231
+            },
+            {
+              "name": "Supplies",
+              "value": 28793
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 26037
+            },
+            {
+              "name": "Other",
+              "value": 7434
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Communications",
+      "value": 7620893,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 7081783,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 4566052
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 2515731
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 539110,
+          "children": [
+            {
+              "name": "Information Technology",
+              "value": 353499
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 139919
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 27601
+            },
+            {
+              "name": "Supplies",
+              "value": 10091
+            },
+            {
+              "name": "Other",
+              "value": 8000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Compliance",
+      "value": 6745631,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 6338507,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 4452927
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 1885580
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 407124,
+          "children": [
+            {
+              "name": "Information Technology",
+              "value": 259588
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 129494
+            },
+            {
+              "name": "Supplies",
+              "value": 14082
+            },
+            {
+              "name": "Other",
+              "value": 2700
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 1260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Office of the City Auditor",
+      "value": 5784553,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 4949472,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 3450795
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 1498677
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 835081,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 616623
+            },
+            {
+              "name": "Information Technology",
+              "value": 203852
+            },
+            {
+              "name": "Supplies",
+              "value": 8406
+            },
+            {
+              "name": "Other",
+              "value": 6200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Performance & Analytics",
+      "value": 4920012,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 3985047,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 2856732
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 1128315
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 934965,
+          "children": [
+            {
+              "name": "Information Technology",
+              "value": 812499
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 85787
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 29029
+            },
+            {
+              "name": "Supplies",
+              "value": 4050
+            },
+            {
+              "name": "Other",
+              "value": 3600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Office of the Mayor",
+      "value": 4452996,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 3789301,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 2548946
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 1240355
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 663695,
+          "children": [
+            {
+              "name": "Information Technology",
+              "value": 283461
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 213011
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 132635
+            },
+            {
+              "name": "Supplies",
+              "value": 25009
+            },
+            {
+              "name": "Other",
+              "value": 9579
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Office of Emergency Services",
+      "value": 4362686,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 3471314,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 2289534
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 1181780
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 891372,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 455990
+            },
+            {
+              "name": "Information Technology",
+              "value": 327929
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 84086
+            },
+            {
+              "name": "Supplies",
+              "value": 20367
+            },
+            {
+              "name": "Other",
+              "value": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Concourse & Parking Garage",
+      "value": 3868537,
+      "fund_type": "Special Revenue Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 3614462,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 2637784
+            },
+            {
+              "name": "Transfers Out",
+              "value": 522866
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 388111
+            },
+            {
+              "name": "Supplies",
+              "value": 53500
+            },
+            {
+              "name": "Information Technology",
+              "value": 12201
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 254075,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 185218
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 68857
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Independent Budget Analyst",
+      "value": 3202068,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 3035824,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1883989
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 1151835
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 166244,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 96724
+            },
+            {
+              "name": "Information Technology",
+              "value": 43196
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 16919
+            },
+            {
+              "name": "Other",
+              "value": 5700
+            },
+            {
+              "name": "Supplies",
+              "value": 3705
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Council Administration",
+      "value": 2952253,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 2453870,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1800916
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 652954
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 498383,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 215367
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 157079
+            },
+            {
+              "name": "Information Technology",
+              "value": 97198
+            },
+            {
+              "name": "Supplies",
+              "value": 22139
+            },
+            {
+              "name": "Other",
+              "value": 4100
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Council District 5",
+      "value": 2457123,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 2218726,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1230924
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 987802
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 238397,
+          "children": [
+            {
+              "name": "Information Technology",
+              "value": 111236
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 71891
+            },
+            {
+              "name": "Supplies",
+              "value": 32570
+            },
+            {
+              "name": "Other",
+              "value": 15000
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 5200
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Council District 2",
+      "value": 2411003,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 2199455,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1212492
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 986963
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 211548,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 95178
+            },
+            {
+              "name": "Information Technology",
+              "value": 83564
+            },
+            {
+              "name": "Other",
+              "value": 15000
+            },
+            {
+              "name": "Supplies",
+              "value": 11406
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 3400
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Council District 3",
+      "value": 2282759,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 2069843,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1232716
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 837127
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 212916,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 99509
+            },
+            {
+              "name": "Information Technology",
+              "value": 83945
+            },
+            {
+              "name": "Other",
+              "value": 11000
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 9800
+            },
+            {
+              "name": "Supplies",
+              "value": 8662
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Council District 7",
+      "value": 2274241,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 2065967,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1233360
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 832607
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 208274,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 96700
+            },
+            {
+              "name": "Information Technology",
+              "value": 80864
+            },
+            {
+              "name": "Other",
+              "value": 15000
+            },
+            {
+              "name": "Supplies",
+              "value": 13510
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Council District 8",
+      "value": 2259269,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 2032283,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1250753
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 781530
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 226986,
+          "children": [
+            {
+              "name": "Information Technology",
+              "value": 95437
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 80406
+            },
+            {
+              "name": "Supplies",
+              "value": 28943
+            },
+            {
+              "name": "Other",
+              "value": 15000
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 5000
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Commission on Police Practices",
+      "value": 2218023,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 1826953,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1405064
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 421889
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 391070,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 221321
+            },
+            {
+              "name": "Information Technology",
+              "value": 144025
+            },
+            {
+              "name": "Supplies",
+              "value": 17921
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 5303
+            },
+            {
+              "name": "Other",
+              "value": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Council District 4",
+      "value": 2193984,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 1981179,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1239162
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 742017
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 212805,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 86935
+            },
+            {
+              "name": "Information Technology",
+              "value": 86185
+            },
+            {
+              "name": "Other",
+              "value": 21000
+            },
+            {
+              "name": "Supplies",
+              "value": 9535
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 8150
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Council District 6",
+      "value": 2175530,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 1946241,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1302733
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 643508
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 229289,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 111705
+            },
+            {
+              "name": "Information Technology",
+              "value": 98410
+            },
+            {
+              "name": "Other",
+              "value": 9447
+            },
+            {
+              "name": "Supplies",
+              "value": 4927
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 4800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Council District 1",
+      "value": 2168793,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 1959087,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1231640
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 727447
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 209706,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 90607
+            },
+            {
+              "name": "Information Technology",
+              "value": 82952
+            },
+            {
+              "name": "Other",
+              "value": 15000
+            },
+            {
+              "name": "Supplies",
+              "value": 13697
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 6450
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Publishing Services",
+      "value": 2132847,
+      "fund_type": "Internal Service Funds",
+      "children": [
+        {
+          "name": "Non-Personnel",
+          "value": 1238000,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 903101
+            },
+            {
+              "name": "Information Technology",
+              "value": 126383
+            },
+            {
+              "name": "Supplies",
+              "value": 124205
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 81032
+            },
+            {
+              "name": "Transfers Out",
+              "value": 3279
+            }
+          ]
+        },
+        {
+          "name": "Personnel",
+          "value": 894847,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 575347
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 319500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Council District 9",
+      "value": 2096216,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 1854144,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1255553
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 598591
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 242072,
+          "children": [
+            {
+              "name": "Information Technology",
+              "value": 110901
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 95121
+            },
+            {
+              "name": "Other",
+              "value": 15000
+            },
+            {
+              "name": "Supplies",
+              "value": 12150
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 5900
+            },
+            {
+              "name": "Capital Expenditures",
+              "value": 3000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ethics Commission",
+      "value": 2051749,
+      "fund_type": "General Fund",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 1809662,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1144510
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 665152
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 242087,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 176383
+            },
+            {
+              "name": "Information Technology",
+              "value": 43262
+            },
+            {
+              "name": "Other",
+              "value": 10500
+            },
+            {
+              "name": "Supplies",
+              "value": 9342
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 2600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cultural Affairs",
+      "value": 2039432,
+      "fund_type": "Special Revenue Funds",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 1277512,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 1000634
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 276878
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 761920,
+          "children": [
+            {
+              "name": "Contracts & Services",
+              "value": 541692
+            },
+            {
+              "name": "Information Technology",
+              "value": 200623
+            },
+            {
+              "name": "Supplies",
+              "value": 9505
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 5100
+            },
+            {
+              "name": "Other",
+              "value": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Special Events & Filming",
+      "value": 1505275,
+      "fund_type": "Special Revenue Funds",
+      "children": [
+        {
+          "name": "Personnel",
+          "value": 1304004,
+          "children": [
+            {
+              "name": "Personnel Cost",
+              "value": 879309
+            },
+            {
+              "name": "Fringe Benefits",
+              "value": 424695
+            }
+          ]
+        },
+        {
+          "name": "Non-Personnel",
+          "value": 201271,
+          "children": [
+            {
+              "name": "Information Technology",
+              "value": 107598
+            },
+            {
+              "name": "Contracts & Services",
+              "value": 88918
+            },
+            {
+              "name": "Energy and Utilities",
+              "value": 3600
+            },
+            {
+              "name": "Supplies",
+              "value": 1155
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

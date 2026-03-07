@@ -1,0 +1,1185 @@
+===MEETING_6805===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS SCHEDULED DURING THE MORNING MEETING
+SECTION: PROCLAMATIONS/CEREMONIAL ITEMS
+ITEMID: 253911
+ITEM: Gary Pence Day.
+ITEMID: 254162
+ITEM: Elizabeth Maland Day.
+ITEMID: 254255
+ITEM: Phyllis Minick Day.
+ITEMID: 254256
+ITEM: Bronny B’s San Carlos Neighborhood Farmer’s Market Day.
+ITEMID: 254260
+ITEM: Captain Vernon Peterson Day.
+ITEMID: 254271
+ITEM: Dr. Martin Luther King Jr. Day.
+SECTION: CONSENT ITEMS
+SECTION: APPROVAL AGENDA
+SECTION: APPROVAL OF COUNCIL MINUTES
+ITEMID: 254169
+ITEM: Approval of Council Minutes.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED:
+ITEMID: 253917
+ITEM: Third Amendment to the Consulting Agreement with Christian Moeller Studio LLC for Artist Consulting Services for Creation of an Original, Site-Specific Public Artwork for the Pure Water North City Public Art Project (H166774).
+ITEMID: 254252
+ITEM: Fifth Amendment to Agreement with Buchalter APC to Provide Continuing Legal Services as Outside Counsel.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE ADOPTED:
+ITEMID: 254140
+ITEM: California Coastal Commission Modifications to Transit Priority Area Parking Reform and Housing Action Package 2.0 San Diego Municipal Code and Local Coastal Program Amendments.
+ITEMID: 254141
+ITEM: Exemption of Hourly Council Representative I Position from Classified Service.
+ITEMID: 254142
+ITEM: Second Amendment to Cooperative Procurement Contract with Dell Marketing, L.P. for Microsoft Software, Subscriptions, and Services.
+ITEMID: 254143
+ITEM: Eleventh Amended Joint Powers Agreement Confirming the Creation of an Agency Known as Southern California Coastal Water Research Project (SCCWRP).
+ITEMID: 254144
+ITEM: Approval of an Ordinance Authorizing the Mayor or Designee to Execute the First Amendment to the As-Needed Cooperative Procurement Contract with Nokia of America Corporation for Public Safety Communications Products, Services and Solutions.
+ITEMID: 254145
+ITEM: Authorization to Enter Into and Execute a Contract with TenFore Golf to Provide Golf Course Point-of-Sale Systems and Golf Reservation Services.
+ITEMID: 254149
+ITEM: Request Authorization to Increase the Not to Exceed Value of Construction Contract (K-23-2060-DBB) with TC Construction and Authorization of Construction Change Order No. 5 for the La Media Roadway Improvements Project S15018.
+ITEMID: 254150
+ITEM: Amici Park Contribution Agreement.
+ITEMID: 254151
+ITEM: Exemption of a Program Manager Position in Environmental Services Department from the Classified Service.
+ITEMID: 254152
+ITEM: Exemption of one (1) Program Coordinator Position in the City of San Diego from Classified Service.
+ITEMID: 254153
+ITEM: Approval of Contract with Klear.ai for a Risk Management Information System (RMIS) Software as a Service (SaaS) Solution.
+ITEMID: 254154
+ITEM: Adoption of the 2025 California Fire Code, 2025 California Wildland-Urban Interface Code &amp; Associated Municipal Code Amendments.
+ITEMID: 254155
+ITEM: Exemption of a Police Commander Position and a Deputy Director Position in the Police Department from the Classified Service.
+ITEMID: 254156
+ITEM: College Area Community Plan Update and Associated Zoning Actions.
+ITEMID: 254157
+ITEM: Clairemont Community Plan Update and Associated Zoning Actions.
+ITEMID: 254158
+ITEM: Citywide Community Enhancement Overlay Zone and Removal of the Community Plan Implementation Overlay Zone for College Area and Clairemont Community Planning Areas.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 254148
+ITEM: Approval of a Fifty (50)-Year Percentage Lease with Alps Hospitality, Inc. Covering a Hotel Project on 19.27 Acres of Land Located at Montgomery-Gibbs Executive Airport, 8110 Aero Drive, San Diego, CA 92123 and Consent to a Thirty-Four (34)-Year Sublease with 8110 Aero Solar LLC for the Installation and Operation of a Solar Panel System on Approximately Two (2) Acres of Land and on the Hotel Rooftop.
+ITEMID: 253919
+ITEM: Third Amendment to Flat Rate Lease Agreement with Air Center MYF, LLC Covering 7.77 Acres at Montgomery-Gibbs Executive Airport.
+ITEMID: 253965
+ITEM: Accept and Expend Affordable Housing and Sustainable Communities Program Grant Funding for Transportation Infrastructure Improvements in the San Ysidro Community.
+ITEMID: 253913
+ITEM: FY 2026 Community Projects, Programs, and Services Funding Allocation(s) from Council District 2 to 29 Nonprofit Organizations.
+ITEMID: 253914
+ITEM: FY 2026 Community Projects, Programs, and Services Funding Allocation(s) from Council District 6 to 31 Nonprofit Organizations.
+ITEMID: 253915
+ITEM: FY 2026 Community Projects, Programs, and Services Funding Allocation(s) from Council District 8 to 28 Nonprofit Organizations.
+ITEMID: 253918
+ITEM: Settlement of Lachanae Alexis McAfee v. City of San Diego, San Diego Superior Court No. 24CU006846C, Claim No. 38395.
+ITEMID: 253964
+ITEM: Appointment to the San Diego County Water Authority Board of Directors.
+ITEMID: 254064
+ITEM: Declaring a Continued State of Emergency Regarding Raw Sewage, Solid Waste, and Sediment Coming from Tijuana, Mexico.
+ITEMID: 254248
+ITEM: FY 2026 Community Projects, Programs, and Services Funding Allocations from Council District 1 to 21 Nonprofit Organizations.
+ITEMID: 254249
+ITEM: FY 2026 Community Projects, Programs, and Services Funding Allocations from Council District 5 to 21 Nonprofit Organizations.
+ITEMID: 254250
+ITEM: FY 2026 Community Projects, Programs, and Services Funding Allocation from Council District 9 to the Chicano Federation of San Diego County, Inc. for the Community Bridge Initiative (CD9).
+ITEMID: 254251
+ITEM: Appointment to the Citizens&#39; Equal Opportunity Commission.
+ITEMID: 254254
+ITEM: Appointment of Alternates to the San Dieguito River Park Joint Powers Authority Board of Directors and the North County Transit District Directors Board of Directors for Calendar Year 2026.
+ITEMID: 254270
+ITEM: Reappointments to the Commission for Arts and Culture.
+ITEMID: 254269
+ITEM: Ratification of Mayor’s Proclamation of a Local Emergency Due to January 1, 2026 Winter Storm.
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: SPECIAL ORDER OF BUSINESS
+SECTION: ITEMS PULLED FROM CONSENT BY COUNCILMEMBERS
+SECTION: INFORMATIONAL AND ADOPTION AGENDA ITEMS (10AM SESSION)
+SECTION: ADOPTION AGENDA
+SECTION: 10AM DISCUSSION, RESOLUTION TO BE ADOPTED:
+ITEMID: 253916
+ITEM: Recognized Obligation Payment Schedule for Fiscal Year 2026-2027.
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: TUESDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS TRAILED FROM MORNING OR ITEMS SCHEDULED FOR AFTERNOON SESSION
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, ORDINANCES TO BE INTRODUCED:
+ITEMID: 254163
+ITEM: Clarifying Ordinance for Measure C Approved by Voters March 2020.
+ITEMID: 254227
+ITEM: Amendments to the San Diego Municipal Code to Establish the Homelessness Revenue Account Citizens Oversight Committee.
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 254253
+ITEM: Resolution Establishing a Temporary Rule of Council to Amend Rule 6.1.3 of the Rules of Council.
+ITEMID: 254272
+ITEM: Resolution Affirming the City of San Diego’s Opposition to Proposed Oil and Gas Leases in Federal Waters.
+SECTION: NON-AGENDA ITEMS
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+R CITY COUNCIL MEETING RESULTS SUMMARY DATE: TUESDAY, JANUARY 13, 2026, COUNCIL MEETING RECORDER: PATTERSON This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316569Motion/SecondVOTEO2203130ApprovedProclaiming January 16, 2026, to be “Gary Pence Day” 1/9Unanimous; 7-not present31ApprovedProclaiming January 13, 2026, to be “Elizabeth Maland Day” 1/9Unanimous; 7-not presentS508ApprovedProclaiming January 26, 2026, to be “Phyllis Minick Day” 1/9Unanimous; 7-not presentS509ApprovedProclaiming January 25, 2026, to be “Bronny B’s San Carlos Neighborhood Farmer’s Market Day” 1/9Unanimous; 7-not presentS510ApprovedProclaiming January 2, 2026, to be “Captain Vernon Peterson Day” 1/9Unanimous; 7-not presentS511ApprovedProclaiming January 15, 2026, to be “Dr. Martin Luther King Jr. Day” 1/9Unanimous; 7-not present10A-N ApprovedApproving the City Council Minutes of:Subitem A: 10/13/2025 Adj;Subitem B: 10/14/2025 Adj;Subitem C: 10/20/2025;Subitem D: 10/21/2025;Subitem E: 10/27/2025;Subitem F: 10/28/2025;Subitem G: 11/03/2025;Subitem H: 11/04/2025;Subitem I: 11/10/2025 Adj;Subitem J: 11/11/2025 Adj;Subitem K: 11/17/2025 Special;Subitem L: 11/18/2025;Subitem M: 11/24/2025 Adj;Subitem N: 11/25/2025 Adj 3/8Unanimous; 7-not present50Introduced (O-2026-26)Executing the Third Amendment to the Contract with Christian Moeller Studio LLC, to increase the amount and extend the Contract in connection with the Pure Water North City Public Art Project(NOTE: 6 votes required)I 3/81234689-yea; 5-nay; 7-not present51Adopted (O-2026-49)Amending Chap 14, Art 2, Div 5 of the SDMC relating to accepting the California Coastal Commission’s modifications for certification of the Homes for All of Us: Housing Action Package 2.0 Land Development Code amendmentO220313/8Unanimous; 7-not present52Adopted (O-2026-46)Authorizing the exemption of a Council Representative I position assigned to the Council District 7 Office from the Classified ServiceO220323/8Unanimous; 7-not present53Adopted (O-2026-44)Executing the Second Amendment to the Cooperative Procurement Contract with Dell Marketing, L.P., for the acquisition of Microsoft Software, Subscriptions and Services(NOTE: 6 votes required)O220333/8Unanimous; 7-not present54Adopted (O-2026-45)Executing the Eleventh Amended Joint Powers Agreement confirming the creation of the SCCWRP, with the City of Los Angeles, Orange County Sanitation District, and the County Sanitation District No. 2 of Los Angeles County(NOTE: 6 votes required)O220343/8Unanimous; 7-not present55Adopted (O-2026-52)Executing Amendment No. 1 to the Cooperative Contract with Nokia of America Corporation, extending the Contract for as-needed public safety communications products, services and solutions(NOTE: 6 votes required)O220353/8Unanimous; 7-not present56Adopted (O-2026-53)Executing a contract with TenFore Golf, Inc. to provide golf course point-of-sale systems and golf reservation services(NOTE: 6 votes required)O220363/8Unanimous; 7-not present57Adopted (O-2026-58)Authorizing the amount of Construction Contract K-23-2060-DBB-3, La Media Road Improvements Project, with TC Construction, Inc. to be increased and approving Change Order No. 5(NOTE: 6 votes required)O220373/8Unanimous; 7-not present58Adopted (O-2026-57)Approving a contribution agreement with Little Italy Association for improvements to Amici Park in the Downtown Community Planning Area(NOTE: 6 votes required)O220383/8Unanimous; 7-not present59Adopted (O-2026-60)Authorizing the exemption of a Program Manager position in the City’s Environmental Services Department from the Classified ServiceO220393/8Unanimous; 7-not present60Adopted (O-2026-59)Authorizing the exemption of a Program Coordinator position in the City’s Environmental Services Department from the Classified ServiceO220403/8Unanimous; 7-not present61Adopted (O-2026-63)Entering into an Agreement with Klear.ai to provide Risk Management Information System software as a service(NOTE: 6 votes required)O220413/8Unanimous; 7-not present62AAdopted (O-2026-64 Cor. Copy 3)Amending Chap 5 of the SDMC relating to the adoption of the 2025 California Wildland-Urban Interface Code and creation of the San Diego Wildland-Urban Interface CodeO220423/8Unanimous; 7-not present62BAdopted (O-2026-65 Cor. Copy 2)Amending Chap 5, Art 11, of the SDMC relating to fire regulations and the adoption of the 2025 California Fire CodeO220433/8Unanimous; 7-not present63Adopted (O-2026-61)Authorizing the exemption of a Police Commander position and a Deputy Director position in the Police Department from the Classified ServiceO220443/812356-yea; 489-nay; 7-not present(Moreno seconded the consent agenda, but voted nay on Item 63.)64Adopted (O-2026-24)Approving rezoning lands within the College Area Community Plan Area, consistent with the College Area CPU ProjectO220453/8Unanimous; 7-not present65CAdopted (O-2026-34)Amending the Morena Corridor Specific Plan in the Clairemont Mesa Community Plan Area; and amending Ordinance No. O-21122 adopted September 12, 2019O220463/82345689-yea; 1-nay; 7-not present65DAdopted (O-2026-36)Amending the Balboa Avenue Station Area Specific Plan in the Clairemont Mesa Community Plan Area; and amending Ordinance No. O-21120, adopted September 12, 2019O220473/82345689-yea; 1-nay; 7-not present65EAdopted (O-2026-35 Cor. Copy)Rezoning 8,539 acres located within the Clairemont Community Plan Area to multiple Zones; and repealing Ordinance No. O-19419 (New Series) adopted October 10, 2005, and Ordinance No. O-20087 (New Series) adopted September 12, 2011O220483/82345689-yea; 1-nay; 7-not present65FAdopted (O-2026-47)Amending Chap 13, Art 2, Div 13 of the SDMC relating to the Clairemont Community Plan UpdateO220493/82345689-yea; 1-nay; 7-not present66Adopted (O-2026-48 Cor. Copy)Amending Chap 11, Art 3, Div 1 of the SDMC relating to the Clairemont and College Area Community Plan Updates(NOTE: 6 votes required)O220503/8Unanimous; 7-not present100AAdopted (R-2026-193)Declaring an exemption from CEQA for the approval of a 50-year percentage lease with Alps Hospitality, Inc. for the lease of City-owned property located at Montgomery-Gibbs Executive Airport for the operation of a hotel and consent to a 34-year sublease with 8110 Aero Solar LLC for the installation and operation of a solar panel system on the propertyR3165693/8Unanimous; 7-not present100BAdopted (R-2026-194)Approving and authorizing execution of a 50-year percentage lease with Alps Hospitality, Inc. for City-owned property located at Montgomery-Gibbs Executive Airport for the operation of a hotel and consent to a 34-year sublease with 8110 Aero Solar LLC for the installation and operation of a solar panel system on the propertyR3165703/8Unanimous; 7-not present101Adopted (R-2026-189)Approving the Third Amendment to the Flat Rate Lease with Air Center MYF, LLC, for Land located at Montgomery-Gibbs Executive AirportR3165713/8Unanimous; 7-not present102AAdopted (R-2026-246 Cor. Copy)Declaring an exemption from CEQA for accepting AHSC Round 8 Grant Funding for transportation infrastructure improvements at locations in San YsidroR3165723/8Unanimous; 7-not present102BAdopted (R-2026-245)Accepting AHSC Round 8 Grant Funding for transportation infrastructure improvements at locations in San YsidroR3165733/8Unanimous; 7-not present103AAdopted (R-2026-226)Declaring an exemption from CEQA for the approval of FY 2026 CPPS funding allocations recommended by Council District 2 to certain nonprofit organizationsR3165743/8Unanimous; 7-not present103BAdopted (R-2026-224)Approving FY 2026 CPPS funding allocations recommended by Council District 2 to 29 nonprofit organizationsR3165753/8Unanimous; 7-not present104Adopted (R-2026-230)Approving FY 2026 CPPS funding allocations recommended by Council District 6 to 31 nonprofit organizationsR3165763/8Unanimous; 7-not present105Adopted (R-2026-225 Cor. Copy)Approving FY 2026 CPPS funding allocations recommended by Council District 8 to 28 nonprofit organizationsR3165773/8Unanimous; 7-not present106Adopted (R-2026-220)Authorizing the settlement of Lachanae Alexis McAfee related to a claim of alleged employment discrimination, harassment and retaliationR3165783/8Unanimous; 7-not present107Adopted (R-2026-244)Confirming the appointment to the San Diego County Water Authority Board of DirectorsR3165793/8Unanimous; 7-not present108Adopted (R-2026-84)Declaring a Continued State of Emergency Regarding Raw Sewage, Solid Waste, and Sediment Coming from Tijuana, MexicoR3165803/8Unanimous; 7-not presentS500Introduced (O-2026-62 Cor. Copy)Authorizing the fifth amendment to the legal services agreement with Buchalter APC(NOTE: 6 votes required)I 3/8Unanimous; 7-not presentS501Adopted (R-2026-251)Approving FY 2026 CPPS funding allocations recommended by Council District 1 to 21 nonprofit organizationsR3165813/8Unanimous; 7-not presentS502AAdopted (R-2026-248)Declaring an exemption from CEQA for the approval of FY 2026 CPPS funding allocations recommended by Council District 5 to certain nonprofit organizationsR3165823/8Unanimous; 7-not presentS502BAdopted (R-2026-249)Approving Fiscal Year 2026 CPPS funding allocations recommended by Council District 5 to 21 nonprofit organizationsR3165833/8Unanimous; 7-not presentS503Adopted (R-2026-242)Approving FY 2026 CPPS funding allocations recommended by Council District 9 to the Chicano Federation of San Diego, Inc., a nonprofit organizationR3165843/8Unanimous; 7-not presentS504Adopted (R-2026-252)Confirming the appointment to the Citizens' Equal Opportunity CommissionR3165853/8Unanimous; 7-not presentS505Adopted (R-2026-254)Confirming the appointment to the San Dieguito River Valley Regional Open Space Park Board and to the North County Transit Board of Directors for calendar year 2026R3165863/8Unanimous; 7-not presentS512Adopted (R-2026-265)Confirming the reappointments to the Commission for Arts and CultureR3165873/8Unanimous; 7-not presentS513Adopted (R-2026-272)Ratifying the Mayor's January 7, 2026, proclamation of a local emergency regarding the January 1, 2026, severe winter stormR3165883/8Unanimous; 7-not present330Adopted (R-2026-236)Approving the Successor Agency's twentieth Recognized Obligation Payment Schedule for July 1, 2026, through June 30, 2027R3165893/1Unanimous; 78-not present331Introduced (O-2026-69)Amending Chap 3, Art 5, Div 2 of the SDMC relating to an increase in the transient occupancy tax for specified purposes and the issuance of associated bondsI 3/2Unanimous; 7-not presentS506Introduced (O-2026-68)Amending Chap 2, Art 6, of the SDMC by adding new Division 24 related to the creation of a citizens oversight committee for transient occupancy tax revenue for homelessness programsI 2/3Unanimous; 7-not presentS507Adopted (R-2026-256)Establishing a temporary rule amending Rule 6.1.3 of the Rules of Council relating to annual work plans for standing Council Committees(NOTE: Not subject to Mayor’s veto)R3165902/9Unanimous; 57-not presentS514Adopted (R-2026-255)Affirming the City of San Diego's opposition to proposed oil and gas leases in federal watersR3165911/9Unanimous; 57-not present QUITQ *COMMENTS Non-Agenda Public Comment: PC-1: Bob Kuczewski commented on Torrey Pines Gliderport. PC-2: Danna Givot commented on Community Planning Groups and Community Planners Committee’s. PC-3 (virtual): Becky Rapp commented on marijuana exposure during brain development. PC-4 (virtual): Madison Rapp commented on smoke-free multi-unit housing. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: City Clerk Fuentes announced the next two upcoming Community Listening Sessions, part of her office’s ongoing effort to connect with residents and gather feedback in person and through our public engagement survey. She asked everyone to join us on Tuesday, January 20, 2026, at 5:30 p.m. at the Pacific Highlands Ranch Library, or on Thursday, February 19, 2026, at 5:30 p.m. at the Tierrasanta Recreation Center. City Clerk Fuentes mentioned these upcoming sessions will be held in person and on Zoom at sandiego.gov/listening. She stated this Clerk does travel so if any community group would like us to attend, please reach out to us at cityclerk@sandiego.gov. Otherwise, please visit sandiego.gov/cityclerk to take the survey and stay informed. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 2:50 p.m. 
+
+===MEETING_6751===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS SCHEDULED DURING THE MORNING MEETING
+SECTION: PROCLAMATIONS/CEREMONIAL ITEMS
+ITEMID: 252570
+ITEM: Native American Heritage Month.
+ITEMID: 252571
+ITEM: Transgender Day of Remembrance.
+ITEMID: 252572
+ITEM: United Association Local Union 230 125th Anniversary Day.
+ITEMID: 252827
+ITEM: Peter Chu Day.
+ITEMID: 252828
+ITEM: San Diego Squared (SD2) 5th Anniversary Day.
+ITEMID: 252829
+ITEM: Khmer Refugees of San Diego Month.
+ITEMID: 252830
+ITEM: Alzheimer’s San Diego 10th Anniversary Day.
+SECTION: CONSENT ITEMS
+SECTION: APPROVAL AGENDA
+SECTION: APPROVAL OF COUNCIL MINUTES
+ITEMID: 252687
+ITEM: Approval of Council Minutes.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED:
+ITEMID: 252574
+ITEM: Time Extension of Construction Contract (K-17-1456-DBB-3) with Steve P. Rados, Inc., and 5th Amendment to Consultant Agreement (H115417) with Lee and Ro Inc. for the Pump Station 2 Power Reliability &amp; Surge Protection Project.
+ITEMID: 252583
+ITEM: Time Extension of Construction Contract (K-20-1914-EMR-3) with Otis Elevator Company, and Authorization of Construction Change Order No. 4 for the Civic Center Plaza Elevator Emergency Modernization Project.
+ITEMID: 252597
+ITEM: Request for an Extension of the Construction Contract # K-20-1911-DBB-3 with Burtech Pipeline Incorporated for the Construction of the Balboa Park Pipeline Phase III Project.
+ITEMID: 252831
+ITEM: Second Amendment to Agreement with Hugo Parker, LLP to Provide Continuing Legal Services for Cadena v. City of San Diego.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE ADOPTED:
+ITEMID: 252604
+ITEM: First Amendment to the Consulting Agreement with Parkeology LLC, Formerly Katherine Clark, for Artist Consulting Services for Creation of an Original, Site-Specific Public Artwork for Mira Mesa Community Park Public Art Project Phase II (H197094).
+ITEMID: 252606
+ITEM: Fourth Amendment to the Agreement Between the City of San Diego and SAP Public Services, Inc. for Software Licensing, Maintenance, Support, and Technical Advisory Services Related to the SAP Systems of the City of San Diego.
+ITEMID: 252607
+ITEM: First Amendment to the Contract Between the City of San Diego and Neptune Software for Licensing, Maintenance, and As-Needed Support and Technical Advisory Services Related to the City’s Mobile Work Management Application Known as BlueWorx.
+ITEMID: 252608
+ITEM: Master Lease Agreements to (i) Finance General Fund Vehicles and Equipment and (ii) Finance Solid Waste Management Fund Refuse and Recycling Bins
+ITEMID: 252725
+ITEM: Second Amendment to Contract 10089693-21-S, Electronic Filing System
+ITEMID: 252726
+ITEM: Exemption of Council Representative Position in Council District 9 from Classified Service.
+ITEMID: 252727
+ITEM: Contract Extension with Ace Parking for Balboa Park Tram Services.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 252596
+ITEM: First Amendment to the Cooperative Contract Between the City of San Diego and Motorola Solutions, Inc. for 60000024-25-E, RMS Mobile Records Management System.
+ITEMID: 252595
+ITEM: Reimbursement Agreement Between City and SANDAG for Construction of Imperial Avenue Bikeway Pavement Repair Project.
+ITEMID: 252573
+ITEM: Award a Consultant Agreement (H2526563-M) with Kleinfelder, Inc. for the Purpose of Providing Design and Construction Support Services for the Cielo &amp; Woodman Pump Station Project.
+ITEMID: 252688
+ITEM: Request for Authorization to Apply for, Accept, and Expend the 2024 Local Partnership Program (LPP) Grant for the Streamview Drive Phase 2 Improvements Project (S-18000), and Transferring Surplus Funding to Transportation Infrastructure Projects.
+ITEMID: 252605
+ITEM: Resolution Authorizing Regular Rate Overtime Compensation for Out-of-Jurisdiction Emergency Deployments with Reimbursable Personnel Costs.
+ITEMID: 252689
+ITEM: Resolution Appointing the City’s Management Team for Purposes of Meeting and Conferring with the City’s Recognized Employee Organizations.
+ITEMID: 252690
+ITEM: Agreement Between the City of San Diego and the American Federation of State, County and Municipal Employees Local 127 to Amend Article 33 and Exhibit C of the Memorandum of Understanding Related to Corporate Apparel for Pure Water Operations Division Employees in the Public Utilities Department.
+ITEMID: 252691
+ITEM: Agreements Between the City of San Diego and the San Diego Municipal Employees Association to Amend Articles 43 and 79 of the Memorandum of Understanding Related to Corporate Apparel for Designated Classifications in the Public Utilities Department and Voluntary Certification Pay.
+ITEMID: 252593
+ITEM: Settlement of Amy Alexander v. City of San Diego, San Diego Superior Court Case No. 37-2024-00019005-CU-PO-CTL, Claim No. 35210.
+ITEMID: 252594
+ITEM: Settlement of Ali Polidori v. City of San Diego, et al., San Diego Superior Court No. 24CU001477C, Claim No. 35441.
+ITEMID: 252728
+ITEM: Declaring a Continued State of Emergency Regarding Raw Sewage, Solid Waste, and Sediment Coming from Tijuana, Mexico.
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: SPECIAL ORDERS OF BUSINESS
+SECTION: ITEMS PULLED FROM CONSENT BY COUNCILMEMBERS
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: TUESDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS TRAILED FROM MORNING OR ITEMS SCHEDULED FOR AFTERNOON SESSION
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, ORDINANCES TO BE INTRODUCED:
+ITEMID: 252692
+ITEM: Authorization for the Public Facilities Financing Authority of the City of San Diego Sewer Revenue Bonds.
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 252724
+ITEM: FY 2027 City Council Budget Priorities
+ITEMID: 252846
+ITEM: Update to Balboa Park Paid Parking User Fees for Special Event and Parking Passes
+SECTION: PUBLIC NOTICES
+SECTION: PUBLIC NOTICES
+SECTION: PUBLIC NOTICES
+ITEMID: 252755
+ITEM: Submission of Ballot Proposals for the June 2, 2026 Ballot.
+ITEMID: 252404
+ITEM: Approval of the Final Map “PACIFIC BEACH DRIVE TOWNHOMES”.
+SECTION: NON-AGENDA ITEMS
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+R CITY COUNCIL MEETING RESULTS SUMMARY DATE: TUESDAY, NOVEMBER 18, 2025, COUNCIL MEETING RECORDER: PATTERSON This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316507Motion/SecondVOTEO2201430ApprovedProclaiming November 2025 to be “Native American Heritage Month” 6/2Unanimous; 45-not present31ApprovedProclaiming November 20, 2025, to be “Transgender Day of Remembrance” 6/2Unanimous; 45-not present32ApprovedProclaiming November 6, 2025, to be “United Association Local Union 230 125th Anniversary Day” 6/2Unanimous; 45-not presentS500ApprovedProclaiming October 19, 2025, to be “Peter Chu Day” 6/2Unanimous; 45-not presentS501ApprovedProclaiming October 13, 2025, to be “San Diego Squared (SD2) 5th Anniversary Day" 6/2Unanimous; 45-not presentS502ApprovedProclaiming November 2025 to be “Khmer Refugees of San Diego Month” 6/2Unanimous; 45-not presentS503ApprovedProclaiming December 3, 2025, to be “Alzheimer’s San Diego 10th Anniversary Day” 6/2Unanimous; 45-not present10A-D ApprovedApproving the City Council Minutes of:Subitem A: 09/15/2025;Subitem B: 09/16/2025;Subitem C: 09/22/2025 Special;Subitem D: 09/23/2025 Adjourned 7/8Unanimous; 45-not present50AIntroduced (O-2026-38)Authorizing the obligations of contract K-17-1456-DBB-3 with Steve P. Rados, Inc. for construction of the Pump Station 2 Power Reliability and Surge Protection project(NOTE: 6 votes required)I 7/8Unanimous; 45-not present50BIntroduced (O-2026-37)Authorizing a fifth amendment to consultant contract H115417 with Lee And Ro, Inc. for continued construction support services for the Pump Station 2 Power Reliability and Surge Protection project(NOTE: 6 votes required)I 7/8Unanimous; 45-not present51Introduced (O-2026-42)Authorizing the obligations of Construction Contract K-20-1914-EMR-3, Civic Center Plaza Elevator Emergency Modernization Project, with Otis Elevator Company(NOTE: 6 votes required)I 7/8Unanimous; 45-not present52Introduced (O-2026-31)Authorizing the extension of the obligations of construction contract K-20-1911-DBB-3 with Burtech Pipeline Incorporated for construction of the Balboa Park Pipeline Phase III Project(NOTE: 6 votes required)I 7/8Unanimous; 45-not present53Adopted (O-2026-15)Executing the First Amendment to the Contract with Parkeology LLC (formerly Katherine Clark)(NOTE: 6 votes required)O220147/8Unanimous; 45-not present54Adopted (O-2026-29)Executing the Fourth Amendment to the Agreement with SAP Public Services, Inc., for software licensing, maintenance, as-needed support and technical advisory services(NOTE: 6 votes required)O220157/8Unanimous; 45-not present55Adopted (O-2026-30)Executing the First Amendment to the Contract with Neptune Software US, Inc. for licensing, maintenance and as-needed support and technical advisory services(NOTE: 6 votes required)O220167/8Unanimous; 45-not present56AAdopted (O-2026-27 Cor. Copy 2)Approving the CoSD’s Master Lease Agreement with Banc of America Public Capital Corp for the purpose of financing the acquisition of General Fund vehicles and equipment and Solid Waste Management Fund refuse and recycling bins(NOTE: 6 votes required)O220177/8123679-yea; 8-nay; 45-not present(Moreno seconded the consent agenda, but voted nay on Item 56A.)56BAdopted (O-2026-40 Cor. Copy)Approving the CoSD’s Master Lease Agreement with Banc of America Public Capital Corp for the purpose of financing the acquisition of Solid Waste Management Fund refuse and recycling bins(NOTE: 6 votes required)O220187/8123689-yea; 7-nay; 45-not present(Campillo moved the consent agenda, but voted nay on Item 56B.)57Adopted (O-2026-39)Approving the Second Amendment to a Contract with Pasadena Consulting Group LLC for electronic filing system for California Fair Political Practices Commission forms(NOTE: 6 votes required)O220197/8Unanimous; 45-not present58Adopted (O-2026-33)Authorizing the exemption of a Council Representative I position assigned to the Council District 9 Office from the Classified ServiceO220207/8Unanimous; 45-not present59Adopted (O-2026-41)Executing a Second Amendment to the Contract with Ace Parking III, LLC, to allow the City to use the Contract beyond five years, increase the amount, and modify the Contract, for Balboa Park Tram Services(NOTE: 6 votes required)O220217/8Unanimous; 45-not present100Adopted (R-2026-179)Executing the First Amendment to the Cooperative Agreement with Motorola Solutions, Inc. for a 60000024-25-E, RMS Mobile Records Management System to increase the contract amountR3165077/8Unanimous; 45-not present101Adopted (R-2026-178)Entering into a Reimbursement Agreement with SANDAG related to the Imperial Avenue Bikeway Pavement Repair projectR3165087/8Unanimous; 45-not present102AAdopted (R-2026-199)Declaring an exemption from CEQA for the approval of the consultant agreement with Kleinfelder, Inc. for the purpose of providing design and construction support services for the Cielo & Woodman Pump Station projectR3165097/8Unanimous; 45-not present102BAdopted (R-2026-170)Entering into a Consultant Agreement with Kleinfelder, Inc. to provide design and construction support services for the Cielo & Woodman Pump Station projectR3165107/8Unanimous; 45-not present103aAdopted (R-2026-182)Declaring an exemption from CEQA for authorizing the acceptance, appropriation, and expenditures in 2024 Local Partnership Program grant funding in support of the Streamview Drive Phase 2 Improvements ProjectsR3165117/8Unanimous; 45-not present103BAdopted (R-2026-181)Making applications to California Transportation Commission and take all necessary actions to secure funding in Fund CIP S18000 for the Streamview Drive Phase 2 Improvements ProjectR3165127/8Unanimous; 45-not present104Adopted (R-2026-146)Authorizing payment of regular rate overtime for certain salaried unrepresented employees to facilitate the Fire-Rescue Department seeking full reimbursement for personnel expenses for out-of-jurisdiction emergency responsesR3165137/8Unanimous; 45-not present105Adopted (R-2026-183 Cor. Copy 2)Designating the CoSd’s management team for labor negotiations with the City's recognized employee organizationsR3165147/8Unanimous; 45-not present106Adopted (R-2026-185)Approving an Agreement with the American Federation of State, County, and Municipal Employees - Local 127, to amend Article 33 and Exhibit C of the Memorandum of Understanding related to corporate apparel for Pure Water Operations Division employees(NOTE: 6 votes required)R3165157/8Unanimous; 45-not present107AAdopted (R-2026-186)Approving an Agreement with the SDMEA to amend Article 43 of the MOU related to corporate apparel for designated classifications in the Public Utilities Department(NOTE: 6 votes required)R3165167/8Unanimous; 45-not present107BAdopted (R-2026-187)Approving an Agreement with the SDMEA to amend Article 79 of the MOU related to voluntary certification pay(NOTE: 6 votes required)R3165177/8Unanimous; 45-not present108Adopted (R-2026-162)Authorizing the settlement of Amy Alexander related to a claim of personal injuriesR3165187/8Unanimous; 45-not present109Adopted (R-2026-135)Authorizing the settlement of Ali Polidori related to a claim of personal injuriesR3165197/8Unanimous; 45-not present110Adopted (R-2026-83)Declaring a Continued State of Emergency Regarding Raw Sewage, Solid Waste, and Sediment Coming from Tijuana, MexicoR3165207/8Unanimous; 45-not presentS504Introduced (O-2026-32)Authorizing the second amendment to the legal services agreement with Hugo Parker, LLP(NOTE: 6 votes required)I 7/8Unanimous; 45-not present330&FA-1Introduced (O-2026-43)Approving the forms and authorizing the execution and delivery of one or more supplemental indentures, supplements to master installment purchase agreement, bond purchase agreements, escrow agreements and continuing disclosure certificates; and approving and authorizing the issuance and sale by the PFFA of the CoSD of one or more series of its senior or subordinated 2026 sewer revenue bonds(NOTE: 6 votes required)I 4/6Unanimous; 2-not present331Adopted (R-2026-140)Accepting the IBA’s FY 2027 Report on City Council Budget Priorities and directing that the report, along with Councilmember Budget Priority Memoranda, be sent to the Mayor's Office for consideration in preparing the FY 2027 Budget(NOTE: Not subject to Mayor’s veto)R3165214/8Unanimous; 2-not presentS505Adopted (R-2026-184)Authorizing FY 2026 Parks and Recreation User fee revisionsR3165221/2124569-yea; 378-nayS506This item was removed from the Agenda QUITQ *COMMENTS Non-Agenda Public Comment: PC-1: Paul Emus commented on crisis in the cove. PC-2: Robyn Davidoff commented on crisis in the cove. PC-3: Blair Beekman commented on ALPR’s. PC-4: Paul Krueger commented on Midway Rising. PC-5 (virtual): Becky Rapp commented on drugs impact on brain development; and normalization of substance use driven by misinformation. PC-6 (virtual): Ernie Casco commented on Torrey Pines Gliderport. PC-7 (virtual): John Stump commented on Closed Session results; and affordability. PC-8 (virtual): Kelly McCormick commented on use of nicotine vaping products. PC-9 (virtual): Katheryn Rhodes commented on overnight parking for homeless at Barraks; and include online travel agencies as hotel operators thru a public vote. PC-10 (virtual): Peggy Walker commented on state ban on Kratom and 7-OH. PC-11 (virtual): Bob Kuczewski commented on Torrey Pines Gliderport. PC-12 (virtual): Unknown caller commented on youth exposure to drugs. PC-13 (virtual): Madison commented on Lung Cancer awareness. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: CC-1: Councilmember Campillo noted for the record his no vote on the appeal regarding the height limit in the coastal zone as related to the ballot measure from 2022. He expressed he did not think there was a high likelihood that the City would overcome the lawsuit. Councilmember Campillo added it seems that there are other avenues to construct the project, and the appeal would not be necessary. He thanked Council for allowing him to place his position on the record. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 5:00 p.m. 
+
+===MEETING_6781===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS SCHEDULED DURING THE MORNING MEETING
+SECTION: PROCLAMATIONS/CEREMONIAL ITEMS
+ITEMID: 253220
+ITEM: Lao American Refugees Remembrance Day.
+ITEMID: 253218
+ITEM: Southwestern Yacht Club Centennial Anniversary Day.
+ITEMID: 253219
+ITEM: Hillcrest Youth Center 25th Anniversary Day.
+ITEMID: 253539
+ITEM: Officer Carlos Lacarra Retirement Day.
+SECTION: CONSENT ITEMS
+SECTION: APPROVAL AGENDA
+SECTION: APPROVAL OF COUNCIL MINUTES
+ITEMID: 253236
+ITEM: Approval of Council Minutes.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED:
+ITEMID: 253140
+ITEM: Exemption of Hourly Council Representative I Position from Classified Service.
+ITEMID: 253145
+ITEM: Second Amendment to Cooperative Procurement Contract with Dell Marketing, L.P. for Microsoft Software, Subscriptions, and Services.
+ITEMID: 253147
+ITEM: Eleventh Amended Joint Powers Agreement Confirming the Creation of an Agency Known as Southern California Coastal Water Research Project (SCCWRP).
+ITEMID: 253228
+ITEM: Approval of an Ordinance Authorizing the Mayor or Designee to Execute the First Amendment to the As-Needed Cooperative Procurement Contract with Nokia of America Corporation for Public Safety Communications Products, Services and Solutions.
+ITEMID: 253224
+ITEM: Authorization to Enter Into and Execute a Contract with TenFore Golf to Provide Golf Course Point-of-Sale Systems and Golf Reservation Services.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE ADOPTED:
+ITEMID: 253149
+ITEM: Authorization for the Public Facilities Financing Authority of the City of San Diego Sewer Revenue Bonds.
+ITEMID: 253150
+ITEM: Second Amendment to Agreement with Hugo Parker, LLP to Provide Continuing Legal Services for Cadena v. City of San Diego.
+ITEMID: 253151
+ITEM: Request for an Extension of the Construction Contract # K-20-1911-DBB-3 with Burtech Pipeline Incorporated for the Construction of the Balboa Park Pipeline Phase III Project.
+ITEMID: 253152
+ITEM: Time Extension of Construction Contract (K-20-1914-EMR-3) with Otis Elevator Company, and Authorization of Construction Change Order No. 4 for the Civic Center Plaza Elevator Emergency Modernization Project.
+ITEMID: 253153
+ITEM: Time Extension of Construction Contract (K-17-1456-DBB-3) with Steve P. Rados, Inc., and 5th Amendment to Consultant Agreement (H115417) with Lee and Ro Inc. for the Pump Station 2 Power Reliability &amp; Surge Protection Project.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED WITH RESOLUTIONS TO BE ADOPTED:
+ITEMID: 253232
+ITEM: Amendments to Chapter 2, Article 7, Divisions 1, 2, 3, 4, 6, 7, 8, and 9 of the San Diego Municipal Code and the City Clerk Administrative Guidelines all Related to Elections.
+ITEMID: 254167
+ITEM: Amendments to Chapter 2, Article 7, Divisions 1, 2, 3, 4, 6, 7, 8, and 9 of the San Diego Municipal Code and the City Clerk Administrative Guidelines All Related to Elections.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 253139
+ITEM: Authorization for the City Attorney to Retain Nixon Peabody LLP as General Outside Disclosure Counsel.
+ITEMID: 253141
+ITEM: Settlement of L.J., a Minor, by and Through his Guardian ad Litem Karyn Jones, an Individual v. Poway Unified School District, et al., San Diego Superior Court No. 37-2020-00021789-CU-CR-NC, Claim No. 22625.
+ITEMID: 253142
+ITEM: Settlement of Pre-Litigation Claim of John O. Wood, Risk Claim File No. 39672.
+ITEMID: 253143
+ITEM: Settlement of Peggy Wilson v. City of San Diego, San Diego Superior Court No. 37-2024-00028982-CU-PO-CTL, Claim No. 30983.
+ITEMID: 253144
+ITEM: Settlement of Susan Baker v. City of San Diego, San Diego Superior Court No: 37-2023-00028707-CU-PO-CTL, Claim No. 33197.
+ITEMID: 253146
+ITEM: Settlement of Gerald Toombs v. City of San Diego, San Diego Superior Court No. 37-2023-00019667-CU-PO-CTL, Claim No. 30006.
+ITEMID: 253148
+ITEM: Settlement of Nicholas Inzunza v. City of San Diego, San Diego Superior Court Case No. 37-2023-00046783-CU-EI-CTL, Claim No. 35060.
+ITEMID: 253223
+ITEM: Settlement of Orion Construction v. City of San Diego, et al., San Diego Superior Court Case No. 25CU013361C, Claim No. 37935
+ITEMID: 253479
+ITEM: Settlement of Steven Lee Wilson v. City of San Diego, et al., San Diego Superior Court No. 25CU032027C, Claim No. 39289.
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: SPECIAL ORDERS OF BUSINESS
+SECTION: ITEMS PULLED FROM CONSENT BY COUNCILMEMBERS
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: NOON RECESS.  RECONVENE COUNCIL TODAY AT 2:00 P.M. OR SHORTLY THEREAFTER.
+SECTION: TUESDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS TRAILED FROM MORNING OR ITEMS SCHEDULED FOR AFTERNOON SESSION
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 253180
+ITEM: Fiscal Year 2026 Capital Improvements Program (CIP) Mid-Year Budget Monitoring Report and CIP Budget Revisions.
+ITEMID: 253238
+ITEM: Approve a Resolution Authorizing the Approved 54 Surveillance Use Policies to Remain in Effect Under the TRUST Ordinance with Modifications as Identified.
+SECTION: NON-AGENDA ITEMS
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+RCITY COUNCIL MEETING RESULTS SUMMARY DATE: TUESDAY, DECEMBER 9, 2025, COUNCIL MEETING RECORDER: MEDINA This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316531Motion/SecondVOTEO2202230ApprovedProclaiming December 9, 2025, to be “Lao American Refugee Remembrance Day: ວັນລໍາລຶກອົບພະຍົບລາວອະເມຣິກັນ” 8/3Unanimous; 5-not present31ApprovedProclaiming December 9, 2025, to be “Southwestern Yacht Club Centennial Anniversary Day” 8/3Unanimous; 5-not present32ApprovedProclaiming December 9, 2025, to be “Hillcrest Youth Center 25th Anniversary Day” 8/3Unanimous; 5-not presentS501ApprovedProclaiming January 8, 2026, to be “Officer Carlos Lacarra Retirement Day” 8/3Unanimous; 5-not present10A-D ApprovedApproving the City Council Minutes of:Subitem A: 09/29/2025;Subitem B: 09/30/2025;Subitem C: 10/06/2025;Subitem D: 10/07/2025. 9/4Unanimous; 5-not present50Introduced (O-2026-46)Authorizing the exemption of a Council Representative I position assigned to the Council District 7 Office from the Classified Service, based on advisory review and favorable comment by the Civil Service Commission on November 6, 2025I 9/4Unanimous; 5-not present51Introduced (O-2026-44)Executing the Second Amendment to the Cooperative Procurement Contract with Dell Marketing, L.P., for the acquisition of Microsoft Software, Subscriptions and Services(NOTE: 6 votes required)I 9/4Unanimous; 5-not present52Introduced (O-2026-45)Executing the Eleventh Amended Joint Powers Agreement confirming the creation of the Southern California Coastal Water Research Project (SCCWRP), between the CoSD, City of Los Angeles, Orange County Sanitation District, and the County Sanitation District No. 2 of Los Angeles County(NOTE: 6 votes required)I 9/4Unanimous; 5-not present53Introduced (O-2026-52)Executing Amendment No. 1 to the Cooperative Contract with Nokia of America Corporation, for as-needed public safety communications products, services and solutions(NOTE: 6 votes required)I 9/4Unanimous; 5-not present54Introduced (O-2026-53)Executing a contract with TenFore Golf, Inc. to provide golf course point-of-sale systems and golf reservation services(NOTE: 6 votes required)I 9/4Unanimous; 5-not present55Adopted (O-2026-43)Approving the forms and authorizing the execution and delivery of one or more supplemental indentures, supplements to master installment purchase agreement, bond purchase agreements, escrow agreements and continuing disclosure certificates; and approving and authorizing the issuance and sale by the PFFA of the CoSD of one or more series of its senior or subordinated 2026 sewer revenue bonds(NOTE: 6 votes required)O220229/4Unanimous; 5-not present56Adopted (O-2026-32)Authorizing the second amendment to the legal services agreement with Hugo Parker, LLP(NOTE: 6 votes required)O220239/4Unanimous; 5-not present57Adopted (O-2026-31)Authorizing the extension of the obligations of construction contract K-20-1911-DBB-3 with Burtech Pipeline Incorporated for construction of the Balboa Park Pipeline Phase III Project(NOTE: 6 votes required)O220249/4Unanimous; 5-not present58Adopted (O-2026-42)Authorizing the obligations of Construction Contract K-20-1914-EMR-3, Civic Center Plaza Elevator Emergency Modernization Project, with Otis Elevator Company(NOTE: 6 votes required)O220259/4Unanimous; 5-not present59AAdopted (O-2026-38)Authorizing the obligations of contract K-17-1456-DBB-3 with Steve P. Rados, Inc. for construction of the Pump Station 2 Power Reliability and Surge Protection project(NOTE: 6 votes required)O220269/4Unanimous; 5-not present59BAdopted (O-2026-37)Authorizing a fifth amendment to consultant contract H115417 with Lee And Ro, Inc. for continued construction support services for the Pump Station 2 Power Reliability and Surge Protection project(NOTE: 6 votes required)O220279/4Unanimous; 5-not present60AIntroduced (O-2026-56)Amending Ch 2 of the SDMC by amending the title of Art 7; amending Ch 2, Article 7, Division 1 all related to electionsI 9/4Unanimous; 5-not present60BAdopted (R-2026-214)Amending the CoSD City Clerk Administrative Guidelines Related to ElectionsR3165319/4Unanimous; 5-not present100Adopted (R-2026-154)Authorizing the City Attorney or designee to retain Nixon Peabody LLP as General Outside Disclosure CounselR3165329/4Unanimous; 5-not present101Adopted (R-2026-175)Authorizing the settlement of L.J., a minor, by and through his Guardian ad Litem, Karyn Jones v. Poway Unified School District, et al., San Diego Superior Court Case No. 37-2020-00021789-CU-CR-NC, related to a claim of a mental health detention of a minor under Welfare and Institutions Code section 5585.50R3165339/4Unanimous; 5-not present102Adopted (R-2026-180)Authorizing the settlement of a pre-litigation claim filed by John O. Wood relating to Wood’s employment with the CityR3165349/4Unanimous; 5-not present103Adopted (R-2026-190)Authorizing the settlement of Peggy Wilson related to a claim of personal injuries arising out of an alleged dangerous condition of public propertyR3165359/4Unanimous; 5-not present104Adopted (R-2026-176)Authorizing the settlement of Susan Baker related to a claim of personal injuries from a trip and fall accident near 3792 Crete StreetR3165369/4Unanimous; 5-not present105Adopted (R-2026-192)Authorizing the settlement of Gerald Toombs related to a claim of personal injuries arising out of an alleged dangerous condition of public propertyR3165379/4Unanimous; 5-not present106Adopted (R-2026-174)Authorizing the settlement of Nicholas Inzunza relating to alleged losses due to an order to vacate a 29-unit residential apartment complexR3165389/41234679-yea; 8-nay; 5-not present107Adopted (R-2026-177)Authorizing the settlement of Orion Construction related to water and sewer pipe replacement in the Southeast Encanto neighborhoodR3165399/4Unanimous; 5-not presentS500Adopted (R-2026-208)Authorizing the settlement of Steven Lee Wilson related to a shooting and death of a 16-year-old boy running out of the Santa Fe Train station in downtown San Diego by a San Diego Police OfficerR3165409/4Unanimous; 5-not present330Adopted as Amended (R-2026-205 Rev)Authorizing mid-year amendments to the FY 2026 Capital Improvements Program BudgetR3165413/6Unanimous; all present(Motion to approve staff’s recommendations with amendments to increase the Capital Improvements Program Budget in CIP AIL00001 Traffic Calming (Convoy St at Opportunity Rd Pedestrian Refuge), and to appropriate and expend $500,000 from Fund 400169, Transnet Extension 70% Cap, for the purpose of initiating the project and funding the design.)331Procedural ActionAuthorizing the 54 Approved Police Department Surveillance Use Policies to remain in effect under the Transparent and Responsible Use of Surveillance Technology Ordinance, with modifications as identified in the Annual Surveillance Report 1/6Unanimous; all present(Motion to divide actions into the following 3 subitems: Subitem A - Approval of 52 surveillance use policies in the draft resolution for this item, including any modifications proposed by the SDPD in its staff recommendation. These would include policies 1A-1B; 1D-1GG; 1II-1BBB, but would exclude Smart Streetlights and ALPRs; Subitem B - Approval of item 1HH in the draft resolution, Smart Streetlights – including the modifications proposed by staff in their recommendation; and Subitem C - Approval of item 1C in the draft resolution, Automatic License Plate Readers (ALPRs) – including the modifications proposed by staff in their recommendation.)331AAdopted as Amended(R-2026-209 Rev. Cor. Copy)Authorizing the Approved Police Department Surveillance Use Policies for 52 Surveillance Technologies(NOTE: To reflect Council’s motion, this item now contains Subitem A, B, and C.)R3165425/7Unanimous; all present* See motion below:5/7Unanimous; 2-not present** See motion below:* Motion to approve in Subitem A, 52 surveillance use policies in the draft resolution for this item, including any modifications proposed by the SDPD in its staff recommendation. These would include policies 1A-1B; 1D-1GG; 1II-1BBB, but would exclude Smart Streetlights and ALPRs; and Council requests that its decision to modify any Use Policies identified in the Annual Surveillance Report be analyzed by the City's management team for labor relations to determine whether the modification requires notice to the City's recognized employee organizations and opportunity to negotiate the bargainable impacts of the modification, under the Meyers-Milias-Brown Act. If notice is required, the Council further requests that the City's management team provide the required notice and return to the Council at a later date if there are any bargainable impacts that need to be addressed by the Council.** Motion to include in Subitem A for each surveillance use policy that: 1) Benefits to the community of the approved surveillance technology outweigh the costs; 2) Continued use of the technology will safeguard civil liberties and civil rights; 3) No alternative with a lesser economic cost or lesser impact on civil rights or civil liberties would be as effective; 4) Approval for the Surveillance Use Policies to remain in effect is not intended to and shall not supersede existing processes to seek approval for the appropriation and expenditure of specific funds through the annual budget process, or existing processes for the approval and execution of contracts, donations, and grants; and 5) Council shall review this approval annually as required by the TRUST Ordinance.331BAdopted as Amended(R-2026-234 Rev)Authorizing the approved Police Department Surveillance Use Policy for Smart Streetlights Surveillance Technology(NOTE: To reflect Council’s motion, this item now contains Subitem A, B, and C.)R3165435/71235678-yea; 49-nay* See motion below:5/7135678-yea; 49-nay; 2-not present** See motion below: * Motion to approve in Subitem B, item 1HH in the draft resolution, Smart Streetlights – including the modifications proposed by staff in their recommendation; and Council requests that its decision to modify any Use Policies identified in the Annual Surveillance Report be analyzed by the City's management team for labor relations to determine whether the modification requires notice to the City's recognized employee organizations and opportunity to negotiate the bargainable impacts of the modification, under the Meyers-Milias-Brown Act. If notice is required, the Council further requests that the City's management team provide the required notice and return to the Council at a later date if there are any bargainable impacts that need to be addressed by the Council. ** Motion to include in Subitem B for each surveillance use policy that: 1) Benefits to the community of the approved surveillance technology outweigh the costs; 2) Continued use of the technology will safeguard civil liberties and civil rights; and 3) No alternative with a lesser economic cost or lesser impact on civil rights or civil liberties would be as effective; 4) Approval for the Surveillance Use Policies to remain in effect is not intended to and shall not supersede existing processes to seek approval for the appropriation and expenditure of specific funds through the annual budget process, or existing processes for the approval and execution of contracts, donations, and grants; and 5) Council shall review this approval annually as required by the TRUST Ordinance.331CAdopted as Amended(R-2026-235 Rev)Authorizing the Approved Police Department Surveillance Use Policy for Automated License Plate Reader Surveillance Technology(NOTE: To reflect Council’s motion, this item now contains Subitem A, B, and C.) 3165445/7123567-yea;489-nay* See motion below:5/713567-yea; 489-nay; 2-not present**See motion below: * Motion to approve in Subitem C, item 1C in the draft resolution, Automatic License Plate Readers (ALPRs) – including the modifications proposed by staff in their recommendation; 1 - Add a requirement to the ALPR use policy, that any contractor or subcontractor immediately notify the City of San Diego, no later than 24 hours after being served with an out-of-state or federal warrant seeking any data from San Diego’s ALPR system, by way of notifying in writing of the Chief of Police, or their designee, and the City Attorney, or their designee, about any such warrant request; 2 - Amend Surveillance Use Policy, Page 5, under Auditing and Oversight, from quarterly to weekly audits; and 3 - Council requests that its decision to modify any Use Policies identified in the Annual Surveillance Report be analyzed by the City's management team for labor relations to determine whether the modification requires notice to the City's recognized employee organizations and opportunity to negotiate the bargainable impacts of the modification, under the Meyers-Milias-Brown Act. If notice is required, the Council further requests that the City's management team provide the required notice and return to the Council at a later date if there are any bargainable impacts that need to be addressed by the Council. ** Motion to include in Subitem C for each surveillance use policy that: 1) Benefits to the community of the approved surveillance technology outweigh the costs; 2) Continued use of the technology will safeguard civil liberties and civil rights; 3) No alternative with a lesser economic cost or lesser impact on civil rights or civil liberties would be as effective; 4) Approval for the Surveillance Use Policies to remain in effect is not intended to and shall not supersede existing processes to seek approval for the appropriation and expenditure of specific funds through the annual budget process, or existing processes for the approval and execution of contracts, donations, and grants; and 5) Council shall review this approval annually as required by the TRUST Ordinance. QUITQ *COMMENTS Non-Agenda Public Comment: PC-1: Bob Kuczewski commented on Torrey Pines Gliderport. PC-2: Paul Kruger commented on Item S500. PC-3 (virtual): Andrea Ebbing commented on San Diego’s District Attorney’s Office. PC-4 (virtual): Blair Beekman commented on data collection; Santa Fe Station; and Otay Mesa park issues. PC-5 (virtual): Nancy Behm commented on tax payer funds. PC-6 (virtual): Francine Maxwell commented on town hall meetings; and budget. PC-7 (virtual): Tasha Williamson requested the firing of a Police Officer. PC-8 (virtual): Becky Rapp commented on marijuana impaired driving. PC-9 (virtual): Kathleen Lippitt commented on trash cans; budget deficit; and homelessness. PC-10 (virtual): Madison commented on risk of cannabis use during pregnancy. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: None. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 8:46 p.m. 
+
+===MEETING_6555===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS SCHEDULED DURING THE MORNING MEETING
+SECTION: PROCLAMATIONS/CEREMONIAL ITEMS
+ITEMID: 247226
+ITEM: Juneteenth Day.
+ITEMID: 247227
+ITEM: World Refugee Day.
+ITEMID: 247228
+ITEM: Paul Downey Day.
+ITEMID: 247229
+ITEM: Dennis Otsuji Day.
+ITEMID: 247230
+ITEM: Sergeant Thomas Carlyon Day.
+ITEMID: 247690
+ITEM: Richard Miller Day.
+ITEMID: 247711
+ITEM: Kimberly L. Knox Day.
+ITEMID: 247712
+ITEM: Salome Court #1 Centennial 100th Anniversary Day.
+SECTION: CONSENT ITEMS
+SECTION: APPROVAL AGENDA
+SECTION: APPROVAL OF COUNCIL MINUTES
+ITEMID: 247447
+ITEM: Approval of Council Minutes.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED:
+ITEMID: 247240
+ITEM: Authorize the Fifth Amendment to Sole Source (SS) # 3279 Agreement with Dr. David Victor for Energy Market Expert Review Services Regarding the San Vicente Hydroelectric Pumped Storage Project.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE ADOPTED:
+ITEMID: 247341
+ITEM: Parking Reform-Proposed Amendments to Chapter 8, Articles 2 &amp; 6 of the Municipal Code, and Council Policies 100-18,200-4, and 200-15, and a Fee Update Resolution Relating to General Parking Regulations, Traffic Movement and Control, Residential Parking Programs and Valet Parking.
+ITEMID: 247337
+ITEM: Ordinance to Authorize a Contract Extension Between the City of San Diego and Brycer, LLC.
+ITEMID: 247338
+ITEM: Authorization for the Public Facilities Financing Authority of the City of San Diego 2025 Lease Revenue Bonds and Ballpark Refunding Bonds.
+ITEMID: 247339
+ITEM: Vista Santo Domingo Rezone and Plan Amendment Project No. PRJ-1110197.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED WITH RESOLUTIONS TO BE ADOPTED:
+ITEMID: 247705
+ITEM: Operating and Management Agreement Between the City of San Diego and Downtown San Diego Partnership, Inc. for the Renewed Downtown Property and Business Improvement District.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 247231
+ITEM: Authorization to Enter into an As-Needed Citywide Agreement (Request for Proposal (RFP) No. 10090239-25-G) for Landscape Maintenance for the Designated Center Medians, Rights-of-Way, and Areas Within the Gas Tax Median Maintenance Program.
+ITEMID: 247237
+ITEM: TransNet Local Street and Roads Program - 2025 Regional Transportation Improvement Program (RTIP) Amendment and Fiscal Years 2026 – 2030 Program of Projects.
+ITEMID: 247236
+ITEM: Assigning Job Classifications to the Appropriate Representation Units for Fiscal Year 2026.
+ITEMID: 247286
+ITEM: Establishment of Overtime Eligibility of Classifications in the Classified Service for Fiscal Year 2026.
+ITEMID: 247239
+ITEM: Settlements with Three City of San Diego Employees for Add-On Pay under Article 21(D) of the MEA MOU.
+ITEMID: 247331
+ITEM: Appointments to the Commission for Arts and Culture.
+ITEMID: 247343
+ITEM: Declaring a Continued State of Emergency Regarding Raw Sewage, Solid Waste, and Sediment Coming from Tijuana, Mexico.
+ITEMID: 247701
+ITEM: As-Needed Historic &amp; Cultural Resource Planning Consultant Services Agreements with Dudek, IS Architecture, Page &amp; Turnbull and SWCA, Inc.
+ITEMID: 247702
+ITEM: As-Needed Public Outreach and Engagement Consultant Services Agreements with Ascent Environmental, Inc., Cook + Schmid, LLC., Imagine Creative Services, LLC., and Kearns &amp; West, Inc.
+ITEMID: 247707
+ITEM: As-Needed Planning Multi-Disciplinary Consultant Services Agreements with Dudek; Ascent Environmental, Inc.; Wallace Roberts &amp; Todd, LLC; Moore Iacofano Goltsman, Inc.; Raimi &amp; Associates; and Dyett &amp; Bhatia.
+ITEMID: 247706
+ITEM: As-Needed Environmental Services Agreements with HELIX Environmental Planning, Inc.; RECON Environmental, Inc.; and Dudek.
+ITEMID: 247703
+ITEM: Approval of the Fiscal Year 2026 San Diego Tourism Marketing District Report of Activities.
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: SPECIAL ORDERS OF BUSINESS
+SECTION: ITEMS PULLED FROM CONSENT BY COUNCILMEMBERS
+SECTION: INFORMATIONAL AND ADOPTION AGENDA ITEMS (10AM SESSION)
+SECTION: ADOPTION AGENDA
+SECTION: 10AM DISCUSSION, RESOLUTION TO BE ADOPTED:
+ITEMID: 247235
+ITEM: Renew Membership and Continue Participation in Public Risk Innovation, Solutions and Management (&quot;PRISM&quot;).
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: TUESDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS TRAILED FROM MORNING OR ITEMS SCHEDULED FOR AFTERNOON SESSION
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, ORDINANCES TO BE INTRODUCED:
+ITEMID: 247597
+ITEM: Ordinance Adopting Updated SDPD Military Equipment Use Procedure, and Renewing Approval for Use, Funding, and Acquisition of Military Equipment, Under Assembly Bill 481.
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 247238
+ITEM: Proposed Fiscal Year 2026 Recreation Center Fund and Opportunity Fund Budgets.
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, NOTICED HEARINGS:
+ITEMID: 247232
+ITEM: Adoption of Resolution of Necessity to Commence Eminent Domain Process to Acquire a Permanent Easement and Temporary Construction Area Easement for the Murphy Canyon Trunk Sewer Repair/Rehab Project, CIP Project B-17005.
+SECTION: NON-AGENDA ITEMS
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+RCITY COUNCIL MEETING RESULTS SUMMARY DATE: TUESDAY, JUNE 17, 2025, COUNCIL MEETING RECORDER: MEDINA This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316270Motion/SecondVOTEO2197130ApprovedProclaiming June 19, 2025, to be “Juneteenth Day” 7/5Unanimous; 2-not present31ApprovedProclaiming June 20, 2025, to be “World Refugee Day” 7/5Unanimous; 2-not present32ApprovedProclaiming May 8, 2025, to be “Paul Downey Day” 7/5Unanimous; 2-not present33ApprovedProclaiming June 12, 2025, to be “Dennis Otsuji Day”(Note: Council President LaCava requested that Councilmember Campillo be added as a presenter.) 7/5Unanimous; 2-not present 34ApprovedProclaiming June 6, 2025, to be “Sergeant Thomas Carlyon Day” 7/5Unanimous; 2-not presentS501ApprovedProclaiming June 26, 2025, to be “Richard Miller Day” 7/5Unanimous; 2-not presentS508ApprovedProclaiming June 20, 2025, to be “Kimberly L. Knox" 7/5Unanimous; 2-not presentS509ApprovedProclaiming June 21, 2025, to be “Salome Court #1 Centennial 100th Anniversary Day” 7/5Unanimous; 2-not present10A-CApprovedApproving the City Council Minutes of:Subitem A: 04/21/2025;Subitem B: 04/22/2025 Special;Subitem C: 04/22/2025 Special 3/7Unanimous; 2-not present50Introduced (O-2025-135)Executing Amendment No. 5 to the Contract with Dr. David G. Victor, in connection with Energy Market Expert Review Services regarding the potential San Vicente Hydroelectric Pumped Storage Project(NOTE: 6 votes required)I 3/7Unanimous; 2-not present51Adopted (O-2025-132 Cor. Copy)Amending Ch 8, Art 2, Div 0 of the SDMC relating to traffic movement and control; and amending Ch 8, Art 6, Div 1 of the SDMC relating to general parking regulations; and amending Ch 8, Art 6, Div 20 relating to residential parking programs; and amending Ch 8, Art 6, Div 22 relating to valet parkingO219713/71346789-yea; 5-nay; 2-not present52Adopted (O-2025-128)Executing the Second Amendment to the Contract with Brycer LLC, for The Compliance Engine(NOTE: 6 votes required)O219723/7Unanimous; 2-not present53AAdopted (O-2025-124)Authorizing the issuance and sale by the PFFA of the CoSD of its 2025 Lease Revenue Bonds(NOTE: 6 votes required)O219733/7Unanimous; 2-not present53BAdopted (O-2025-125)Authorizing the issuance of the PFFA of the CoSD Lease Revenue Refunding Bonds, to refund all or a portion of the City’s 2016 Ballpark Bonds(NOTE: 6 votes required)O219743/7Unanimous; 2-not present54AAdopted (O-2025-127)Amending Ch 13, Art 2, Div 14 of the SDMC relating to the Vista Santo Domingo project and the Otay Mesa Community PlanO219753/7Unanimous; 2-not present54BAdopted (O-2025-126)Rezoning 5.58-acres located within the Otay Mesa Community Plan area from Residential-Multiple Unit (RM-2-4) Zone to the Industrial-Light (IL-1-1) ZoneO219763/7Unanimous; 2-not presentS502AAdopted (R-2025-636Declaring an exemption from CEQA for the Operating and Management AgreementR3162703/7Unanimous; 2-not presentS502BIntroduced (O-2025-140)Entering into a ten-year Agreement with San Diego Downtown Partnership, to provide above-baseline services in the Downtown PBID(NOTE: 6 votes required)I 3/7Unanimous; 2-not present100Adopted (R-2025-622)Authorizing an Agreement with Aztec Landscaping, Inc., to provide landscape maintenance, rights-of-way, and areas within the Gas Tax Median Maintenance ProgramR3162713/7Unanimous; 2-not present101Adopted (R-2025-600)Adopting the TransNet Local Street and Roads Program - 2025 Regional Transportation Improvement Program Amendment and FY 2026 through 2030 Program of Projects and related actionsR3162723/7Unanimous; 2-not present102Adopted (R-2025-583)Assigning job classifications to the appropriate representation units for FY 2026R3162733/7Unanimous; 2-not present103Adopted (R-2025-582)Approving the City job classifications eligible for overtime compensation in FY 2026R3162743/7Unanimous; 2-not present104AAdopted (R-2025-623)Entering into a settlement agreement with City employee Yoftahe Ghiliamichael for add-on pay under Article 21(D) of the MEA MOUR3162753/71346789-yea; 5-nay; 2-not present104BAdopted (R-2025-624)Entering into a settlement agreement with City employee Loretta Graham for add-on pay under Article 21(D) of the MEA MOUR3162763/71346789-yea; 5-nay; 2-not present104CAdopted (R-2025-627)Entering into a settlement agreement with City employee Ryan Reed for add-on pay under Article 21(D) of the MEA MOUR3162773/71346789-yea; 5-nay; 2-not present105Adopted (R-2025-594)Confirming the Mayor's appointments of Vanessa Ybarra Davis and Jean Walcher to the Commission for Arts and Culture for terms ending August 31, 2026R3162783/7Unanimous; 2-not present106Adopted (R-2025-405)Declaring a Continued State of Emergency Regarding Raw Sewage, Solid Waste, and Sediment Coming from Tijuana, MexicoR3162793/7Unanimous; 2-not presentS503AAdopted (R-2025-554)Authorizing an agreement with Dudek for as-needed historic and cultural resource planning servicesR3162803/7Unanimous; 2-not presentS503BAdopted (R-2025-555)Authorizing an agreement with IS Architecture for as-needed historic and cultural resource planning servicesR3162813/7Unanimous; 2-not presentS503CAdopted (R-2025-556)Authorizing an agreement with Page & Turnbull for as-needed historic and cultural resource planning servicesR3162823/7Unanimous; 2-not presentS503DAdopted (R-2025-557)Authorizing an agreement with SWCA, Inc. for as-needed historic and cultural resource planning servicesR3162833/7Unanimous; 2-not presentS504AAdopted (R-2025-558)Authorizing an Agreement with Ascent Environmental, Inc., for as needed public outreach and engagement servicesR3162843/7Unanimous; 2-not presentS504BAdopted (R-2025-559)Authorizing an agreement with Cook + Schmid, LLC., for as needed public outreach and engagement servicesR3162853/7Unanimous; 2-not presentS504CAdopted (R-2025-560)Authorizing an Agreement with Imagine Creative Services, LLC., for as needed public outreach and engagement servicesR3162863/7Unanimous; 2-not presentS504DAdopted (R-2025-561)Authorizing an Agreement with Kearns & West, Inc., for as needed public outreach and engagement services,R3162873/7Unanimous; 2-not presentS505AAdopted (R-2025-548)Authorizing an agreement with Ascent Environmental, Inc. for as-needed multi-disciplinary planning servicesR3162883/7Unanimous; 2-not presentS505BAdopted (R-2025-549)Authorizing an agreement with Dudek for as-needed multi-disciplinary planning servicesR3162893/7Unanimous; 2-not presentS505CAdopted (R-2025-550)Authorizing an agreement with Dyett & Bhatia, Inc. for as-needed multi-disciplinary planning servicesR3162903/7Unanimous; 2-not presentS505DAdopted (R-2025-551)Authorizing an agreement with Moore Iacofano Goltsman, Inc. for as-needed multi-disciplinary planning servicesR3162913/7Unanimous; 2-not presentS505EAdopted (R-2025-552)Authorizing an agreement with Raimi + Associates for as-needed multi-disciplinary planning servicesR3162923/7Unanimous; 2-not presentS505FAdopted (R-2025-553)Authorizing an agreement with Wallace Roberts & Todd, LLC. for as-needed multi-disciplinary planning servicesR3162933/7Unanimous; 2-not presentS506AAdopted (R-2025-576)Authorizing the award of an as-needed consultant agreement with Recon Environmental, Inc. for environmental consultant servicesR3162943/7Unanimous; 2-not presentS506BAdopted (R-2025-577)Authorizing the award of an as-needed consultant agreement with Helix Environmental Planning, Inc. for environmental consultant servicesR3162953/7Unanimous; 2-not presentS506CAdopted (R-2025-578)Authorizing the award of an as-needed consultant agreement with Dudek for as needed environmental servicesR3162963/7Unanimous; 2-not presentS507Adopted (R-2025-637)Approving the FY 2026 Report of Activities for the Tourism Marketing DistrictR3162973/7Unanimous; 2-not present330 Adopted (R-2025-599)Authorizing the CoSD’s continued participation as a member of the Joint Powers Authority, known as Public Risk Innovation, Solutions, and Management (PRISM), for FY 2026 through 2030R3162987/5Unanimous; 2-not present331Adopted (R-2025-618)Allocating FY 2026 Parks and Recreation Center Funds and Opportunity Fund Budgets, and creating one new recreation center fund for AgeWell ServicesR3162999/3Unanimous; 2-not present332AAdopted (R-2025-587)Declaring an exemption from CEQA for the acquisition of private property interests needed for the Murphy Canyon Trunk Sewer project(NOTE: Not subject to Mayor’s veto)R3163007/5Unanimous; 2-not present332BAdopted (R-2025-588)Determining that that the public interest requires acquisition of private property rights deemed necessary for the Murphy Canyon Trunk Sewer project and authorizing commencement of eminent domain proceedings(NOTE: 6 votes required)(NOTE: Not subject to Mayor’s veto)R3163017/5Unanimous; 2-not presentS500Returned to Staff (O-2025-139)Adopting the updated Police Department Military Equipment Use Procedure and renewing approval for military equipment under Assembly Bill 481 QUITQ *COMMENTS Non-Agenda Public Comment: PC-1: Michael Brando commented on health. PC-2: Joy Sunyata commented on protests and three little ones. PC-3: Liam Burten-Tiglev commented on homelessness. PC-4: Allegedly Audra commented on popcorn. PC-5: Jade Adkins commented on budget cuts and humanitarian aid. PC-6 (virtual): Terri-Ann Skelly commented on extending the hours of marijuana storefronts. PC-7 (virtual): Blair Beekman commented on Accessible Dwelling Units; and ICE raids. PC-8 (virtual): Barbara Gordon commented on drug prevention. PC-9 (virtual): Judi Strang commented on Accessible Dwelling Units; and harmful chemicals in tobacco, marijuana, smoke, and vapor. PC-10 (virtual): Consuelo commented on protests and government overreach. PC-11 (virtual): Kathleen Lippitt commented on reporting illegal marijuana grows on State park lands. PC-12 (virtual): Madison commented on tobacco and e-cigarette waste. PC-13 (virtual): Zoom user commented on public safety. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: Councilmember von Wilpert noted that the Bureau of Land Management is placing signs in national parks, including in California, inviting the public to request removal of historical content they view as negative. She believes it’s important to preserve all aspects of U.S. history to learn from it and urges the City of San Diego and the archives to support efforts to document and teach history, not erase it. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 3:19 p.m. 
+
+===MEETING_6696===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS SCHEDULED DURING THE MORNING MEETING
+SECTION: PROCLAMATIONS/CEREMONIAL ITEMS
+ITEMID: 250966
+ITEM: LGBTQ+ History Month
+ITEMID: 250967
+ITEM: Filipino American History Month.
+ITEMID: 250968
+ITEM: Breast Cancer Awareness Month.
+ITEMID: 251350
+ITEM: Clairemont 75th Anniversary Day.
+SECTION: CONSENT ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED:
+ITEMID: 250950
+ITEM: Second Amendment to the Contract with Evoqua Water Technologies, LLC to Purchase Calcium Nitrate Double Salt Solution (Bioxide) for Wastewater Collection Facilities.
+ITEMID: 250965
+ITEM: Approve the Second Amendment to an Agreement with Medical Priority Dispatch Corporation for the San Diego Fire Rescue Department.
+ITEMID: 250953
+ITEM: Request for an Extension of the Construction Contract #K-20-1933-DBB-3 with KTA Construction, Inc. for the Construction of Sewer and AC Water Group 1032 Project.
+ITEMID: 250954
+ITEM: Request for an Extension of the Construction Contract # K-20-1931-DBB-3 with Burtech Pipeline Incorporated for the Construction of the Mission Beach Water &amp; Sewer Replacement Project.
+ITEMID: 250955
+ITEM: Request for an Extension of the Construction Contract #K-19-1804-DBB-3 with Burtech Pipeline, Inc. for the Construction of Sewer and AC Water Group 807 Project..
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE ADOPTED:
+ITEMID: 250970
+ITEM: Amendments to the San Diego Municipal Code Related to Progressive Design-Build and Construction Manager at Risk Procurement Methods for Public Works Projects and Capital Improvements Program (Process Improvements and Streamlining).
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 250949
+ITEM: Local Government Waste Tire Amnesty Grant for Fiscal Year 2026 Through and Including First Half of Fiscal Year 2028.
+ITEMID: 250962
+ITEM: Adoption of Updated Animal Services User Fee Schedule.
+ITEMID: 250959
+ITEM: Appointment to the Commission on Gang Prevention and Intervention
+ITEMID: 250960
+ITEM: Appointment to the Consolidated Plan Advisory Board.
+ITEMID: 250961
+ITEM: Reappointments to the Climate Advisory Board.
+ITEMID: 250969
+ITEM: Appointment to the Commission for Arts and Culture.
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: SPECIAL ORDERS OF BUSINESS
+SECTION: ITEMS PULLED FROM CONSENT BY COUNCILMEMBERS
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: TUESDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS TRAILED FROM MORNING OR ITEMS SCHEDULED FOR AFTERNOON SESSION
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 250951
+ITEM: Proposed Response to Grand Jury Report – “The Gaslamp Enforcement Team Needs the Community’s Help!”
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, NOTICED HEARINGS:
+ITEMID: 250952
+ITEM: 2947 E Street Right-of-Way Vacation PRJ-1087644.
+SECTION: NON-AGENDA ITEMS
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+R CITY COUNCIL MEETING RESULTS SUMMARY DATE: TUESDAY, OCTOBER 7, 2025, COUNCIL MEETING RECORDER: MEDINA This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316451Motion/SecondVOTEO2200530ApprovedProclaiming the month of October 2025 to be “LGBTQ+ History Month” 8/9Unanimous; 1-not present31ApprovedProclaiming the month of October 2025 to be “Filipino American History Month” 8/9Unanimous; 1-not present32ApprovedProclaiming the month of October 2025 to be “Breast Cancer Awareness Month” 8/9Unanimous; 1-not presentS500ApprovedProclaiming October 16, 2025, to be “Clairemont 75th Anniversary Day” 8/9Unanimous; 1-not present50Introduced (O-2026-21)Executing the Second Amendment to the Agreement with Evoqua Water Technologies, LLC, to provide calcium nitrate double salt solution (Bioxide)(NOTE: 6 votes required)I 7/8Unanimous; 1-not present51Introduced (O-2026-20)Executing Amendment No. 2 to the Agreement with Medical Priority Dispatch Corporation, for emergency dispatch services(NOTE: 6 votes required)I 7/8Unanimous; 1-not present52Introduced (O-2026-23)Authorizing the obligations of construction contract K-20-1933-DBB-3 with KTA Construction, Inc. for construction of the Sewer and AC Water Group 1032 project to extend beyond five years(NOTE: 6 votes required)I 7/8Unanimous; 1-not present53Introduced (O-2026-18)Authorizing the obligations of construction contract #K-20-1931-DBB-3 with Burtech Pipeline Incorporated for construction of the Mission Beach Water and Sewer Replacement project to extend beyond five years(NOTE: 6 votes required)I 7/8Unanimous; 1-not present54Introduced (O-2026-22)Authorizing the obligations of construction contract K-19-1804-DBB-3 with Burtech Pipeline, Inc. for construction of the Sewer and AC Water Group 807 project to extend beyond five years(NOTE: 6 votes required)I 7/8Unanimous; 1-not present55Adopted (O-2026-14 Cor. Copy)Amending Ch 2, Art 2, Div 30, all relating to Progressive Design-Build and Construction Manager at Risk Procurement MethodsO220057/8Unanimous; 1-not present100AAdopted (R-2026-123)Declaring an exemption from CEQA for the authorization to submit applications to the California Department of Resources Recycling and Recovery (CalRecycle) for Waste Tire Amnesty Grant Program fundsR3164517/8Unanimous; 1-not present100BAdopted (R-2026-122)Authorizing to submit applications to CalRecycle for Waste Tire Amnesty Grant Program funds for FY 2026 through and including the first half of FY 2028, to support City waste/used tire collection and recycling programsR3164527/8Unanimous; 1-not present101Adopted (R-2026-112 Cor. Copy 2)Approving and adopting the updated San Diego Humane Society Animal Services User Fee ScheduleR3164537/8234567-yea; 89-nay; 1-not present(Moreno seconded the consent agenda, but voted nay on Item 101.)102Adopted (R-2026-124)Confirming the appointment of Jessie Schmitte to the Commission on Gang Prevention and InterventionR3164547/8Unanimous; 1-not present103Adopted (R-2026-125)Confirming the appointment of Pida Kongphouthone to the Consolidated Plan Advisory BoardR3164557/8Unanimous; 1-not present104Adopted (R-2026-94)Confirming the reappointments of Cindy Lin, Josh Dean, Mahayla Slackerelli, Madison Swayne, Kelly Lyndon, and Whitney Pearce, to the Climate Advisory BoardR3164567/8Unanimous; 1-not present105Adopted (R-2026-126)Confirming the appointment of Cathy Hasson to the Commission for Arts and CultureR3164577/8Unanimous; 1-not present330Adopted (R-2026-116)Approving the City Council's Response to 2024/2025 San Diego County Grand Jury Report titled "The Gaslamp Enforcement Team Needs the Community's Help!"(NOTE: Not subject to Mayor’s veto)R3164583/6Unanimous; 1-not present331This item was removed from the Agenda 332AAdopted (R-2026-92)Declaring an exemption from CEQA for the approval of the 2947 E Street Right-of-Way Vacation project(NOTE: Not subject to Mayor’s veto)R3164593/2Unanimous; 1-not present332BAdopted (R-2026-93)Approving Public Right-of-Way Vacation Number PMT-3213089 for the 2947 E Street Right-of-Way Vacation project – Project No. PRJ-1087644(NOTE: Not subject to Mayor’s veto)R3164603/2Unanimous; 1-not present QUITQ *COMMENTS Non-Agenda Public Comment: PC-1: Sandy Shakenberg commented on busking issues. PC-2 (virtual): Blair Beekman commented on encampment issues and October 7 attacks. PC-3 (virtual): TheOriginalDra commented on tent city. PC-4 (virtual): Terri-Ann Skelly commented on THC products. PC-5 (virtual): Madison commented on youth drug prevention month. PC-6 (virtual): Megan Stuart commented on impact of drug use on youth. PC-7 (virtual): Becky Rapp commented on Assembly Bill 455 and smoke-free policies. PC-8 (virtual): Ernie Casco commented on Torrey Pines Gliderport. PC-9 (virtual): Francine Maxwell commented on town hall meetings. PC-10 (virtual): Judi Strang commented on cannabis market. PC-11 (virtual): Bob Kuczewski commented on Torrey Pines Gliderport. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: CC-1: Councilmember Elo-Rivera expressed concern over disturbing reports of deaths at a City shelter and requested the Mayor’s office share those details. He stated it is important for the City Council to know the circumstances surrounding these deaths. Councilmember Elo-Rivera acknowledged the 2-year anniversary of the horrific attacks of Israelis on October 7. He described the day Israelis were hunted down and brutally murdered including babies. Councilmember Elo-Rivera detailed it was a day that unleashed an immense level of suffering for Palestinians, and there are still hostages. He stated as someone of Jewish heritage emphasized valuing all human life and requested a short moment of silence for those lost. City Clerk Fuentes noted California’s Special Statewide Election is on November 4, 2025. She stated ballots began mailing out on October 6. City Clerk Fuentes mentioned drop boxes will be available on October 7 at various sites including the City Administration building in the breezeway. She reminded everyone the voter registration deadline is October 20, and late voters can vote conditionally by visiting San Diego County Registrar of Voters or a vote center through election day. City Clerk Fuentes added that more information is available at SDVote.com. Report Out from Closed Session: None. Council President Pro Tem Lee adjourned the meeting at 2:37 p.m. in honor of the memory of: Glenn A. McKinney as requested by Councilmember Foster. 
+
+===MEETING_6745===
+---ITEMS---
+SECTION: ROLL CALL:
+SECTION: APPROVAL OF COMMITTEE MINUTES:
+SECTION: NON-AGENDA PUBLIC COMMENT:
+SECTION: COMMITTEE MEMBERS, MAYOR, INDEPENDENT BUDGET ANALYST, CITY ATTORNEY COMMENT:
+SECTION: REQUESTS FOR CONTINUANCE:
+SECTION: CONSENT AGENDA:
+ITEMID: 252349
+ITEM: Approval of Committee Minutes
+SECTION: DISCUSSION AGENDA:
+ITEMID: 252344
+ITEM: FY 2027 City Council Budget Priorities
+ITEMID: 252342
+ITEM: Second Amendment to Cooperative Procurement Contract with Dell Marketing, L.P. for Microsoft Software, Subscriptions, and Services.
+ITEMID: 252343
+ITEM: Approval of an Ordinance Authorizing the Mayor or Designee to Execute the First Amendment to the As-Needed Cooperative Procurement Contract with Nokia of America Corporation for Public Safety Communications Products, Services and Solutions
+ITEMID: 252345
+ITEM: Authorization for the Public Facilities Financing Authority of the City of San Diego Sewer Revenue Bonds
+ITEMID: 252346
+ITEM: Authorization to enter into and execute a contract with TenFore Golf to provide golf course point of sale systems and golf reservation services
+---RESULTS---
+
+===MEETING_6690===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS SCHEDULED DURING THE MORNING MEETING
+SECTION: PROCLAMATIONS/CEREMONIAL ITEMS
+ITEMID: 250783
+ITEM: City of San Diego Employee Appreciation Month.
+ITEMID: 250771
+ITEM: 25th Gay Bowl Day.
+ITEMID: 250764
+ITEM: Downtown Clean &amp; Safe 25th Anniversary Day.
+ITEMID: 250780
+ITEM: Hispanic Heritage Month.
+ITEMID: 250785
+ITEM: Oscar J. Romo Day.
+ITEMID: 250956
+ITEM: Cesar Lopez Day.
+ITEMID: 250957
+ITEM: Logan Heights CDC Day.
+ITEMID: 250958
+ITEM: Nikki Hank Day.
+ITEMID: 251185
+ITEM: San Diego Climate Week.
+SECTION: CONSENT ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED:
+ITEMID: 250769
+ITEM: Exemption of an Assistant Fire Chief Position in the Fire-Rescue Department from the Classified Service.
+ITEMID: 250766
+ITEM: Authorization to Enter Into and Sign a Cooperative Procurement Contract with 72 Hour LLC, (Doing Business as National Auto Fleet Group) for the Purchase of Class 4-8 Chassis and Cabs with Related Equipment, Accessories, and Services.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE ADOPTED:
+ITEMID: 250788
+ITEM: Hospitality Minimum Wage Ordinance for Certain Workers at Hotels, Event Centers, and Amusement Parks, Within the Geographic Boundaries of the City of San Diego and Related Amendments to the Living Wage Ordinance.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 250767
+ITEM: Authorization to Enter Into and Sign a Cooperative Procurement Contract with 72 Hour LLC, (Doing Business as National Auto Fleet Group) for the Purchase of Automobiles, SUVs, Vans, and Light Trucks with Related Equipment and Accessories.
+ITEMID: 250765
+ITEM: Amendment to the Citywide Safety Shoes Contract with Boot World Incorporated.
+ITEMID: 250782
+ITEM: Approval of an Application to the State of California for Land and Water Conservation Funds for S22004 John Baca Park.
+ITEMID: 250784
+ITEM: Approval of Brown Field Airport Master Plan and Preferred Alternative and Certification of the Program Environmental Impact Report for the Brown Field Airport Located in Otay Mesa.
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: SPECIAL ORDERS OF BUSINESS
+SECTION: ITEMS PULLED FROM CONSENT BY COUNCILMEMBERS
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: TUESDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS TRAILED FROM MORNING OR ITEMS SCHEDULED FOR AFTERNOON SESSION
+SECTION: INFORMATIONAL ITEMS
+SECTION: Drop items here
+SECTION: Into this folder
+ITEMID: 250763
+ITEM: City of San Diego Affordable Housing Fund Fiscal Year 2025 Annual Report.
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, NOTICED HEARINGS:
+ITEMID: 250781
+ITEM: Adjustments to Water and Wastewater Rates in Accordance with the Cost of Service Studies and Proposition 218.
+SECTION: NON-AGENDA ITEMS
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+R CITY COUNCIL MEETING RESULTS SUMMARY DATE: TUESDAY, SEPTEMBER 30, 2025, COUNCIL MEETING RECORDER: PATTERSON This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316446Motion/SecondVOTEO2200330ApprovedProclaiming October 2025 to be “City of San Diego Employee Appreciation Month" 7/8Unanimous; 5-not present31ApprovedProclaiming October 3, 2025, to be “25th Gay Bowl Day” 7/8Unanimous; 5-not present32ApprovedProclaiming September 30, 2025, to be “Downtown Clean & Safe 25th Anniversary Day” 7/8Unanimous; 5-not present33ApprovedProclaiming September 15 to October 15, 2025, to be “Hispanic Heritage Month” 7/8Unanimous; 5-not present34ApprovedProclaiming September 30, 2025, to be “Oscar J. Romo Day” 7/8Unanimous; 5-not presentS500ApprovedProclaiming September 30, 2025, to be “Cesar Lopez Day” 7/8Unanimous; 5-not presentS501ApprovedProclaiming October 10, 2025, to be “Logan Heights CDC Day” 7/8Unanimous; 5-not presentS502ApprovedProclaiming September 14, 2025, as “Nikki Hank Day” 7/8Unanimous; 5-not presentS503ApprovedProclaiming October 1-8, 2025, to be “San Diego Climate Week" 7/8Unanimous; 5-not present50Introduced (O-2026-17)Authorizing the exemption of an Assistant Fire Chief position in the City’s Fire-Rescue Department from the Classified ServiceI 9/8Unanimous; 57-not present51Introduced (O-2026-11)Entering into and signing a Cooperative Procurement Contract with 72 Hour LLC (doing business as National Auto Fleet Group) for the purchase of Class 4-8 Chassis and Cabs with Related Equipment, Accessories, and Services for the City’s medium and heavy-duty fleet as-needed(NOTE: 6 votes required)I 9/8123469-yea; 8-nay; 57-not present(Moreno seconded the consent agenda, but voted nay on Item 51.)52AAdopted (O-2026-12 Rev.)Amending Chap 3 of the SDMC by adding new Article 12, Division 1, relating to the minimum wage for hospitality employeesO220039/8Unanimous; 57-not present52BAdopted (O-2026-13)Amending Chap 2, Art 2 of the SDMC relating to the City of San Diego Living Wage OrdinanceO220049/8Unanimous; 57-not present100Adopted (R-2026-80)Entering into and signing the First Amendment to a Cooperative Procurement Contract with 72 Hour LLC (doing business as National Auto Fleet Group), to update the Contract Administrator contact information; increase the compensation; and modify the Contract under the terms and conditions contained in the First Amendment to the Contract, for the purchase of Automobiles, SUVs, Vans, and Light Trucks with Related Equipment and Accessories for the City’s light duty fleet as-neededR3164469/8123469-yea; 8-nay; 57-not present(Moreno seconded the consent agenda, but voted nay on Item 100.) 101Adopted (R-2026-98 Cor. Copy)Approving the Second Amendment to the Contract (Invitation to Bid Number 10089766-21-V) with Boot World, Inc., related to safety footwear for City of San Diego personnelR3164479/8Unanimous; 57-not present102Adopted (R-2026-111)Making an application to the Land and Water Conservation Fund Program and to accept, appropriate, and expend in Grant Program funding for the design and construction of improvements to John P. Baca ParkR3164489/8Unanimous; 57-not present103AAdopted (R-2026-103)Certifying Program EIR SCH No. 2019029037 and adopting Findings and a MMRP for the Brown Field Municipal Airport Master PlanR3164499/8Unanimous; 57-not present103BAdopted (R-2026-104)Approving the Brown Field Municipal Airport Master Plan and adopting the Preferred AlternativeR3164509/8Unanimous; 57-not present330Item PresentedPresenting the City of San Diego Affordable Housing Fund Fiscal Year 2025 Annual Report 331Procedural ActionAdjustments to Water and Wastewater Rates in Accordance with the Cost of Service Studies and Proposition 218 1/9Unanimous; all present(Finding in accordance with Cal. Gov’t Code section 53759.1, that the legal objections and the City’s written responses do not warrant reducing the rates, clarifying the rates, or further review, and that the protest hearing and protest tabulations under Proposition 218 could proceed.)331AContinued to Tuesday, 10/28/2025, at 2:00 p.m. (R-2026-110)Declaring an exemption from CEQA for the approval of adjustments to water and wastewater rates in accordance with the water and wastewater cost of service studies and Proposition 218 1/312345679-yea; 8-nay(Approving the continuance.)331BContinued to Tuesday, 10/28/2025, at 2:00 p.m. (R-2026-109)Approving adjustments to water and wastewater rates in accordance with the water and wastewater cost of service studies and Proposition 218 1/312345679-yea; 8-nay(Approving the continuance.) QUITQ *COMMENTS Non-Agenda Public Comment: PC-1: Harry Bishop commented on San Diego Downtown Partnership. PC-2: Roberto Tinajero commented on expressive activity ordinance. PC-3: Michelle Phiffer Uma Thurman Bernard commented on social security; food funding foster care; and picnic luncheon for school housing. PC-4: Sandy Snakenberg commented on busking rights. PC-5 (virtual): Blair Beekman commented on the Council working towards best practices; and Trump Administration and ICE agents. PC-6 (virtual): Madison commented on the mental health of our youth; and policies that reduce exposure to harmful substances. PC-7 (virtual): Joy Sunyata thanked Council President LaCava for his comment; and commented on drugs and opioid deaths. PC-8 (virtual): Judi Strang commented on neuroscience conference coming in November; psychosis by substance use; and prevention matters. PC-9 (virtual): Becky Rapp commented on marijuana use effects on fertility and child development. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: CC-1: Council President LaCava addressed why a waiver wasn’t accepted for hang gliding at Torrey Pines. He stated that the claim is that the County of LA developed this waiver based on Dockweiler Beach, which is seen as a safe location for beginners with soft sand, gentle slopes, and a low bluff of 25 feet compared to Torrey Pines 300-foot vertical bluff which is much different. Council President LaCava acknowledged that's why we rejected the proposal for a waiver. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 4:43 p.m. 
+
+===MEETING_6787===
+---ITEMS---
+SECTION: ROLL CALL:
+SECTION: APPROVAL OF COMMITTEE MINUTES:
+SECTION: NON-AGENDA PUBLIC COMMENT:
+SECTION: COMMITTEE MEMBERS, MAYOR, INDEPENDENT BUDGET ANALYST, CITY ATTORNEY COMMENT:
+SECTION: REQUESTS FOR CONTINUANCE:
+SECTION: CONSENT AGENDA:
+ITEMID: 253496
+ITEM: Approval of Committee Minutes
+SECTION: DISCUSSION AGENDA:
+ITEMID: 253554
+ITEM: Exemption of a Program Manager Position in Environmental Services Department from the Classified Service.
+ITEMID: 253555
+ITEM: Exemption of one (1) Program Coordinator position in the City of San Diego from Classified Service.
+ITEMID: 253556
+ITEM: Exemption of a Police Commander Position and a Deputy Director Position in the Police Department from the Classified Service
+ITEMID: 253557
+ITEM: Authorization to enter into and sign a Cooperative Procurement Contract with Genuine Parts Company doing business as (d.b.a.) NAPA Integrated Business Solutions for the purchase of Vendor Managed Inventory and Logistics Management Solutions for Fleets and Facilities.
+ITEMID: 253558
+ITEM: Approval of Contract with Klear.ai for a Risk Management Information System (RMIS) Software as a Service (SaaS) Solution
+SECTION: INFORMATION AGENDA:
+ITEMID: 253540
+ITEM: Fiscal Year 2026 First Quarter Budget Monitoring Report.
+ITEMID: 253541
+ITEM: Fiscal Year 2027-2031 Five-Year Financial Outlook
+ITEMID: 253542
+ITEM: Public Utilities FY 2027-2031 Five-Year Financial Outlook
+---RESULTS---
+
+===MEETING_6548===
+---ITEMS---
+SECTION: REQUESTS FOR CONTINUANCE BY COUNCILMEMBERS
+SECTION: PROCLAMATIONS/CEREMONIAL ITEMS
+ITEMID: 246716
+ITEM: San Diego Lao Food Festival Day.
+SECTION: CONSENT ITEMS
+SECTION: APPROVAL AGENDA
+SECTION: APPROVAL OF COUNCIL MINUTES
+ITEMID: 246887
+ITEM: Approval of Council Minutes.
+SECTION: ADOPTION AGENDA, CONSENT ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED:
+ITEMID: 246865
+ITEM: Second Amendment to the Reimbursement Agreement and Park Development Agreement for the Quarry Falls Development Project.
+ITEMID: 246864
+ITEM: Authorization of an Extension of Contractual Obligations Beyond Five Years for the Torrey Pines Fire Station Design-Build Contract K-21-1909-DB2-3.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED WITH RESOLUTIONS TO BE ADOPTED:
+ITEMID: 247323
+ITEM: Resolution of Claim filed by Dick Miller, Inc., Risk Management Department Claim File No. 34399 and Extension of the Obligations of Construction Contract K-16-1418-DBB Beyond Five Years.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 246873
+ITEM: Landscape Contract with Westturf Landscape Management, Inc. for the Carmel Valley Maintenance Assessment District (Contract #10090256-25-G).
+ITEMID: 246874
+ITEM: Landscape Contract with Treebeard Landscape, Inc. for the Tierrasanta Maintenance Assessment District (Contract #10090258-25-G).
+ITEMID: 246875
+ITEM: Landscape Contract with Landscape USA, Inc. for the Scripps-Miramar Ranch Maintenance Assessment District (Contract #10090257-25-G).
+ITEMID: 246872
+ITEM: Award of the As-Needed Agreement with Silverado Builders Inc. for Remediation and Cleanup Services Resulting from Water Main Breaks and Sewer Backups (RFP 10090251-25-H) pursuant to Council Policy 400-10.
+ITEMID: 246870
+ITEM: As-Needed Agreement with George Hills Company for Adjuster Services Related to Remediation Services from Water Main Breaks and Sewer Backups (RFP 10089810-24-J).
+ITEMID: 246866
+ITEM: Authorize a First Amendment to Contract 10089947-23-W with Hudson Safe-T-Lite for Miscellaneous Traffic and Street Warning Devices Rentals.
+ITEMID: 246869
+ITEM: Settlement of Sharp Healthcare and AGCS Marine Insurance Company v. City of San Diego, San Diego Superior Court Case Number 24CU027148C, Risk No. 37403.
+ITEMID: 246871
+ITEM: Settlement of McKinley Kekona v. City of San Diego, United States District Court No. 22-cv-00745-MMA-VET, Claim No. 29865.
+ITEMID: 246867
+ITEM: Appointment to the Balboa Park Committee.
+ITEMID: 246868
+ITEM: Appointment to the Planning Commission.
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 247324
+ITEM: Approval of a Request for a Conflict-of-Interest Waiver from Colantuono, Highsmith &amp; Whatley, PC.
+SECTION: ADJOURNMENT
+---RESULTS---
+R SPECIAL CITY COUNCIL MEETING RESULTS SUMMARY DATE: MONDAY, JUNE 9, 2025, COUNCIL MEETING RECORDER: PATTERSON This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316246Motion/SecondVOTEO00000600ApprovedProclaiming June 21, 2025, to be “San Diego Lao Food Festival Day” 6/7Unanimous; 25-not present601A-BApprovedApproving the City Council Minutes of:Subitem A: 04/14/2025;Subitem B: 04/14/2025 3/1Unanimous; 2-not present602Introduced (O-2025-66)Executing the Second Amendment to the Reimbursement and Park Development Agreements with Quarry Falls, LLC, authorizing the CFO to appropriate and expend funds for staff costs in connection with the Quarry Falls Development Project, and authorizing the CFO to appropriate and expend funds for staff costs related to Regional Arterial System projects(NOTE: 6 votes required)I 3/1Unanimous; 2-not present603Introduced (O-2025-129)Authorizing the obligations of Design-Build Contract, K-21-1909-DB2-3, Torrey Pines Fire Station Project, with Level 10 Construction(NOTE: 6 votes required)I 3/1Unanimous; 2-not present604Adopted (R-2025-605 Cor. Copy)Entering into an Agreement with Westurf Landscape Management, Inc. to provide landscape maintenance services, related to the Carmel Valley MADR3162463/1Unanimous; 2-not present605Adopted (R-2025-603)Entering into an Agreement with Treebeard Landscape, Inc, to provide landscape maintenance services, related to the Tierrasanta MADR3162473/1Unanimous; 2-not present606Adopted (R-2025-604)Entering into an Agreement with Landscape USA, Inc. to provide landscape maintenance services, related to the Scripps Miramar Ranch MADR3162483/1Unanimous; 2-not present607AAdopted (R-2025-598)Declaring an exemption from CEQA for approval of the agreement with Silverado Builders Inc. for remediation and cleanup services for City water main breaks and sewer backups on private propertyR3162493/1Unanimous; 2-not present607BAdopted (R-2025-596)Executing the Agreement with Silverado Builders Inc. to provide remediation and cleanup services for City water main breaks and sewer backups on private propertyR3162503/1Unanimous; 2-not present608Adopted (R-2025-597)Executing the Agreement with George Hills Company to provide adjuster servicesR3162513/1Unanimous; 2-not present609Adopted (R-2025-585)Approving a First Amendment to the agreement with ROBCAR Corporation, dba Hudson Safe-T-Light Rentals, under Contract No. ITB 10089837-22-G, for traffic control services and equipment in support of work by City forces on City streetsR3162523/1Unanimous; 2-not present610Adopted (R-2025-539)Authorizing the settlement of Sharp Healthcare and AGCS Marine Insurance Company related to flooding at Sharp Metropolitan Medical CampusR3162533/1Unanimous; 2-not present611Adopted (R-2025-538)Authorizing the settlement of McKinley Kekona alleging excessive forceR3162543/1Unanimous; 2-not present612Adopted (R-2025-592)Confirming the appointment of Michael Singleton to the Balboa Park Committee for a term ending March 1, 2026R3162553/1Unanimous; 2-not present613Adopted (R-2025-593)Confirming the appointment of Daniel Reeves to the Planning Commission for a term ending January 28, 2029R3162563/1Unanimous; 2-not present614AAdopted (R-2025-601)Approving the settlement with Dick Miller, Inc.R3162573/1Unanimous; 2-not present614BIntroduced (O-2025-131)Authorizing the obligations of construction contract K-16-1418-DBB-3 with Dick Miller, Inc., for construction of the Sewer & Water GJ Crown Point South of La Playa project(NOTE: 6 votes required)I 3/1Unanimous; 2-not present615Adopted (R-2025-591)Granting the waiver of potential conflicts of interest requested by Colantuono Highsmith Whatley PC and consenting to Colantuono Highsmith Whatley PC’S representation of the SD Local Agency Formation Commission in anticipated litigation by the CoSD against the San Diego Local Agency Formation CommissionR3162581/9Unanimous; 235-not present QUITQ *COMMENTS None. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 10:35 a.m. 
+
+===MEETING_6739===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS SCHEDULED DURING THE MORNING MEETING
+SECTION: PROCLAMATIONS/CEREMONIAL ITEMS
+ITEMID: 252034
+ITEM: Slow Fashion Day.
+ITEMID: 252347
+ITEM: Youth Homelessness, Outreach, Prevention, and Education (HOPE) Month.
+SECTION: CONSENT ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED:
+ITEMID: 252259
+ITEM: Second amendment to contract 10089693-21-S, Electronic Filing System
+ITEMID: 252363
+ITEM: Exemption of Council Representative Position in Council District 9 from Classified Service.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE ADOPTED:
+ITEMID: 252151
+ITEM: 8610 Genesee Avenue, Project No. PRJ-1121151, Process Five Decision.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 252031
+ITEM: Hotel Circle and Taylor St Roundabout Improvement.
+ITEMID: 252027
+ITEM: Settlement of Celerina Frilles and Matt Frilles v. City of San Diego, San Diego Superior Court No. 37-2020-00015947-CU-CR-CTL, Claim No. 22724.
+ITEMID: 252028
+ITEM: Settlement of Abdullah Wright v. City of San Diego, et al., United States District Court Case No. 24cv02089 GPC BLM, Claim No. 35760.
+ITEMID: 252029
+ITEM: Settlement of Terry Wilson v. City of San Diego, San Diego Superior Court Case No. 37-2024-00011752-CU-PO-CTL, Risk No. 34047.
+ITEMID: 252030
+ITEM: Settlement of Lisa Castro v. City of San Diego et al, San Diego Superior Court No. 37-2023-00055625-CU-PO-CTL, Claim No. 33913.
+ITEMID: 252025
+ITEM: Appointment to the Climate Advisory Board.
+ITEMID: 252026
+ITEM: Appointment to the Consolidated Plan Advisory Board.
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: SPECIAL ORDERS OF BUSINESS
+SECTION: ITEMS PULLED FROM CONSENT BY COUNCILMEMBERS
+SECTION: INFORMATIONAL AND ADOPTION AGENDA ITEMS (10AM SESSION)
+SECTION: ADOPTION AGENDA
+SECTION: 10AM DISCUSSION, ORDINANCES TO BE INTRODUCED:
+ITEMID: 252405
+ITEM: Contract Extension with Ace Parking for Balboa Park Tram Services.
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: TUESDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS TRAILED FROM MORNING OR ITEMS SCHEDULED FOR AFTERNOON SESSION
+SECTION: INFORMATIONAL ITEMS
+SECTION: Drop items here
+SECTION: Into this folder
+ITEMID: 252032
+ITEM: The 2025 Annual Report on Homes.
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 252125
+ITEM: Proposed Amendments to Council Policy 200-15, Increasing the Loss of Revenue Fee for Valet Zones, Increasing the Streetary Permit Fee , and an Informational Update on Progress of Parking Reform Items.
+ITEMID: 252163
+ITEM: Proposed Response to Grand Jury Report – “Never Been Challenged, City of San Diego Development Impact Fee Program Redux”.
+SECTION: NON-AGENDA ITEMS
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+R CITY COUNCIL MEETING RESULTS SUMMARY DATE: TUESDAY, NOVEMBER 4, 2025, COUNCIL MEETING RECORDER: MEDINA This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316497Motion/SecondVOTEO2201330ApprovedProclaiming November 9, 2025, to be “Slow Fashion Day” 8/9Unanimous; 5-not presentS500ApprovedProclaiming the month of November 2025 to be “Youth Homelessness Outreach, Prevention, and Education (HOPE) Month” 8/9Unanimous; 5-not present50Introduced (O-2026-39)Approving the Second Amendment to a Contract with Pasadena Consulting Group LLC for electronic filing system for California Fair Political Practices Commission forms(NOTE: 6 votes required)I 8/4Unanimous; all present51Adopted (O-2026-25)Amending the Costa Verde Specific Plan to remove 12.6 acres located from the specific plan area; and amending Ordinance No. O-16675, adopted June 23, 1986(NOTE: Not subject to Mayor’s veto)O220138/4Unanimous; all present100Adopted (R-2026-168)Making applications to HSIP and take all necessary actions to secure funding for the Hotel Circle Taylor Street Roundabout project; and authorizing the CFO to increase the FY 2026 CIP Budget for the purpose of preliminary engineering, designs, and construction of the projectR3164978/4Unanimous; all present101Adopted (R-2026-153)Authorizing the settlement of Celerina Frilles and Matt Frilles v. CoSD, related to a claim of personal injuries arising out of an alleged dangerous condition of public property and alleged violation of the American with Disabilities Act/California Disabled Persons ActR3164988/4Unanimous; all present102Adopted (R-2026-150)Authorizing the settlement of Abdullah Wright v. CoSD, alleging constitutional violations arising from an interaction when a San Diego Police Officer detained Plaintiff to investigate a potential crime on September 24, 2023R3164998/4Unanimous; all present103Adopted (R-2026-117 Cor. Copy)Authorizing the settlement of Terry Wilson v. CoSD, related to a claim for personal injury damages from a trip and fall accident on the sidewalk at 4100 Front Street on March 16, 2023R3165008/4Unanimous; all present104Adopted (R-2026-155)Authorizing the settlement of Lisa Castro v. CoSD, related to a claim for personal injury damages from a trip and fall accident on sidewalk uplift on the 5200 block of La Jolla Boulevard, on January 14, 2023R3165018/4Unanimous; all present105Adopted (R-2026-161 Cor. Copy)Confirming the appointment of Ronald Diaz to the Climate Advisory BoardR3165028/4Unanimous; all present106Adopted (R-2026-166)Confirming the appointment of Dr. LaWana Richmond to the Consolidated Plan Advisory BoardR3165038/4Unanimous; all presentS501Introduced (O-2026-33)Authorizing the exemption of a Council Representative I position assigned to the Council District 9 Office from the Classified Service, based on advisory review and favorable comment by the Civil Service CommissionI 8/4Unanimous; all present330Item PresentedPresenting The 2025 Annual Report on Homes 331AAdopted (R-2026-165)Adopting an amended version of City Council Policy 200-15 titled Valet Parking and Passenger Loading Zone PolicyR3165043/61234678-yea; 9-nay; 5-not present331BAdopted as Amended(R-2026-167 Rev. Cor. Copy)Approving the establishment of new valet parking permit loss of revenue fees for inclusion in the City Rate BookR3165053/61234678-yea; 9-nay; 5-not present(Motion to approve staff’s recommendation with amendments to the Expanded Valet Zone fee per 22 feet or 1 parking space to: 1) $7500 for Standard Metered Zone 2) $10,000 for Special Event Meter Zone and; 3) $7500 for Partial Valet Zone.)331CReturned to Staff (R-2026-169 Cor. Copy)Amending the Spaces as Places exclusive use fee for streetaries in the public right-of-way for inclusion in the City Rate Book 332Adopted (R-2026-171)Approving the response to 2024/2025 San Diego County Grand Jury Report Titled "Never Been Challenged, CoSD Development Impact Fee Program Redux"(NOTE: Not subject to Mayor’s veto)R3165063/9Unanimous; 258 not presentS502Introduced (O-2026-41)Executing a Second Amendment to the Contract with Ace Parking III, LLC, to allow the City to use the Contract beyond five years, through December 19, 2027, increase the total not-to-exceed amount of the Contract by $2,800,000 for a new total not-to-exceed amount of $6,128,500, and modify the Contract pursuant to the terms and conditions contained in the Second Amendment to the Contract, for Balboa Park Tram Services.(NOTE: 6 votes required)I 3/2Unanimous; all present QUITQ *COMMENTS Non-Agenda Public Comment: PC-1 (virtual): Blair Beekman commented on National Guard in San Francisco; and Automatic License Plate Recognition (ALPR) issues. PC-2 (virtual): Ernie Casco commented on Torrey Pines Gliderport. PC-3(virtual): Bob Kuczewski commented on Torrey Pines Gliderport. PC-4 (virtual): Al Del Mastro commented on restrictions on landlords. PC-5 (virtual): Becky Rapp commented on Assembly Bill 8. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: City Clerk Fuentes reminded everyone that today is Election Day and encouraged all to vote. She noted that City employees and others in the area may use the ballot drop box located outside City Hall. For those mailing their ballots, she emphasized the importance of ensuring they are postmarked by today for them to be counted. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 5:13 p.m. in honor of the memory of: Gordon Brown as requested by Councilmember Foster. 
+
+===MEETING_6782===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: INVOCATION
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: PUBLIC COMMENT ON CLOSED SESSION
+SECTION: MONDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: REQUESTS FOR CONTINUANCE BY COUNCILMEMBERS
+SECTION: INFORMATIONAL ITEMS
+SECTION: INFORMATIONAL ITEMS
+SECTION: 2PM INFORMATIONAL ITEMS
+ITEMID: 253512
+ITEM: SDG&amp;E 2025 Presentation on Gas &amp; Electric Rates.
+ITEMID: 253766
+ITEM: Fiscal Year 2026 First Quarter Budget Monitoring Report.
+ITEMID: 253767
+ITEM: Fiscal Year 2027-2031 Five-Year Financial Outlook.
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 253769
+ITEM: Authorization to Enter Into and Sign a Cooperative Procurement Contract with Genuine Parts Company Doing Business as (d.b.a.) NAPA Integrated Business Solutions for the Purchase of Vendor Managed Inventory and Logistics Management Solutions for Fleets and Facilities.
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: PUBLIC NOTICES
+SECTION: Drop Items Here
+SECTION: Into this Folder
+ITEMID: 253578
+ITEM: Submission of Ballot Proposals for the June 2, 2026 Ballot.
+ITEMID: 253579
+ITEM: Ballot Propositions Forwarded for 2ND Committee Review.
+ITEMID: 253662
+ITEM: Approval of the final map “NAKANO CONDOMINIUMS”.
+SECTION: NON-AGENDA ITEMS
+SECTION: REPORT OUT FROM CLOSED SESSION
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+RCITY COUNCIL MEETING RESULTS SUMMARY DATE: MONDAY, DECEMBER 15, 2025, COUNCIL MEETING RECORDER: MEDINA This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316545Motion/SecondVOTEO00000200Item PresentedPresenting SDG&E 2025 Presentation on Gas & Electric Rates S400Item Presented Presenting FY 2026 First Quarter Budget Monitoring Report S401Item PresentedPresenting FY 2027-2031 Five-Year Financial Outlook S402Adopted (R-2026-204)Entering into and signing a Cooperative Procurement Contract with Genuine Parts Company, doing business as NAPA Integrated Business Solutions, for the purchase of Vendor Managed Inventory and Logistics Management Solutions for Fleets and FacilitiesR3165454/6Unanimous; 7-not present QUIT **COMMENTS Non-Agenda Public Comment: PC-1: Bob Kuczewski commented on area code/Gliderport. PC-2 (virtual): Barbara Gordon commented on effects of marijuana use in pregnancy. PC-3 (virtual): Blair Beekman commented on surveillance tech. PC-4 (virtual): John Stump commented on lobbyist rules. PC-5 (virtual): Francine Maxwell commented on tax dollars; and community meetings. PC-6 (virtual): Madison commented on impact of cannabis products on young people and public health. PC-7 (virtual): James R commented on support legal marijuana. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: CC-1: Councilmember von Wilpert said she attended a vigil with Councilmember Foster honoring victims of gun violence, originally planned to remember the Sandy Hook victims, but also acknowledging recent shootings and antisemitic attacks in the U.S. and Australia. She emphasized the need for the community to unite against hate and gun violence, noting San Diego’s success with tools like red flag laws and gun violence restraining orders. Councilmember von Wilpert announced plans to hold public safety hearings on hate crimes, including antisemitism, and on gun violence prevention. CC-2: Councilmember Elo-Rivera commented on the recent shootings, particularly the attack in Bondi Beach, noting the heightened fear within the Jewish community during the start of Hanukkah. He emphasized that no one should be targeted because of their identity, beliefs, or faith. Councilmember Elo-Rivera also highlighted that one of the attackers was disarmed by a Muslim immigrant who risked his life, pointing to this act as a powerful example of shared humanity and interdependence. He thanked Councilmember von Wilpert for raising the issue and stressed the importance of rejecting dehumanization in all forms. CC-3: Councilmember Campbell thanked colleagues and agreed with their concerns, then proposed a policy solution to reduce mass shootings. She cited the federal ban on automatic style weapons in the 1990s, noting that school shootings were far less frequent during that period and increased after the ban expired. Councilmember Campbell stated that reinstating such a ban could be effective again, pointing to New Zealand’s response to a mosque shooting, where automatic weapons were banned and turned in. She emphasized that these weapons are meant for military use, not civilians. Report Out from Closed Session: The City Attorney gave a report out of Closed Session. Council President LaCava adjourned the meeting at 5:48 p.m. in honor of the memory of: Brenda Jackson as requested by Councilmember Foster. 
+
+===MEETING_6738===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: INVOCATION
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: PUBLIC COMMENT ON CLOSED SESSION
+SECTION: MONDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: REQUESTS FOR CONTINUANCE BY COUNCILMEMBERS
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, ORDINANCES TO BE INTRODUCED:
+ITEMID: 252122
+ITEM: Fourth Amendment to the Agreement Between the City of San Diego and SAP Public Services, Inc. for Software Licensing, Maintenance, Support, and Technical Advisory Services Related to the SAP Systems of the City of San Diego.
+ITEMID: 252123
+ITEM: First Amendment to the Contract Between the City of San Diego and Neptune Software for Licensing, Maintenance, and As-Needed Support and Technical Advisory Services Related to the City’s Mobile Work Management Application Known as BlueWorx.
+ITEMID: 252364
+ITEM: Master Lease Agreements to (i) Finance General Fund Vehicles and Equipment and (ii) Finance Solid Waste Management Fund Refuse and Recycling Bins
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 252033
+ITEM: Annual Presentation of the City Treasurer&#39;s Investment Policy and Delegation of Authority to the City Treasurer to Invest Funds.
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: PUBLIC NOTICES
+SECTION: Drop Items Here
+SECTION: Into this Folder
+ITEMID: 252152
+ITEM: Submission of Ballot Proposals for the June 2, 2026 Ballot.
+SECTION: NON-AGENDA ITEMS
+SECTION: REPORT OUT FROM CLOSED SESSION
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+RCITY COUNCIL MEETING RESULTS SUMMARY DATE: MONDAY, NOVEMBER 3, 2025, COUNCIL MEETING RECORDER: PATTERSON This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316496Motion/SecondVOTEO00000200Introduced (O-2026-29)Executing the Fourth Amendment to the Agreement with SAP Public Services, Inc., for software licensing, maintenance, as-needed support and technical advisory services(NOTE: 6 votes required)I 4/8Unanimous; all present201Introduced (O-2026-30)Executing the First Amendment to the Contract with Neptune Software US, Inc. for licensing, maintenance and as-needed support and technical advisory services(NOTE: 6 votes required)I 4/8Unanimous; all present202Adopted (R-2026-160)Receiving and accepting the City Treasurer's 2026 Investment Policy for the Pooled Investment Funds and authorizing the City Treasurer to invest the City's funds for Calendar Year 2026R3164964/6Unanimous; all presentS400AIntroduced (O-2026-27 Cor. Copy 2)Approving the CoSD’s Master Lease Agreement with Banc of America Public Capital Corp for the purpose of financing the acquisition of General Fund vehicles and equipment and Solid Waste Management Fund refuse and recycling bins(NOTE: 6 votes required)I 1/512345679-yea; 8-nayS400BIntroduced (O-2026-40 Cor. Copy)Approving the CoSD’s Master Lease Agreement with Banc of America Public Capital Corp for the purpose of financing the acquisition of Solid Waste Management Fund refuse and recycling bins(NOTE: 6 votes required)I 1/3123689-yea; 457-nay QUIT **COMMENTS Non-Agenda Public Comment: PC-1: Clayton Wiedenhoft commented on escalators and elevators lack of stairs on the 1st floor to 3rd floor at the San Diego Public Library. PC-2: Kenia Peraza commented on public comment. PC-3: Miguel Aguirre commented on public comment. PC-4: Juan Garcia commented on San Ysidro ACCE community issues. PC-5: Angel Lopez commented on ACCE San Ysidro community issues. PC-6: Francisco Mayorell commented on incompetence. PC-7 (virtual): Blair Beekman commented on strong mayoral system. PC-8 (virtual): Barbara Gordon commented on stronger regulations surrounding marijuana use and road safety. PC-9 (virtual): Lori Saldaña commented on hazardous use of rodenticide; and violation of basic human rights. PC-10 (virtual): Ernie Casco commented on Torrey Pines Gliderport. PC-11 (virtual): Kathleen Lippitt commented on vehicle injuries and deaths from DUI’s. PC-12 (virtual): TheOriginalDra commented on tent city. PC-13 (virtual): Peggy Walker commented on nicotine pouches. PC-14 (virtual): Francine Maxwell commented on community gardens at parks; and Measure H. PC-15 (virtual): Madison commented on tobacco control and youth prevention. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: CC-1: Councilmember Elo-Rivera thanked the San Diego Food Bank and Feeding San Diego for stepping up and helping those in need. He shared that there are over 400,000 in San Diego seeing significant reductions to their food benefits. Councilmember Elo-Rivera stated there is a significant amount of need and anyone who can contribute will be ensuring that families don’t go hungry. City Clerk Fuentes shared that her office will be hosting a series of Community Listening Sessions to support a community engagement survey over the next several months. She mentioned these sessions are an opportunity for us to talk directly with the community about how City Council meetings work, how they can access agendas and public records, and most importantly, how we can make it easier for everyone to participate in their local government. City Clerk Fuentes stated our goal is simple: to listen and learn. She invited everyone to join the first session on November 5, 2025, at 5:00 p.m. virtually at www.sandiego.gov/listening or in person at the Logan Heights Library. City Clerk Fuentes asked everyone to visit sandiego.gov/engagement to take the survey, obtain the virtual link for the listening session, and stay up to date on this topic. She noted that together we can strengthen communication, expand access, and shape the future of our City. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 4:30 p.m. in honor of the memory of: Julio Deguzman as requested by Councilmember von Wilpert. 
+
+===MEETING_6698===
+---ITEMS---
+SECTION: ROLL CALL:
+SECTION: NON-AGENDA PUBLIC COMMENT:
+SECTION: COMMITTEE MEMBERS, MAYOR, INDEPENDENT BUDGET ANALYST, CITY ATTORNEY COMMENT:
+SECTION: REQUESTS FOR CONTINUANCE:
+SECTION: CONSENT AGENDA:
+ITEMID: 251864
+ITEM: Approval of Committee Minutes
+ITEMID: 251849
+ITEM: Request for an Extension of the Construction Contract # K-20-1911-DBB-3 with Burtech Pipeline Incorporated for the construction of the Balboa Park Pipeline Phase III Project
+ITEMID: 251850
+ITEM: Time Extension of Construction Contract (K-17-1456-DBB-3) with Steve P. Rados, Inc., and 5th Amendment to Consultant Agreement (H115417) with Lee and Ro Inc. for the Pump Station 2 Power Reliability &amp; Surge Protection Project.
+ITEMID: 251853
+ITEM: Award a consultant agreement (H2526563-M) with Kleinfelder, Inc. for the purpose of providing design and construction support services for the Cielo &amp; Woodman Pump Station project.
+ITEMID: 251851
+ITEM: Reimbursement Agreement between City and SANDAG for construction of Imperial Avenue Bikeway Pavement Repair Project.
+ITEMID: 251863
+ITEM: Time Extension of Construction Contract (K-20-1914-EMR-3) with Otis Elevator Company, and authorization of Construction Change Order No. 4 for the Civic Center Plaza Elevator Emergency Modernization Project.
+SECTION: DISCUSSION AGENDA:
+ITEMID: 251852
+ITEM: Proposed Response to Grand Jury Report – “Never Been Challenged, City of San Diego Development Impact Fee Program Redux”
+---RESULTS---
+
+===MEETING_6595===
+---ITEMS---
+SECTION: ROLL CALL:
+SECTION: NON-AGENDA PUBLIC COMMENT:
+SECTION: COMMITTEE MEMBERS, MAYOR, INDEPENDENT BUDGET ANALYST, CITY ATTORNEY COMMENT:
+SECTION: REQUESTS FOR CONTINUANCE:
+SECTION: CONSENT AGENDA:
+ITEMID: 247939
+ITEM: Approval of Committee Actions
+ITEMID: 248105
+ITEM: Execute and award a 1-year contract with option to extend for four additional 1-year periods for as-needed crack seal services with Safe USA, Inc. in an amount not to exceed $5,000,000.
+ITEMID: 248106
+ITEM: CMA-CIP (E&amp;CP-41395) Award a consultant agreement, #H2226034 to Kleinfelder Construction Services (KCS), for the purpose of providing construction management and environmental services for the El Camino Real Bridge &amp; Road Widening project.
+ITEMID: 248107
+ITEM: Award three (3) Professional As-Needed Quality Assurance Material Test Lab Services (H2526552, H2526557, H2526558)
+ITEMID: 248108
+ITEM: Ratification of Emergency Sole Source Contract K-24-2316-EMR-3 with Orion Construction Corporation, and authorization of Construction Change Order No. 1 for the Villa La Jolla Storm Drain System Emergency project.
+ITEMID: 248109
+ITEM: Authorize Construction Change Order #1 for the Point Loma Wastewater Treatment Plant Storm Damage Repair (K-24-2291-EMR-3) with Cass Arrieta
+SECTION: DISCUSSION AGENDA:
+ITEMID: 247940
+ITEM: Amendments to the San Diego Municipal Code related to Progressive Design-Build and Construction Manager at Risk procurement methods for Public Works projects and Capital Improvements Program (Process Improvements and streamlining).
+SECTION: INFORMATION AGENDA:
+ITEMID: 247941
+ITEM: IBA Response to Resolution R-315764 Affirming Safety as the Highest Transportation-Related Priority
+---RESULTS---
+
+===MEETING_6593===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS SCHEDULED DURING THE MORNING MEETING
+SECTION: PROCLAMATIONS/CEREMONIAL ITEMS
+ITEMID: 248251
+ITEM: Margaret Leinen Day.
+SECTION: CONSENT ITEMS
+SECTION: APPROVAL AGENDA
+SECTION: APPROVAL OF COUNCIL MINUTES
+ITEMID: 248110
+ITEM: Approval of Council Minutes.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED:
+ITEMID: 248296
+ITEM: Authorization to Enter Into a Contract with Motorola Solutions, Inc. for the San Diego Police Department Computer Aided Dispatch (CAD) System.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE ADOPTED:
+ITEMID: 248079
+ITEM: Accessory Dwelling Unit (ADU) and Junior Accessory Dwelling Unit (JADU) Regulation Amendments to the San Diego Municipal Code and Local Coastal Program Amendment.
+ITEMID: 248080
+ITEM: Authorize the Fifth Amendment to Sole Source (SS) # 3279 Agreement with Dr. David Victor for Energy Market Expert Review Services Regarding the San Vicente Hydroelectric Pumped Storage Project.
+ITEMID: 248081
+ITEM: Operating and Management Agreement Between the City of San Diego and Downtown San Diego Partnership, Inc. for the Renewed Downtown Property and Business Improvement District.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 247964
+ITEM: Proposed Third Amendment to Lease Between Neighborhood House Association and the City of San Diego – 475 West Broadway – Columbia neighborhood of the Downtown Community Plan Area.
+ITEMID: 247961
+ITEM: Annual Special Tax Levy - Community Facilities Districts No. 2, No. 3, and No. 4.
+ITEMID: 247956
+ITEM: Settlement of Michael Fox v. City of San Diego, et al., San Diego Superior Court No. 37-2023-00010482 CU-PO-CTL, Claim No. 31687.
+ITEMID: 247957
+ITEM: Reappointments to the Commission on Police Practices.
+ITEMID: 247959
+ITEM: Appointment to the Community Forest Advisory Board.
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: SPECIAL ORDERS OF BUSINESS
+SECTION: ITEMS PULLED FROM CONSENT BY COUNCILMEMBERS
+SECTION: INFORMATIONAL AND ADOPTION AGENDA ITEMS (10AM SESSION)
+SECTION: ADOPTION AGENDA
+SECTION: 10AM DISCUSSION, ORDINANCES TO BE INTRODUCED:
+ITEMID: 248295
+ITEM: Ordinance Regarding Residential Tenant Utility Charges.
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: TUESDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS TRAILED FROM MORNING OR ITEMS SCHEDULED FOR AFTERNOON SESSION
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, ORDINANCES TO BE INTRODUCED:
+ITEMID: 248270
+ITEM: Ordinance Amending the Municipal Code Relating to Grocery Pricing Transparency.
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 248062
+ITEM: Consideration of Nominees for Appointment to the Commission on Police Practices.
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, NOTICED HEARINGS:
+ITEMID: 248059
+ITEM: Public Right-of-Way Vacation for 3407 E Street – PRJ-1106328.
+ITEMID: 248060
+ITEM: Easement Vacation for 5322 Alta Bahia Court – Project No. PRJ-1113835.
+SECTION: NON-AGENDA ITEMS
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+R CITY COUNCIL MEETING RESULTS SUMMARY DATE: TUESDAY, JULY 1, 2025, COUNCIL MEETING RECORDER: PATTERSONThis is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316315Motion/SecondVOTEO21982S500ApprovedProclaiming July 1, 2025, to be “Margaret Leinen Day”(Note: Council President LaCava requested that Councilmember Lee be added as a presenter.) 1/3Unanimous; 268-not present10A-DApprovedApproving the City Council Minutes of:Subitem A: 04/28/2025 Adj.;Subitem B: 04/29/2025 Adj.;Subitem C: 05/12/2025;Subitem-D: 05/13/2025 7/4Unanimous; 268-not present50Returned to Staff(O-2025-136 Rev. Cor. Copy)Amending Chap 11, Art 3, Div 1 of the SDMC relating to Amendment to the Accessory Dwelling Unit and Junior Dwelling Unit RegulationsO 51Adopted (O-2025-135)Executing Amendment No. 5 to the Contract with Dr. David G. Victor, extending the Contract through August 22, 2030, in connection with Energy Market Expert Review Services regarding the potential San Vicente Hydroelectric Pumped Storage Project(NOTE: 6 votes required)O219827/4Unanimous; 268-not present52Adopted (O-2025-140)Entering into a ten-year Agreement with San Diego Downtown Partnership, to provide above-baseline services in the Downtown PBID(NOTE: 6 votes required)O219837/4Unanimous; 268-not present100AAdopted (R-2025-631)Declaring an exemption from CEQA for approval of the Third Amendment to the Lease with the Neighborhood House Association for property located at 475 W. BroadwayR3163157/4Unanimous; 268-not present100BAdopted (R-2025-632)Approving the Third Amendment to the Lease with the Neighborhood House Association for property located at 475 W. BroadwayR3163167/4Unanimous; 268-not present101AAdopted (R-2025-649)Authorizing the annual levy of special taxes within the City’s Community Facilities District No. 2R3163177/4Unanimous; 268-not present101BAdopted (R-2025-650)Authorizing the annual levy of special taxes within the City’s Community Facilities District No. 3R3163187/4Unanimous; 268-not present101CAdopted (R-2025-651)Authorizing the annual levy of special taxes within the City’s Community Facilities District No. 4R3163197/4Unanimous; 268-not present102Adopted (R-2025-572)Authorizing the settlement of Michael Fox related to a claim of personal injuriesR3163207/413479-yea; 5-nay; 268-not present103Adopted (R-2025-638)Confirming the reappointments of Ada Liz Rodriguez, Cheryl Canson, Dwayne Harvey, Armando Flores, and Bonnie Benitez to the Commission on Police Practices for terms ending June 30, 2027(NOTE: Not subject to Mayor’s veto)R3163217/4Unanimous; 268-not present104Adopted (R-2025-633)Confirming the appointment of Robert Terrell Rackley to the Community Forest Advisory Board for a term ending December 31, 2025R3163227/4Unanimous; 268-not presentS502Introduced (O-2025-146)Executing a Contract with Motorola Solutions, Inc. for a new CAD system for a term of five years with five additional one-year options(NOTE: 6 votes required)I 7/4Unanimous; 268-not present330Adopted (R-2025-639 Cor. Copy 3)Confirming Council's appointments to the Commission on Police Practices(NOTE: Not subject to Mayor’s veto)R3163234/9Unanimous; 28-not present(Motion to appoint Michael Rodney Major Jr. for Youth category with term ending June 30, 2027.)9/4Unanimous; 28-not present(Motion to appoint Esdras J. Silva for Low-to Moderate-Income category with term ending June 30, 2027.)3/4Unanimous; 28-not present(Motion to appoint Daniel Torres for District 3 category with term ending June 30, 2027.) Round 1 – AppointedDavid Burton and Elizabeth Inpyn for At Large category with term ending June 30, 2027 1345679-David Burton1345679-Elizabeth Inpyn3579-Brian J. Kammerer146-Dante TufanoRound 2 – No appointee 3579-Brian J. Kammerer146-Dante TufanoRound 3 – No appointee 357-Brian J. Kammerer1469-Dante Tufano331AAdopted (R-2025-611)Declaring an exemption from CEQA for the 34th Street Vacation Project(NOTE: Not subject to Mayor’s veto)R3163249/6Unanimous; 28-not present331BAdopted (R-2025-610)Approving Public Right-of Way Vacation No. PMT-3262248 for the 34th Street Vacation Project(NOTE: Not subject to Mayor’s veto)R3163259/6Unanimous; 28-not present332AAdopted (R-2025-646)Declaring an exemption from CEQA for the approval of the 5322 Alta Bahia Project(NOTE: Not subject to Mayor’s veto)R3163261/5Unanimous; 28-not present332BAdopted (R-2025-645)Approving Easement Vacation Number PMT-3287175 for the 5322 Alta Bahia Court Easement Vacation Project – Project No. PRJ1113835(NOTE: Not subject to Mayor’s veto)R3163271/5Unanimous; 28-not presentS501Introduced as Amended(O-2025-144 Rev.)Amending Chap 3, Art 11, Div 1 of the SDMC relating to the Grocery Pricing Transparency OrdinanceI 5/9Unanimous; 28-not present(Motion to approve staff’s recommendation with the following amendments to: 1) Section 311.0101 by deleting “publicly available” from the second and third sentences; adding a new third sentence stating, “It is not the intent of this Division to prevent consumers from engaging with grocery store loyalty and rewards programs.”; and revising the last sentence by adding “Rather, it is”; 2) Section 311.0103 by revising subsection (a) by adding paragraphs (1) and (2) separating requirements for publicly available digital discounts and digital discounts offered to loyalty or rewards program participants; revising mandatory sign language in subsection (c) by deleting “publicly available” and adding “and participants of loyalty or rewards programs.”; and 3) Section 311.0105 by revising and organizing the section by adding subsections (a), (b) and (c) setting forth exceptions for grocery stores that operate exclusively online, digital discounts offered by or through grocery store paid subscription or membership programs, and personalized digital discounts offered through grocery store loyalty or rewards programs.)S503Introduced (O-2025-145)Amending Chap 9, Art 8 of the SDMC relating to residential tenant utility feesI 9/3Unanimous; 268-not present QUITQ *COMMENTS Non-Agenda Public Comment: PC-1: Joy Sunyata commented on County Water Authority. PC-2: Geoffrey Hueter commented on ADU regulations. PC-3: Scott Chipman commented on public insult. PC-4: Kathy McClelland commented on respect for the public. PC-5: Becca Batista commented on cancelling agenda item. PC-6: Paul Krueger commented on Item 50 ADU delay. PC-7: Danna Givot commented on respect for public. PC-8: Angela Guzy commented on ADU amendments. PC-9: Kim Sharp commented on ADU’s. PC-10: Lorri Freitas commented on ADU amendments delay. PC-11: Blair Beekman commented on ALPR’s apology. PC-12 (virtual): Barbara Gordon commented on second-hand smoke. PC-13 (virtual): TheOriginalDra commented on tent city. PC-14 (virtual): Kathleen Lippitt commented on marijuana and violence. PC-15 (virtual): Becky Rapp commented on smoke-free multi-unit policy. PC-16 (virtual): Judi Strang commented on mental health; and smoke-free air. PC-17 (virtual): Catharine Douglass commented on ADU’s and public safety. PC-18 (virtual): Terri-Ann Skelly commented on needs for parks and recreation opportunities, not smoke shops. PC-19 (virtual): Lisa Becerra commented on reforms for the density bonus program. PC-20 (virtual): Megan Stuart commented on operating hours of marijuana storefronts. PC-21 (virtual): Madison commented on marijuana health risks. PC-22 (virtual): Erik commented on ADU item returned; and cost of living in San Diego. PC-23 (virtual): Michael Schmidt commented on overlay needed on Capricorn Street. PC-24 (virtual): Peggy Walker commented on marijuana mental illness and violence. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: City Clerk Fuentes notified the public that she will be on medical leave beginning on Thursday, July 3, 2025, and stated that her very capable and wonderful staff will be taking the chair for the next 6 weeks. She expressed her appreciation for everyone’s support and love. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 3:55 p.m. 
+
+===MEETING_6599===
+---ITEMS---
+SECTION: ROLL CALL:
+SECTION: APPROVAL OF COMMITTEE MINUTES:
+SECTION: NON-AGENDA PUBLIC COMMENT:
+SECTION: COMMITTEE MEMBERS, MAYOR, INDEPENDENT BUDGET ANALYST, CITY ATTORNEY COMMENT:
+SECTION: REQUESTS FOR CONTINUANCE:
+SECTION: CONSENT AGENDA:
+ITEMID: 248160
+ITEM: Approval of Committee Minutes
+ITEMID: 248271
+ITEM: First Amendment to Lease Between the City and Alpine 26, LLC, Pacific 26 LLC, and Emery 26 LLC for 9275 Sky Park Court, San Diego, CA.
+ITEMID: 248272
+ITEM: Approval of the First Amendment to the Rowe Solutions, Inc. Contract to Provide Meal Delivery Services.
+ITEMID: 248273
+ITEM: Amend the “2020 River Park Maintenance Agreement” between the City of San Diego and San Diego State University (SDSU) to approve a limited-duration easement for SDSU to design, construct and operate the “One Water Learning Laboratory” and outdoor space for educational and research purposes near SDSU’s Mission Valley campus village.
+ITEMID: 248274
+ITEM: Accept a non-exclusive easement for vehicular and pedestrian ingress and egress at 10290 and 10300 Campus Point Drive, San Diego, CA.
+ITEMID: 248275
+ITEM: Seventh Amendment to the Lease between the City of San Diego and I&amp;G 525 B Street, LLC for 525 B Street, San Diego, CA 92101
+ITEMID: 248276
+ITEM: First Amendment to Lease Agreement with Northeast MB, LLC at 2727 De Anza Rd. San Diego, CA 92109
+ITEMID: 248277
+ITEM: Second Amendment to Lease Agreement with Campland, LLC at 2211 Pacific Beach Drive, San Diego, 92109
+ITEMID: 248278
+ITEM: Authorize the City of San Diego to accept endowment funds for the creation of two special funds for the long-term management of two vernal pool preserves
+SECTION: DISCUSSION AGENDA:
+ITEMID: 248280
+ITEM: Declare the City-owned real property commonly known as the “City Operations Building” (COB) located at 1222 First Avenue, San Diego, CA (Property), “surplus land” pursuant to California Government Code sections 54220-54234
+ITEMID: 248281
+ITEM: Declare City-owned real property within Mission Bay Park “surplus land” pursuant to California Government Code sections 54220-54234.
+ITEMID: 248282
+ITEM: Approval of a 10-year Lease with the Downtown San Diego Public Spaces Foundation for the Operation of a Quick-Service Restaurant at Children’s Park, located at 101 Island Drive, San Diego, CA 92101.
+ITEMID: 248283
+ITEM: Request approval of the Ground Lease Disposition Agreement and Ground Lease Agreement between the City of San Diego and a Limited Partnership to be formed and controlled by MRK Partners, Inc. and MKAFF Housing, LLC for the City-owned property located at 101 Ash Street, San Diego.
+SECTION: INFORMATION AGENDA:
+ITEMID: 248279
+ITEM: Building a Vision for San Diego’s Civic Center
+---RESULTS---
+
+===MEETING_6592===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: INVOCATION
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: PUBLIC COMMENT ON CLOSED SESSION
+SECTION: MONDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: REQUESTS FOR CONTINUANCE BY COUNCILMEMBERS
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, ORDINANCES TO BE INTRODUCED:
+ITEMID: 248284
+ITEM: Fiscal Year 2026 Appropriation Ordinance.
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, ORDINANCES TO BE ADOPTED:
+ITEMID: 247688
+ITEM: Fiscal Year 2026 Tax Rate Ordinance for the Maintenance of Zoological Exhibits.
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 247689
+ITEM: Fiscal Year 2026 Tax Appropriations Limit (Gann Limit).
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, NOTICED HEARINGS:
+ITEMID: 247954
+ITEM: Bayshore Bikeway Barrio Logan Pedestrian Overpass – Project No. PRJ-1119877.
+ITEMID: 247955
+ITEM: Amendment to Hours of Operation for Cannabis Outlets.
+ITEMID: 248252
+ITEM: Draft FY 2026 Annual Action Plan for HUD Programs, FY 2026 Annual HUD Programs Allocations, and Associated Actions.
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: NON-AGENDA ITEMS
+SECTION: REPORT OUT FROM CLOSED SESSION
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+RCITY COUNCIL MEETING RESULTS SUMMARY DATE: MONDAY, JUNE 30, 2025, COUNCIL MEETING RECORDER: MEDINA This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316309Motion/SecondVOTEO21980200Introduced and Adopted (O-2025-137 Cor. Copy)Fixing the rate of taxation to maintain zoological exhibits in Balboa Park for FY 2026O219803/7Unanimous; 2-not present201Adopted (R-2025-615)Approving the establishment of the FY 2026 Tax Appropriations Limit (Gann Limit)(NOTE: Not subject to Mayor’s veto)R3163094/6Unanimous; 2-not present202AAdopted (R-2025-628)Declaring an exemption from CEQA for the approval of the Bayshore Bikeway Barrio Logan Navy Pedestrian Overpass Project No. PRJ-1119877(NOTE: Not subject to Mayor’s veto)R3163108/9Unanimous; 25-not present202BAdopted (R-2025-629)Approving Easement Vacation No. PMT-3310560 for the Bayshore Bikeway Barrio Logan Navy Pedestrian Overpass Project No. PRJ-1119877(NOTE: Not subject to Mayor’s veto)R3163118/9Unanimous; 25-not present202CAdopted (R-2025-630)Approving CDP No. PMT-3310561 for the Bayshore Bikeway Barrio Logan Pedestrian Overpass Project No. PRJ-1119877(NOTE: Not subject to Mayor’s veto)R3163128/9Unanimous; 25-not present203AAdopted (R-2025-634)Declaring an exemption from CEQA for the approval of amending the hours of operation for cannabis outletsR3163137/4Unanimous; 25-not present203BIntroduced (O-2025-134)Amending Ch 14, Art 1, Div 5 of the SDMC relating to hours of operation for cannabis outletsI 7/4Unanimous; 25-not presentS400Adopted (R-2025-652)Approving the FY 2026 Annual Action Plan for CDBG, HOME, and ESG Programs, Allocating Funding from the FY 2026 U.S. Department of Housing and Urban Development Entitlement Grant ProgramsR3163149/4Unanimous; 2-not presentS401Introduced and Adopted (O-2025-133)Approving the Budget of the CoSD for FY 2026 and appropriating all necessary funds to operate the City(NOTE: Not subject to Mayor’s veto)O219814/61345679-yea; 8-nay; 2-not present QUIT **COMMENTS Non-Agenda Public Comment: PC-1: Joy Sunyata commented on water conservation garden. PC-2: Blair Beekman commented on community tech. PC-3 (virtual): Terri-Ann Skelly commented on budget. PC-4 (virtual): Francine Maxwell commented on police department; and racial discrimination. PC-5 (virtual): Judi Strang commented on regulations for pot shops. PC-6 (virtual): Peggy Walker commented on social host ordinance; and effects of marijuana and alcohol in teens. PC-7 (virtual): Kathleen Lippitt commented on racial discrimination. PC-8 (virtual): Megan Stuart commented on negative impacts of marijuana in youth and pregnant women. PC-9 (virtual): Madison commented on youth substance use. PC-10 (virtual): Becky Rapp commented on banning intoxicating hemp products. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: CC-1: Councilmember von Wilpert honored two firefighters who were killed in an ambush while responding to a wildfire in Idaho, expressing sympathy for those affected. She emphasized the growing dangers first responders face and stressed the importance of safety in San Diego. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 4:24 p.m. 
+
+===MEETING_6676===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS SCHEDULED DURING THE MORNING MEETING
+SECTION: PROCLAMATIONS/CEREMONIAL ITEMS
+ITEMID: 250079
+ITEM: Allied Gardens/Benjamin Library 60th Anniversary Day.
+ITEMID: 250078
+ITEM: San Diego Hunger Awareness Month.
+ITEMID: 250081
+ITEM: National Service Dog Month.
+ITEMID: 250080
+ITEM: James Neel Day.
+ITEMID: 250391
+ITEM: La Jolla Beach and Tennis Club’s 90th Anniversary Day.
+ITEMID: 250392
+ITEM: Pacific Beach Town Council’s 45th Annual PAESAN Day.
+ITEMID: 250393
+ITEM: San Diego Fire Rescue Foundation Day.
+ITEMID: 250508
+ITEM: Fanny Miller Day.
+ITEMID: 250526
+ITEM: Friends of San Diego Architecture 40th Anniversary Day.
+SECTION: CONSENT ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 250521
+ITEM: Federal Aviation Administration Airport Infrastructure Grant- Montgomery Gibbs Executive Airport Terminal Apron Rehabilitation Design.
+ITEMID: 250522
+ITEM: Federal Aviation Administration Airport Improvement Grant- Montgomery Gibbs Executive Airport Runway 10R/28L, Taxiway Bravo, Foxtrot, Hotel, Mike, Delta, and Charlie Rehabilitation Design.
+ITEMID: 250523
+ITEM: Federal Aviation Administration Airport Improvement Grant- Brown Field Airport Taxiway Bravo, Charlie, and Golf Rehabilitation.
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: SPECIAL ORDERS OF BUSINESS
+SECTION: ITEMS PULLED FROM CONSENT BY COUNCILMEMBERS
+SECTION: INFORMATIONAL AND ADOPTION AGENDA ITEMS (10AM SESSION)
+SECTION: INFORMATIONAL ITEMS
+SECTION: 10AM INFORMATIONAL ITEMS:
+ITEMID: 250266
+ITEM: Performance Audit of the City’s Grants Program.
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: TUESDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: REQUEST FOR CONTINUANCE BY A COUNCILMEMBER FOR ITEMS TRAILED FROM MORNING OR ITEMS SCHEDULED FOR AFTERNOON SESSION
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, ORDINANCES TO BE INTRODUCED:
+ITEMID: 250529
+ITEM: Hospitality Minimum Wage Ordinance for Certain Workers at Hotels, Event Centers, and Amusement Parks, Within the Geographic Boundaries of the City of San Diego.
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 250093
+ITEM: Consideration of Nominees for Appointment to the Commission on Police Practices.
+SECTION: NON-AGENDA ITEMS
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+R CITY COUNCIL MEETING RESULTS SUMMARY DATE: TUESDAY, SEPTEMBER 16, 2025, COUNCIL MEETING RECORDER: MEDINA This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316431Motion/SecondVOTEO0000030ApprovedProclaiming September 20, 2025, to be “Allied Gardens/Benjamin Branch Library 60th Anniversary Day” 8/6Unanimous; 7-not present31ApprovedProclaiming September 2025 as “San Diego Hunger Awareness Month” 8/6Unanimous; 7-not present32ApprovedProclaiming September 2025 to be “National Service Dog Month” 8/6Unanimous; 7-not present33ApprovedProclaiming July 20, 2025, to be “James Neel Day” 8/6Unanimous; 7-not presentS501ApprovedProclaiming September 16, 2025, to be “La Jolla Beach and Tennis Club’s 90th Anniversary Day" 8/6Unanimous; 7-not presentS502ApprovedProclaiming September 24, 2025, to be “Pacific Beach Town Council’s 45th Annual PAESAN Day" 8/6Unanimous; 7-not presentS503ApprovedProclaiming September 18, 2025, to be “San Diego Fire Rescue Foundation Day” 8/6Unanimous; 7-not presentS504ApprovedProclaiming September 16, 2025, to be “Fanny Miller Day” 8/6Unanimous; 7-not presentS508ApprovedProclaiming September 20, 2025, to be “Friends of San Diego Architecture 40th Anniversary Day” 8/6Unanimous; 7-not presentS505Adopted (R-2026-102)Authorizing to secure, accept, and expend a Federal Aviation Administration for the design of a terminal apron rehabilitation project at Montgomery-Gibbs Executive AirportR3164315/2Unanimous; 7-not presentS506Adopted (R-2026-100)Authorizing to secure, accept, and expend a Federal Aviation Administration for the design of a runway and taxiway rehabilitation project at Montgomery-Gibbs Executive AirportR3164325/2Unanimous; 7-not presentS507Adopted (R-2026-99)Authorizing to secure, accept, and expend a Federal Aviation Administration for the design of a taxiway rehabilitation project at Brown Field AirportR3164335/2Unanimous; 7-not present330Adopted (R-2026-90)Confirming Council's appointments to the Commission on Police Practices(NOTE: Not subject to Mayor’s veto)R3164345/2Unanimous; 7-not present(Motion to appoint Chenyang Rickard for District 5 category with term ending 06/30/2026.) Round 1 - Appointed:Walter Jordan “Jay” Sener, IV-District 7 category with term ending 06/30/2026 12345689-Sener Round 1 - Appointed:Kirby Knipp-At Large category with term ending 06/30/2027 1234689-Knipp5-TepedinoS500Item PresentedPresenting Performance Audit of the City’s Grants Program S509AIntroduced as Amended(O-2026-12 Rev)Amending Ch 3 of the SDMC by adding new Art 12, Div 1, relating to the minimum wage for hospitality employeesI 9/4Unanimous; 7-not present(Motion by Councilmember Elo-Rivera to introduce the ordinance with staff’s recommended amendments which include changes to Section 312.0104(b) by adding “and which are directly related to the operations of the hotel, event center, or amusement park;” Section 312.0104(c) by adding “housekeeping, janitorial, security, parking, valet parking, food preparation, ushering, ticket-taking, concession, retail store, massage or spa, restaurant, bar, or landscaping“ and removing “for at least 30 days in a calendar year;” and changes to Section 312.0105(a) by adding “Hospitality employers must pay all wages owed employees under section 312.0105, whether the amount is fixed or ascertained by the standard of time, task, piece, commission basis, or other method of calculation, in a manner and frequency consistent with the California Labor Code and wage orders published by the California Industrial Welfare Commission or the California Division of Labor Standards Enforcement.”)S509BIntroduced (O-2026-13)Amending Ch 2, Art 2 of the SDMC Code by amending Div 42, relating to the City of San Diego Living Wage OrdinanceI 9/4Unanimous; 7-not present QUITQ *COMMENTS Non-Agenda Public Comment: PC-1: Evelyn commented on child trafficking. PC-2: Allegedly Audra commented on city failures. PC-3 (virtual): Blair Beekman commented on parking and trash issues. PC-4 (virtual): JJ commented on Balboa Park parking. PC-5 (virtual): Ria commented on fixing Gaslamp Quarter and Convention Center. PC-6 (virtual): Becky Rapp commented on 99-unit affordable housing project, Skyline Apartments and smoke-free policies. PC-7 (virtual): Judi Strang commented on substance use prevention. PC-8 (virtual): Joy Sunyata commented on budget. PC-9 (virtual): Madison commented on harms cause by marijuana use. PC-10 (virtual): Bob Kuczewski commented on Charlie Kirk and Torrey Pines Gliderport. PC-11 (virtual): Zoom user commented on Israel Defense Force (IDF) and Gaza. PC-12 (virtual): John Stump commented on flooding on Chollas Creek. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: CC-1: Councilmember von Wilpert commented on Minnesota holding a special election to replace former State Speaker Melissa Hortman, who was shot and killed at home with her husband. The state is also preparing memorials for children killed in a church school shooting. She stated these tragedies reflect a rise in political and gun violence, including the reported killing of Charlie Kirk. Councilmember von Wilpert hopes voters go to the polls, and elect someone committed to ending this violence. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 5:52 p.m. 
+
+===MEETING_6680===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: REQUESTS FOR CONTINUANCE BY COUNCILMEMBERS
+SECTION: PROCLAMATIONS/CEREMONIAL ITEMS
+ITEMID: 250456
+ITEM: Transit Month.
+ITEMID: 250457
+ITEM: Remote Ocean Systems 50th Anniversary Day.
+SECTION: CONSENT ITEMS
+SECTION: APPROVAL AGENDA
+SECTION: APPROVAL OF COUNCIL MINUTES
+ITEMID: 250507
+ITEM: Approval of Council Minutes.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE INTRODUCED:
+ITEMID: 250494
+ITEM: Amendments to the San Diego Municipal Code Related to Progressive Design-Build and Construction Manager at Risk Procurement Methods for Public Works Projects and Capital Improvements Program (Process Improvements and Streamlining).
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, ORDINANCES TO BE ADOPTED:
+ITEMID: 250496
+ITEM: Approval of an Ordinance Authorizing the Mayor or Designee to Execute the First Amendment to the As-Needed Cooperative Procurement Contract with Motorola Solutions, Inc. for Radio System Infrastructure Network Equipment and Support Services.
+ITEMID: 250497
+ITEM: Authorization to Enter Into and Sign a Contract with CivicPlus, LLC for a Public Records Request Management Solution for the City of San Diego.
+ITEMID: 250498
+ITEM: Approval of the Joint Use Agreements between the City and San Diego Unified School District for Cadman Elementary, Carson Elementary, Holmes Elementary, Joyner Elementary, Montgomery Middle, and Pacific Beach Elementary Schools.
+SECTION: ADOPTION AGENDA
+SECTION: CONSENT, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 250490
+ITEM: Authorize the First Amendment to the Pipeline Installation and Maintenance Agreement (PIMA) Dated August 19, 2015, Between the City of San Diego and the United States of America, Acting by and Through the Department of the Navy.
+ITEMID: 250499
+ITEM: Settlement of Vernon Watts Jr. v. City of San Diego,  San Diego Superior Court Case No. 37-2023-00036357 CU-PA-CTL, Claim No.  31410.
+ITEMID: 250390
+ITEM: Reappointments to the Small Business Advisory Board.
+ITEMID: 250491
+ITEM: Appointment to the International Affairs Board.
+ITEMID: 250492
+ITEM: Appointment to the Board of Library Commissioners.
+ITEMID: 250500
+ITEM: Declaring a Continued State of Emergency Regarding Raw Sewage, Solid Waste, and Sediment Coming from Tijuana, Mexico.
+ITEMID: 250770
+ITEM: Appointment of Alternate Members of the Ad Hoc Committee for the Recruitment of the Executive Director to the Commission on Police Practices.
+SECTION: INFORMATIONAL ITEMS
+SECTION: Drop Items Here
+SECTION: Into this Folder
+ITEMID: 250493
+ITEM: Informational Item Regarding the Fiscal Year 2025 Consolidated Annual Performance and Evaluation Report (CAPER) for U.S. Department of Housing and Urban Development (HUD) Programs.
+SECTION: PUBLIC NOTICES
+SECTION: Drop Items Here
+SECTION: Into this Folder
+ITEMID: 250504
+ITEM: Submission of Ballot Proposals for the June 2, 2026 Ballot.
+SECTION: ADJOURNMENT
+---RESULTS---
+R SPECIAL CITY COUNCIL MEETING RESULTS SUMMARY DATE: MONDAY, SEPTEMBER 22, 2025, COUNCIL MEETING RECORDER: MEDINA This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316435Motion/SecondVOTEO22000600ApprovedProclaiming the month of September 2025 to be “Transit Month” 3/9Unanimous; 17 not present601ApprovedProclaiming October 16, 2025, as “Remote Ocean Systems 50th Anniversary Day” 3/9Unanimous; 17 not present602A-PApprovedApproving the City Council Minutes of:Subitem A: 07/14/2025;Subitem B: 07/15/2025;Subitem C: 07/21/2025;Subitem D: 07/22/2025;Subitem E: 07/28/2025 Special;Subitem F: 07/29/2025;Subitem G: 08/04/2025 Adjourned;Subitem H: 08/05/2025 Adjourned;Subitem I: 08/11/2025 Adjourned;Subitem J: 08/12/2025 Adjourned;Subitem K: 08/18/2025 Adjourned;Subitem L: 08/19/2025 Adjourned;Subitem M: 08/25/2025 Adjourned;Subitem N: 08/26/2025 Adjourned;Subitem O: 09/01/2025 Adjourned:Subitem P: 09/02/2025 Adjourned 5/9Unanimous; 17 not present603Introduced (O-2026-14)Amending Ch 2, Art 2, Div 30, all relating to Progressive Design-Build and Construction Manager at Risk Procurement MethodsI 5/9Unanimous; 17 not present604Adopted (O-2026-9)Executing the First Amendment to the Cooperative Procurement Contract with Motorola Solutions, Inc.(NOTE: 6 votes required)O220005/9Unanimous; 17 not present605Adopted (O-2025-143)Authorizing to enter into and sign a Contract with CivicPlus, LLC, to provide an online Public Records Request Management Software Solution, for a term of five (5) years plus an additional five (5) one-year options to renew, under the terms and conditions set forth in the Contract(NOTE: 6 votes required)O220015/9Unanimous; 17 not present606Adopted (O-2026-10)Authorizing to enter into Joint Use Agreements with the San Diego Unified School District for the construction, operation, maintenance, and use of the joint use facilities at Cadman Elementary School, Carson Elementary School, Holmes Elementary School, Joyner Elementary School, Montgomery Middle School, and Pacific Beach Elementary School(NOTE: 6 votes required)O220025/9Unanimous; 17 not present607Adopted (R-2026-73)Approving the First Amendment to the Pipeline Master Installation and Maintenance Agreement with the USA for use of the public right of way for a fuel pipeline in the Rosecrans, Midway, and Morena areas of San DiegoR3164355/9Unanimous; 17 not present608Adopted (R-2026-67)Authorizing the settlement of Vernon Watts, Jr. related to a claim for personal injuries sustained from a traffic collision with a SDPD patrol vehicle while driving through the intersection of 2300 Clairemont DriveR3164365/9Unanimous; 17 not present609Adopted (R-2026-40)Confirming the reappointments of Austin Evans, Jenna Hanson, Sunny Lee, Sarah Mattinson, Natasha Salgado, and Juliet Terramin, to the Small Business Advisory BoardR3164375/9Unanimous; 17 not present610Adopted (R-2026-85)Confirming the appointment of Heidi Knuff to the International Affairs BoardR3164385/9Unanimous; 17 not present611Adopted (R-2026-86)Confirming the appointment of Chris Ryall to the Board of Library CommissionersR3164395/9Unanimous; 17 not present612Adopted (R-2026-82)Declaring a Continued State of Emergency Regarding Raw Sewage, Solid Waste, and Sediment Coming from Tijuana, MexicoR3164405/9Unanimous; 17 not present614Adopted (R-2026-101)Appointing alternate members to the Ad Hoc Committee to recruit and provide advisory recommendations to the Council related to the appointment of the Executive Director of the CPP and designating the labor negotiators for the appointment(NOTE: Not subject to Mayor’s veto)R3164415/9Unanimous; 17 not present613Item PresentedPresenting Informational Item Regarding the FY 2025 CAPER for U.S. Department of HUD Programs QUITQ *COMMENTS Non-Agenda Public Comment: PC-1: Allegedly Audra commented on socialism concerns. PC-2 (virtual): Blair Beekman commented on parking issues, socialism, and Charlie Kirk. PC-3 (virtual): Joy Sunyata commented on part 3 of the Grand Jury Report on Gaslamp. PC-4 (virtual): Kathleen Lippitt commented on the prediction of autism spectrum and Tylenol. PC-5 (virtual): Ernie Casco commented on Torrey Pines Gliderport. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: CC-1: Councilmember Campbell addressed a lockdown at Clairemont High School due to a potential shooting threat, thanking San Diego Police Department, school officials, and first responders for ensuring safety. She called gun threats in schools unacceptable and highlighted the rise in gun violence since the 2004 expiration of the federal assault weapons ban. Councilmember Campbell noted gun violence as the leading cause of death for U.S. children and teens since 2020, she urged stronger action to address the crisis. Her office remains in contact with law enforcement and will keep residents updated on the lockdown. CC-2: Councilmember von Wilpert announced that the first flights into San Diego’s new Terminal 1 begin tonight. As Infrastructure Chair and Airport Authority member, she highlighted the $3.8 billion project’s on-time, on-budget completion, crediting the project labor agreement. Councilmember von Wilpert said starting tomorrow, all Terminal 1 travel will go through the new facility, with demolition of the old terminal and ongoing construction to follow. She called the project a major success expected to boost the economy and improve travel. CC-3: Council President Pro Tem Lee thanked Councilmember von Wilpert for her leadership and Councilmember Campbell for her remarks. He noted that such incidents are not unique to any one neighborhood, citing a recent case at Mira Mesa High School where a student was detained with a loaded handgun. Council President Pro Tem Lee also thanked San Diego Police Department and the San Diego Unified School District for their efforts in addressing these situations. Report Out from Closed Session: None. Council President Pro Tem Lee adjourned the meeting at 2:49 p.m. 
+
+===MEETING_6804===
+---ITEMS---
+SECTION: ROLL CALL
+SECTION: INVOCATION
+SECTION: LAND ACKNOWLEDGEMENT
+SECTION: PLEDGE OF ALLEGIANCE
+SECTION: PUBLIC COMMENT ON CLOSED SESSION
+SECTION: MONDAY, (DATE) AT 2:00 PM
+SECTION: ROLL CALL
+SECTION: NON-AGENDA COMMUNICATIONS FROM MAYOR, COUNCIL, INDEPENDENT BUDGET ANALYST, CITY CLERK, CITY ATTORNEY
+SECTION: REQUESTS FOR CONTINUANCE BY COUNCILMEMBERS
+SECTION: INFORMATIONAL ITEMS
+SECTION: INFORMATIONAL ITEMS
+SECTION: 2PM INFORMATIONAL ITEMS
+ITEMID: 253920
+ITEM: Public Utilities FY 2027-2031 Five-Year Financial Outlook.
+SECTION: ADOPTION AGENDA, DISCUSSION ITEMS
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, ORDINANCES TO BE ADOPTED:
+ITEMID: 254166
+ITEM: Amendments to Chapter 2, Article 7, Divisions 1, 2, 3, 4, 6, 7, 8, and 9 of the San Diego Municipal Code All Related to Elections.
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, ORDINANCES TO BE INTRODUCED WITH RESOLUTIONS TO BE ADOPTED:
+ITEMID: 253967
+ITEM: Calling a Municipal Primary Election and a Municipal Special Election in the City of San Diego to be held on Tuesday, June 2, 2026 and Consolidating Elections with the Statewide Primary Election.
+SECTION: ADOPTION AGENDA
+SECTION: DISCUSSION, RESOLUTIONS TO BE ADOPTED:
+ITEMID: 254205
+ITEM: San Diego City Council Hearing on the Removal of Alec Beyer from the District 2 Seat on the City of San Diego Commission on Police Practices.
+SECTION: NON-AGENDA PUBLIC COMMENT
+SECTION: PUBLIC NOTICES
+ITEMID: 254164
+ITEM: Submission of Ballot Proposals for the June 2, 2026 Ballot.
+ITEMID: 254168
+ITEM: Submission of Ballot Proposals for the November 3, 2026 Ballot.
+ITEMID: 254165
+ITEM: Ballot Propositions Forwarded for 2ND Committee Review.
+ITEMID: 254259
+ITEM: Approval of the final map “BLUEPRINT CONDOMINIUMS.”
+SECTION: NON-AGENDA ITEMS
+SECTION: REPORT OUT FROM CLOSED SESSION
+SECTION: ADJOURNMENT IN HONOR OF APPROPRIATE PARTIES
+SECTION: ADJOURNMENT
+---RESULTS---
+RCITY COUNCIL MEETING RESULTS SUMMARY DATE: MONDAY, JANUARY 12, 2026, COUNCIL MEETING RECORDER: MEDINA This is a summary of the actions taken by the City Council. It is NOT equivalent to the Minutes which,when approved by the City Council, constitute the official record of the meeting.ITEMNO.ACTIONSR316566Motion/SecondVOTEO22028200Item PresentedPresenting Public Utilities FY 2027-2031 Five-Year Financial Outlook 201Adopted (O-2026-56 Cor. Copy)Amending Ch 2 of the SDMC by amending the title of Art 7; amending Ch 2, Article 7, Division 1 all related to electionsO220283/9Unanimous; 7-not present 202AIntroduced and Adopted (O-2026-66)Calling a Municipal Primary Election in the CoSD on Tuesday, June 2, 2026, and consolidating the Municipal Primary Election with the California State Primary Election to be held on the same date, for the purpose of electing candidates for the office of Councilmember for Council Districts 2, 4, 6, and 8(NOTE: Not subject to Mayor’s veto)O220292/5Unanimous; 7-not present 202BAdopted (R-2026-237)Requesting the consolidation of a Municipal Primary Election to be held in the CoSD on Tuesday, June 2, 2026, with the California State Primary Election to be held on the same date(NOTE: Not subject to Mayor’s veto)R3165662/5Unanimous; 7-not present 202CIntroduced and Adopted (O-2026-67)Calling a Municipal Special Election in the CoSD on Tuesday, June 2, 2026, for the purpose of submitting to the qualified voters of the City one or more ballot measures; and consolidating the Municipal Special Election with the California State Primary Election to be held on the same date(NOTE: Not subject to Mayor’s veto)O220302/5Unanimous; 7-not present 202DAdopted (R-2026-238)Requesting the consolidation of a Municipal Special Election to be held in the CoSD on Tuesday, June 2, 2026, with the California State Primary Election to be held on the same date(NOTE: Not subject to Mayor’s veto)R3165672/5Unanimous; 7-not present203Adopted (R-2026-253 Rev. Cor. Copy)Considering the removal of Alec Beyer from the Council District 2 seat on the CPP(NOTE: Not subject to Mayor’s veto)R3165682/3Unanimous; 7-not present QUIT **COMMENTS Non-Agenda Public Comment: PC-1: Tim Arnous commented on beach clean-up. PC-2: Ramses L. commented on Dan Gold firing. PC-3: Anthony Ralphs commented on flock surveillance. PC-4 (virtual): Blair Beekman commented flock surveillance and demilitarization. PC-5 (virtual): Becky Rapp commented on marijuana advertising. PC-6 (virtual): Francine Maxwell commented on town halls meetings. PC-7 (virtual): Terri-Ann Skelly commented on environmental secondhand smoke and vape. PC-8 (virtual): Peggy Walker commented on impacts of marijuana. PC-9 (virtual): Madison commented on marijuana policies. PC-10 (virtual): Ernie Casco commented on Torrey Pines Gliderport. PC-11 (virtual): Bob Kuczewski commented on Torrey Pines Gliderport. Mayor, Council, City Attorney, Independent Budget Analyst, City Clerk Comment: CC-1: Councilmember von Wilpert commented that over the weekend in Jackson, Mississippi, the only synagogue was burned by a self-proclaimed white supremacist. She said the community is devastated, luckily no one was hurt. Councilmember von Wilpert stated the silver lining is nearly every other faith community has offered them space. She noted hate continues to permeate our communities, and we must stand up against it. Councilmember von Wilpert addressed the shooting and killing of Renee Good in Minneapolis. She stated this horrific incident was a result of the escalation of Trump’s direction of ICE agents. Councilmember von Wilpert mentioned we’ve seen this escalation on our city streets, where ICE causes havoc. She said ICE agents use battering rams to enter homes, actions our police cannot do without a warrant under the Fourth Amendment. Councilmember von Wilpert expressed her heart goes out to the people of Minneapolis, and didn’t want this to go unnoticed. Report Out from Closed Session: None. Council President LaCava adjourned the meeting at 4:23 p.m. 
+

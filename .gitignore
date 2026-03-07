@@ -1,5 +1,10 @@
-__pycache__/
 *.pyc
+.DS_Store
+data/
+__pycache__/
+*.duckdb
+*.duckdb.wal
+node_modules/
 .venv/
 .env
-.DS_Store
+frontend/dist/

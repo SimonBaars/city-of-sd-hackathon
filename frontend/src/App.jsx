@@ -2,7 +2,7 @@ import React, { useState, useCallback } from "react";
 import { streamChat } from "./api";
 import ChatPanel from "./components/ChatPanel";
 import MapPanel from "./components/MapPanel";
-import { Database, Sparkles } from "lucide-react";
+import { Database, Sparkles, Map, X } from "lucide-react";
 
 const SUGGESTED_QUESTIONS = [
   {
@@ -46,14 +46,20 @@ const SUGGESTED_QUESTIONS = [
 const CHIP_COLORS = {
   rose: "bg-rose-500/10 text-rose-400 border-rose-500/20 hover:bg-rose-500/20",
   sky: "bg-sky-500/10 text-sky-400 border-sky-500/20 hover:bg-sky-500/20",
-  amber: "bg-amber-500/10 text-amber-400 border-amber-500/20 hover:bg-amber-500/20",
-  emerald: "bg-emerald-500/10 text-emerald-400 border-emerald-500/20 hover:bg-emerald-500/20",
+  amber:
+    "bg-amber-500/10 text-amber-400 border-amber-500/20 hover:bg-amber-500/20",
+  emerald:
+    "bg-emerald-500/10 text-emerald-400 border-emerald-500/20 hover:bg-emerald-500/20",
 };
 
 export default function App() {
   const [messages, setMessages] = useState([]);
   const [mapLayers, setMapLayers] = useState([]);
+  const [mapChoropleths, setMapChoropleths] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [showMapPanel, setShowMapPanel] = useState(false);
+
+  const hasMapData = mapLayers.length > 0 || mapChoropleths.length > 0;
 
   const handleSend = useCallback(
     async (text) => {
@@ -103,17 +109,31 @@ export default function App() {
                 break;
               case "artifacts":
                 last.artifacts = event.artifacts;
-                // Extract map layers
-                const newMapLayers = event.artifacts
-                  .filter((a) => a.type === "map_points")
-                  .map((a) => ({
-                    id: a.id,
-                    title: a.title,
-                    points: a.data,
-                    config: a.config,
-                  }));
-                if (newMapLayers.length > 0) {
-                  setMapLayers((prev) => [...prev, ...newMapLayers]);
+                for (const a of event.artifacts) {
+                  if (a.type === "map_points") {
+                    setMapLayers((prev) => [
+                      ...prev,
+                      {
+                        id: a.id,
+                        title: a.title,
+                        points: a.data,
+                        config: a.config,
+                      },
+                    ]);
+                    setShowMapPanel(true);
+                  }
+                  if (a.type === "choropleth") {
+                    setMapChoropleths((prev) => [
+                      ...prev,
+                      {
+                        id: a.id,
+                        title: a.title,
+                        data: a.data,
+                        config: a.config,
+                      },
+                    ]);
+                    setShowMapPanel(true);
+                  }
                 }
                 break;
               case "done":
@@ -138,7 +158,7 @@ export default function App() {
 
       setIsLoading(false);
     },
-    [messages, isLoading]
+    [messages, isLoading],
   );
 
   const showSuggestions = messages.length === 0;
@@ -146,7 +166,7 @@ export default function App() {
   return (
     <div className="h-full flex flex-col">
       {/* Header */}
-      <header className="flex-none bg-navy-800 border-b border-slate-700/50 px-6 py-3">
+      <header className="flex-none bg-navy-800 border-b border-slate-700/50 px-4 sm:px-6 py-3">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
             <div className="w-9 h-9 bg-sky-500/20 rounded-lg flex items-center justify-center">
@@ -156,29 +176,67 @@ export default function App() {
               <h1 className="text-lg font-semibold text-white leading-tight">
                 OpenSD
               </h1>
-              <p className="text-xs text-slate-400">
+              <p className="text-xs text-slate-400 hidden sm:block">
                 San Diego's open data, explored by AI
               </p>
             </div>
           </div>
-          <div className="flex items-center gap-2 text-xs text-slate-500">
-            <Sparkles className="w-3.5 h-3.5" />
-            Powered by Claude
+          <div className="flex items-center gap-3">
+            {hasMapData && (
+              <button
+                onClick={() => setShowMapPanel((v) => !v)}
+                className={`flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border transition-colors sm:hidden ${
+                  showMapPanel
+                    ? "bg-sky-500/20 border-sky-500/30 text-sky-300"
+                    : "bg-slate-800/80 border-slate-600/50 text-slate-400"
+                }`}
+              >
+                <Map className="w-3.5 h-3.5" />
+                Map
+              </button>
+            )}
+            <div className="flex items-center gap-2 text-xs text-slate-500">
+              <Sparkles className="w-3.5 h-3.5" />
+              <span className="hidden sm:inline">Powered by Claude</span>
+            </div>
           </div>
         </div>
       </header>
 
       {/* Main content */}
-      <div className="flex-1 flex min-h-0">
-        {/* Map panel */}
-        <div className="w-[55%] border-r border-slate-700/50">
-          <MapPanel layers={mapLayers} />
-        </div>
+      <div className="flex-1 flex min-h-0 relative">
+        {/* Map panel - desktop: side panel when data exists; mobile: overlay */}
+        {hasMapData && (
+          <div
+            className={`${
+              showMapPanel ? "flex" : "hidden"
+            } sm:flex flex-col border-r border-slate-700/50
+            absolute inset-0 z-20 sm:relative sm:z-auto sm:w-[55%]`}
+          >
+            <div className="sm:hidden absolute top-3 left-3 z-[1001]">
+              <button
+                onClick={() => setShowMapPanel(false)}
+                className="flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg bg-slate-900/90 border border-slate-600/50 text-slate-300 backdrop-blur-sm"
+              >
+                <X className="w-3.5 h-3.5" />
+                Back to chat
+              </button>
+            </div>
+            <MapPanel
+              layers={mapLayers}
+              choropleths={mapChoropleths}
+            />
+          </div>
+        )}
 
-        {/* Chat panel */}
-        <div className="w-[45%] flex flex-col min-h-0">
+        {/* Chat panel - full width on mobile, or when no map data on desktop */}
+        <div
+          className={`flex flex-col min-h-0 w-full ${
+            hasMapData ? "sm:w-[45%]" : ""
+          }`}
+        >
           {showSuggestions && (
-            <div className="flex-none p-4 border-b border-slate-700/30 overflow-y-auto max-h-[45%]">
+            <div className="flex-none p-4 border-b border-slate-700/30 overflow-y-auto max-h-[55vh] sm:max-h-[45%]">
               <p className="text-sm text-slate-400 mb-3">
                 Ask anything about San Diego civic data:
               </p>

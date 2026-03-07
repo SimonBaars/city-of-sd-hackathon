@@ -70,16 +70,21 @@ TOOLS = [
         "name": "create_visualization",
         "description": (
             "Create a visualization for the user. Call this AFTER querying data "
-            "when results would benefit from a visual. The frontend renders it. "
-            "For charts, provide data as an array of objects. "
-            "For maps, each object needs lat and lng fields."
+            "when results would benefit from a visual. The frontend renders it inline.\n"
+            "Types:\n"
+            "- bar_chart, line_chart, pie_chart: standard charts with x_key/y_keys\n"
+            "- table: data table\n"
+            "- map_points: points on a map. Each object needs lat/lng. Use color_key to "
+            "color points by a category field, size_key to scale radius by a numeric field.\n"
+            "- choropleth: colors council districts by value. Data should have a 'district' "
+            "field (1-9) and a numeric 'value' field. Great for per-district comparisons."
         ),
         "input_schema": {
             "type": "object",
             "properties": {
                 "type": {
                     "type": "string",
-                    "enum": ["bar_chart", "line_chart", "pie_chart", "table", "map_points"],
+                    "enum": ["bar_chart", "line_chart", "pie_chart", "table", "map_points", "choropleth"],
                 },
                 "title": {"type": "string"},
                 "data": {
@@ -93,9 +98,12 @@ TOOLS = [
                     "items": {"type": "string"},
                     "description": "Keys for y-axis values",
                 },
-                "lat_key": {"type": "string", "description": "Latitude field (maps)"},
-                "lng_key": {"type": "string", "description": "Longitude field (maps)"},
-                "label_key": {"type": "string", "description": "Label field (maps)"},
+                "lat_key": {"type": "string", "description": "Latitude field (map_points)"},
+                "lng_key": {"type": "string", "description": "Longitude field (map_points)"},
+                "label_key": {"type": "string", "description": "Label field for popups (map_points) or district label (choropleth)"},
+                "color_key": {"type": "string", "description": "Category field to color points by (map_points)"},
+                "size_key": {"type": "string", "description": "Numeric field to scale point radius (map_points)"},
+                "value_key": {"type": "string", "description": "Numeric field for choropleth coloring"},
             },
             "required": ["type", "title", "data"],
         },
@@ -115,13 +123,13 @@ You help residents, journalists, city staff, and researchers explore civic data 
 4. **Explain** — provide clear, accessible analysis. Cite specific numbers. Note caveats.
 5. **Be efficient** — minimize tool rounds. Combine queries when possible. Don't call list_tables if the table list below already tells you what you need.
 
-## Council Voting Data
-Three tables capture San Diego City Council voting records (Dec 2025 – Mar 2026):
-- **council_members**: name (PK), district (1-9). Current members: Joe LaCava (D1), Jennifer Campbell (D2), Stephen Whitburn (D3), Henry Foster III (D4), Marni von Wilpert (D5), Kent Lee (D6), Raul Campillo (D7), Vivian Moreno (D8), Sean Elo-Rivera (D9).
-- **vote_items**: item_id (PK), date, item_number, item_title, meeting_id, policy_tag (Housing/Public Safety/Climate/Infrastructure/Budget/Transportation/Land Use/Health/Education/Other), summary.
-- **council_votes**: item_id, member_name, vote (yes/no/absent), date. Join to vote_items on item_id, to council_members on member_name.
+## Council Voting Data (Jan 2025 – Mar 2026, 1216 items, 72 meetings)
+Three tables capture San Diego City Council voting records:
+- **council_members**: name (PK), district (1-9). Members: Joe LaCava (D1), Jennifer Campbell (D2), Stephen Whitburn (D3), Henry Foster III (D4), Marni von Wilpert (D5), Kent Lee (D6), Raul Campillo (D7), Vivian Moreno (D8), Sean Elo-Rivera (D9).
+- **vote_items**: item_id (PK), date, item_number, description, action (Adopted/Introduced/etc), reference (ordinance/resolution number), motion_by, second_by, unanimous (bool), vote_raw, meeting_id, source_url.
+- **council_votes**: item_id, member_name, vote (yes/no/absent/recused), date. Join to vote_items on item_id, to council_members on member_name.
 
-Useful voting queries: attendance rates (absent vs total), agreement matrices (how often pairs vote the same), policy breakdowns by member, unanimous vs contentious votes.
+Useful voting queries: attendance rates (absent vs total), agreement matrices (how often pairs vote the same way on non-unanimous items), who makes the most motions, unanimous vs contentious (137 split votes), and cross-referencing council_district with other civic data.
 
 ## Key cross-reference fields
 - **council_district** (10+ tables): political districts 1-9. Links to council_members.district.

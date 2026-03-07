@@ -3,6 +3,7 @@ import remarkGfm from "remark-gfm";
 import { User, Bot, Loader2, Database } from "lucide-react";
 import ChartWidget from "./ChartWidget";
 import TableWidget from "./TableWidget";
+import InlineMap from "./InlineMap";
 
 function ToolCallIndicator({ toolCalls }) {
   if (!toolCalls?.length) return null;
@@ -41,9 +42,12 @@ function ArtifactRenderer({ artifact }) {
     return <TableWidget artifact={artifact} />;
   }
   if (artifact.type === "map_points") {
+    return <InlineMap artifact={artifact} />;
+  }
+  if (artifact.type === "choropleth") {
     return (
-      <div className="text-xs text-sky-400 bg-sky-500/10 border border-sky-500/20 rounded-lg px-3 py-2 mt-2">
-        📍 {artifact.data?.length || 0} points added to the map: {artifact.title}
+      <div className="text-xs text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 rounded-lg px-3 py-2 mt-2">
+        🗺 District choropleth added to map: {artifact.title}
       </div>
     );
   }
@@ -73,11 +77,11 @@ export default function MessageBubble({ message }) {
 
   return (
     <div className="flex justify-start">
-      <div className="max-w-[95%] flex items-start gap-2">
+      <div className="max-w-[95%] sm:max-w-[95%] w-full flex items-start gap-2">
         <div className="flex-none w-7 h-7 rounded-full bg-emerald-500/20 flex items-center justify-center mt-0.5">
           <Bot className="w-3.5 h-3.5 text-emerald-400" />
         </div>
-        <div className="min-w-0">
+        <div className="min-w-0 flex-1">
           <ToolCallIndicator toolCalls={message.toolCalls} />
 
           {isThinking && (

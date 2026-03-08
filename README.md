@@ -6,7 +6,7 @@ An AI-powered civic data explorer that lets anyone query, visualize, and cross-r
 
 **Live at [opensd.app](https://opensd.app)**
 
-<video src="./video.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/0407d042-de8e-4121-aa08-51867d132036
 
 ---
 

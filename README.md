@@ -10,10 +10,13 @@ An AI-powered civic data explorer that lets anyone query, visualize, and cross-r
 
 ## Team
 
+**Team name:** OpenSD.app
+
 - **Nathan** — vibes
 - **Simon** — more vibes
 - **Ari** — domain knowledge and more vibes
 - **Amin** — superior vibes
+- **Aiden** — MCP Developer Tooling Engineer
 
 ---
 

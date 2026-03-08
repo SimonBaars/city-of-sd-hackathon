@@ -6,7 +6,7 @@ An AI-powered civic data explorer that lets anyone query, visualize, and cross-r
 
 **Live at [opensd.app](https://opensd.app)**
 
-<video src="./video.mp4" controls width="100%"></video>
+https://github.com/SimonBaars/OpenSD/raw/main/video.mp4
 
 ---
 
@@ -141,4 +141,4 @@ The app is deployed on a Linode (Ubuntu 24.04) at [opensd.app](https://opensd.ap
 ## Links
 
 - **Live app**: [https://opensd.app](https://opensd.app)
-- **Repository**: [github.com/SimonBaars/opensd](https://github.com/SimonBaars/opensd)
+- **Repository**: [github.com/SimonBaars/OpenSD](https://github.com/SimonBaars/OpenSD)

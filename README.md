@@ -6,6 +6,8 @@ An AI-powered civic data explorer that lets anyone query, visualize, and cross-r
 
 **Live at [opensd.app](https://opensd.app)**
 
+<video src="https://github.com/SimonBaars/city-of-sd-hackathon/raw/main/video.mp4" controls width="100%"></video>
+
 ---
 
 ## Team

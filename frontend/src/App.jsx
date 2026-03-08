@@ -16,6 +16,16 @@ const SUGGESTED_QUESTIONS = [
     ],
   },
   {
+    category: "Meeting Transcripts",
+    color: "orange",
+    questions: [
+      "Which docket items generated the longest discussions? Show the top 10",
+      "What topics were discussed in the longest council meeting of 2025?",
+      "Show the council meeting agenda items that were approved unanimously vs continued",
+      "Search the meeting transcripts for discussions mentioning housing or homelessness",
+    ],
+  },
+  {
     category: "Neighborhood Issues",
     color: "sky",
     questions: [
@@ -69,6 +79,8 @@ const SUGGESTED_QUESTIONS = [
 
 const CHIP_COLORS = {
   rose: "bg-rose-500/10 text-rose-400 border-rose-500/20 hover:bg-rose-500/20",
+  orange:
+    "bg-orange-500/10 text-orange-400 border-orange-500/20 hover:bg-orange-500/20",
   sky: "bg-sky-500/10 text-sky-400 border-sky-500/20 hover:bg-sky-500/20",
   amber:
     "bg-amber-500/10 text-amber-400 border-amber-500/20 hover:bg-amber-500/20",

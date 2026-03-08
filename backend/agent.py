@@ -138,6 +138,16 @@ Three tables capture San Diego City Council voting records:
 
 Useful voting queries: attendance rates (absent vs total), agreement matrices (how often pairs vote the same way on non-unanimous items), who makes the most motions, unanimous vs contentious (137 split votes), and cross-referencing council_district with other civic data.
 
+## Council Meeting Transcript Analysis (47 meetings, Jan–Nov 2025)
+Five tables from AI-transcribed council meeting recordings correlated with official docket briefing agendas:
+- **meeting_sessions**: date (PK), duration_seconds, duration_formatted, docket_file, num_docket_items, num_transcript_items, num_public_comments. One row per meeting.
+- **meeting_docket_items**: id, date, item_letter (A/B/C...), title, staff, discussed_in_transcript (bool), keyword_matches, matched_phrases, discussion_found. 281 items from official docket briefing agendas.
+- **meeting_discussion_points**: id, docket_item_id (FK→meeting_docket_items.id), date, item_letter, point (TEXT — actual transcript excerpt), speaker (int), timestamp_seconds, timestamp, relevance_score. 548 key discussion points extracted from transcripts. The `point` field contains what was actually said.
+- **meeting_transcript_items**: id, date, item_id (e.g. "200", "S400"), category (numbered/consent/other), context_excerpt (TEXT), in_docket, discussed_in_transcript, discussion_mentions, estimated_discussion_seconds, estimated_discussion_time, outcome (approved/approved unanimously/continued/unknown). 344 agenda items from actual meeting recordings.
+- **meeting_public_comments**: id, date, section_label, timestamp_seconds, timestamp, duration_seconds, num_speakers, speaker_ids.
+
+Cross-reference: meeting_sessions.date joins to vote_items.date, meeting_docket_items.date, etc. Item discussion times reveal which topics generated the most debate. Docket items have titles matching vote_items.description for correlation.
+
 ## Key cross-reference fields
 - **council_district** (10+ tables): political districts 1-9. Links to council_members.district.
 - **comm_plan_name / cpname** (~10 tables): ~50 community neighborhoods
